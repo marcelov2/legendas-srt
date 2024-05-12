@@ -1,1391 +1,4117 @@
 1
-00:01:02,000 --> 00:01:09,000
-<font size="20px" color ="FFFF00">Com exclusividade para o
-LEGENDAS.TV</font>
+00:01:26,511 --> 00:01:29,727
+<font size="18px" color ="FFFFFF"><b>O AMOR SANGRA</b></font>
 
 2
-00:01:09,001 --> 00:01:17,000
-<font size="20px" color ="FFFF00">Numa versão de
-MarcusVR</font>
+00:01:29,810 --> 00:01:31,810
+<font size="18px" color ="FFFFFF"><i><b>Tradução: Myriam</b></i></font>
 
 3
-00:01:47,520 --> 00:01:50,717
-<font size="20px" color ="FFFF00">LÍRIOS AQUÁTICOS</font>
+00:01:39,041 --> 00:01:41,041
+<font size="18px" color ="FFFFFF">ACADEMIA CRATERA</font>
 
 4
-00:02:04,560 --> 00:02:07,154
-<font size="20px" color ="FFFF00">Este foi o time das mascotes.</font>
+00:02:28,111 --> 00:02:30,406
+<font size="18px" color ="FFFFFF">SÓ PERDEDORES DESISTEM</font>
 
 5
-00:04:10,520 --> 00:04:13,990
-<font size="20px" color ="FFFF00">Este ballet foi apresentado
-pela equipe júnior,</font>
+00:02:46,338 --> 00:02:49,383
+<font size="18px" color ="FFFFFF">A DOR É A FRAQUEZA
+DEIXANDO O CORPO</font>
 
 6
-00:04:14,200 --> 00:04:16,395
-<font size="20px" color ="FFFF00">com Hélène,</font>
+00:03:07,027 --> 00:03:08,427
+<font size="18px" color ="FFFFFF">Lou-Lou!</font>
 
 7
-00:04:17,600 --> 00:04:19,079
-<font size="20px" color ="FFFF00">Marie,</font>
+00:03:10,267 --> 00:03:11,618
+<font size="18px" color ="FFFFFF">Lou-Lou!</font>
 
 8
-00:04:19,400 --> 00:04:20,992
-<font size="20px" color ="FFFF00">Nina,</font>
+00:03:12,959 --> 00:03:14,036
+<font size="18px" color ="FFFFFF">Lou-Lou!</font>
 
 9
-00:04:21,400 --> 00:04:22,992
-<font size="20px" color ="FFFF00">Joanna,</font>
+00:03:16,630 --> 00:03:18,454
+<font size="18px" color ="FFFFFF">- Aí está você.
+- Oi, Daisy.</font>
 
 10
-00:04:23,360 --> 00:04:24,713
-<font size="20px" color ="FFFF00">Aida,</font>
+00:03:18,537 --> 00:03:20,706
+<font size="18px" color ="FFFFFF">Parece que está de mãos cheias.</font>
 
 11
-00:04:25,640 --> 00:04:27,153
-<font size="20px" color ="FFFF00">Manon,</font>
+00:03:21,708 --> 00:03:22,708
+<font size="18px" color ="FFFFFF">Estou.</font>
 
 12
-00:04:27,640 --> 00:04:29,596
-<font size="20px" color ="FFFF00">e sua capitã...</font>
+00:03:32,116 --> 00:03:33,269
+<font size="18px" color ="FFFFFF">Viva.</font>
 
 13
-00:04:32,440 --> 00:04:34,032
-<font size="20px" color ="FFFF00">Floriane.</font>
+00:03:33,352 --> 00:03:34,428
+<font size="18px" color ="FFFFFF">Legal.</font>
 
 14
-00:05:11,440 --> 00:05:13,431
-<font size="20px" color ="FFFF00">Eu estava nervosa por
-causa de meus pais.</font>
+00:03:36,276 --> 00:03:37,320
+<font size="18px" color ="FFFFFF">EQUIPE</font>
 
 15
-00:05:57,800 --> 00:05:58,755
-<font size="20px" color ="FFFF00">Você está bem?</font>
+00:03:41,983 --> 00:03:43,102
+<font size="18px" color ="FFFFFF">E aí, Daisy?</font>
 
 16
-00:05:58,960 --> 00:06:01,952
-<font size="20px" color ="FFFF00">Estou esperando meu maiô secar.</font>
+00:03:43,951 --> 00:03:47,162
+<font size="18px" color ="FFFFFF">Será que você não quer
+sair comigo mais tarde?</font>
 
 17
-00:06:06,240 --> 00:06:08,356
-<font size="20px" color ="FFFF00">Esqueci as calcinhas.</font>
+00:03:48,335 --> 00:03:49,443
+<font size="18px" color ="FFFFFF">Ir ao Winkie's.</font>
 
 18
-00:06:25,480 --> 00:06:27,038
-<font size="20px" color ="FFFF00">Desculpe.</font>
+00:03:51,189 --> 00:03:54,990
+<font size="18px" color ="FFFFFF">Preciso ajudar a Beth
+com umas chatices…</font>
 
 19
-00:06:54,920 --> 00:06:58,469
-<font size="20px" color ="FFFF00">-Você perdeu a hora.
--Tive que esperar para usar o secador.</font>
+00:03:57,100 --> 00:03:58,841
+<font size="18px" color ="FFFFFF">Pobre Lou-Lou.</font>
 
 20
-00:07:12,360 --> 00:07:14,191
-<font size="20px" color ="FFFF00">Estou um pouco assustada.</font>
+00:03:58,924 --> 00:04:01,349
+<font size="18px" color ="FFFFFF">Sempre cuidando da irmã.</font>
 
 21
-00:08:39,440 --> 00:08:40,953
-<font size="20px" color ="FFFF00">Quanto?</font>
+00:04:02,019 --> 00:04:04,625
+<font size="18px" color ="FFFFFF">Não pode se esquecer
+das suas necessidades.</font>
 
 22
-00:08:41,320 --> 00:08:43,151
-<font size="20px" color ="FFFF00">Sei lá. Pouco.</font>
+00:04:04,708 --> 00:04:07,446
+<font size="18px" color ="FFFFFF">Também tenho uns negócios
+para terminar aqui.</font>
 
 23
-00:08:43,360 --> 00:08:45,078
-<font size="20px" color ="FFFF00">Iniciantes.</font>
+00:04:07,529 --> 00:04:08,637
+<font size="18px" color ="FFFFFF">Você tem tempo.</font>
 
 24
-00:08:46,640 --> 00:08:49,632
-<font size="20px" color ="FFFF00">Você pode se inscrever em setembro.</font>
+00:04:08,720 --> 00:04:10,214
+<font size="18px" color ="FFFFFF">Beba uma por minha conta.</font>
 
 25
-00:08:51,040 --> 00:08:53,156
-<font size="20px" color ="FFFF00">-Olá.
--Ôi, Floriane.</font>
+00:04:11,840 --> 00:04:13,217
+<font size="18px" color ="FFFFFF">Não precisa fazer isso.</font>
 
 26
-00:08:54,920 --> 00:08:56,433
-<font size="20px" color ="FFFF00">Posso entrar agora?</font>
+00:04:13,300 --> 00:04:14,854
+<font size="18px" color ="FFFFFF">Por que não? Sem problema.</font>
 
 27
-00:08:56,800 --> 00:09:01,157
-<font size="20px" color ="FFFF00">Traga isto em um mês com um
-atestado médico e um cheque.</font>
+00:04:15,886 --> 00:04:18,019
+<font size="18px" color ="FFFFFF">Divirta-se. Outra hora a gente sai.</font>
 
 28
-00:09:04,560 --> 00:09:06,551
-<font size="20px" color ="FFFF00">-Até logo.
--Até.</font>
+00:04:19,349 --> 00:04:20,349
+<font size="18px" color ="FFFFFF">Mas…</font>
 
 29
-00:09:13,080 --> 00:09:16,675
-<font size="20px" color ="FFFF00">-Um é mais pesado.
--Minha mãe saiu a noite.</font>
+00:04:25,562 --> 00:04:26,730
+<font size="18px" color ="FFFFFF">ACADEMIA</font>
 
 30
-00:09:20,960 --> 00:09:22,996
-<font size="20px" color ="FFFF00">Há uma festa hoje a noite.</font>
+00:05:00,912 --> 00:05:01,913
+<font size="18px" color ="FFFFFF">Oi, amigo.</font>
 
 31
-00:09:23,240 --> 00:09:25,549
-<font size="20px" color ="FFFF00">Na casa de uma das garotas.</font>
+00:05:11,441 --> 00:05:13,441
+<font size="18px" color ="FFFFFF">LANCHE FELIZ</font>
 
 32
-00:09:26,040 --> 00:09:27,678
-<font size="20px" color ="FFFF00">Todos irão.</font>
+00:05:14,820 --> 00:05:16,629
+<font size="18px" color ="FFFFFF"><i>Ao fumar um cigarro,</i></font>
 
 33
-00:09:27,880 --> 00:09:31,031
-<font size="20px" color ="FFFF00">Os caras do pólo... As
-garotas do sincronizado.</font>
+00:05:17,618 --> 00:05:19,939
+<font size="18px" color ="FFFFFF"><i>inala uma droga chamada nicotina.</i></font>
 
 34
-00:09:44,720 --> 00:09:48,349
-<font size="20px" color ="FFFF00">18,2 centímetros.
-Aumentou 20 milímetros.</font>
+00:05:21,026 --> 00:05:24,228
+<font size="18px" color ="FFFFFF"><i>Pode substituir a palavra "droga"
+por veneno.</i></font>
 
 35
-00:09:48,560 --> 00:09:51,393
-<font size="20px" color ="FFFF00">-Super.
--Cala a boca, está bom.</font>
+00:05:25,191 --> 00:05:28,807
+<font size="18px" color ="FFFFFF"><i>Como tudo que não é construído
+sobre uma fundação sólida,</i></font>
 
 36
-00:09:51,600 --> 00:09:52,953
-<font size="20px" color ="FFFF00">Está nada.</font>
+00:05:28,890 --> 00:05:32,952
+<font size="18px" color ="FFFFFF"><i>a lavagem cerebral é tão frágil
+quanto um castelo de cartas,</i></font>
 
 37
-00:09:53,160 --> 00:09:55,037
-<font size="20px" color ="FFFF00">Quer meus 28 centímetros?</font>
+00:05:33,035 --> 00:05:35,257
+<font size="18px" color ="FFFFFF"><i>e vai colapsar em instantes.</i></font>
 
 38
-00:09:55,240 --> 00:09:58,550
-<font size="20px" color ="FFFF00">Não sei por que estou
-chateada, não sou normal.</font>
+00:05:36,037 --> 00:05:38,011
+<font size="18px" color ="FFFFFF"><i>Basta dar uma sacudida.</i></font>
 
 39
-00:09:58,760 --> 00:10:00,910
-<font size="20px" color ="FFFF00">Claro que é.</font>
+00:05:46,275 --> 00:05:47,853
+<font size="18px" color ="FFFFFF"><i>Gosta desse pau?</i></font>
 
 40
-00:10:01,120 --> 00:10:03,111
-<font size="20px" color ="FFFF00">Um braço é mais comprido.</font>
+00:05:50,484 --> 00:05:51,484
+<font size="18px" color ="FFFFFF">Porra!</font>
 
 41
-00:10:13,880 --> 00:10:15,950
-<font size="20px" color ="FFFF00">-Você foi convidada?
--Para que?</font>
+00:05:52,515 --> 00:05:53,515
+<font size="18px" color ="FFFFFF">Porra!</font>
 
 42
-00:10:16,920 --> 00:10:19,559
-<font size="20px" color ="FFFF00">A festa dos nadadores.</font>
+00:05:54,532 --> 00:05:55,700
+<font size="18px" color ="FFFFFF">Caralho!</font>
 
 43
-00:10:19,760 --> 00:10:21,637
-<font size="20px" color ="FFFF00">Eu sei onde é.</font>
+00:06:04,009 --> 00:06:05,648
+<font size="18px" color ="FFFFFF">Isso foi mágico.</font>
 
 44
-00:11:08,520 --> 00:11:12,149
-<font size="20px" color ="FFFF00">Não estou usando muito batom,
-senão eu o sujarei todo.</font>
+00:06:07,301 --> 00:06:08,705
+<font size="18px" color ="FFFFFF">Pode crer.</font>
 
 45
-00:11:12,960 --> 00:11:17,431
-<font size="20px" color ="FFFF00">Eu não quero transar já, mas
-é p que vem depois do beijo.</font>
+00:06:13,503 --> 00:06:16,298
+<font size="18px" color ="FFFFFF">Então, eu te ligo, ou…?</font>
 
 46
-00:11:19,360 --> 00:11:22,830
-<font size="20px" color ="FFFF00">Acho que os países onde as garotas
-se casam com 14 anos são legais.</font>
+00:06:16,381 --> 00:06:17,466
+<font size="18px" color ="FFFFFF">O quê?</font>
 
 47
-00:11:23,040 --> 00:11:25,315
-<font size="20px" color ="FFFF00">Tudo seria totalmente diferente então.</font>
+00:06:18,204 --> 00:06:21,113
+<font size="18px" color ="FFFFFF">- Referente ao trabalho.
+- Sim, claro.</font>
 
 48
-00:11:37,560 --> 00:11:39,596
-<font size="20px" color ="FFFF00">Eu quero beijá-lo.</font>
+00:06:21,196 --> 00:06:22,230
+<font size="18px" color ="FFFFFF">Sim.</font>
 
 49
-00:13:20,840 --> 00:13:22,239
-<font size="20px" color ="FFFF00">Que?</font>
+00:06:27,884 --> 00:06:29,244
+<font size="18px" color ="FFFFFF">Apareça amanhã.</font>
 
 50
-00:13:23,880 --> 00:13:26,269
-<font size="20px" color ="FFFF00">Eu vi sua apresentação ontem.</font>
+00:06:33,312 --> 00:06:35,592
+<font size="18px" color ="FFFFFF">Não vá dormir em qualquer lugar.</font>
 
 51
-00:13:30,880 --> 00:13:33,440
-<font size="20px" color ="FFFF00">-Foi linda.
--Verdade?</font>
+00:06:35,675 --> 00:06:36,990
+<font size="18px" color ="FFFFFF">É perigoso aqui.</font>
 
 52
-00:13:34,160 --> 00:13:35,878
-<font size="20px" color ="FFFF00">Por que?</font>
+00:06:37,073 --> 00:06:38,074
+<font size="18px" color ="FFFFFF">Certo.</font>
 
 53
-00:13:40,360 --> 00:13:42,510
-<font size="20px" color ="FFFF00">Eu gostaria de ver você treinar.</font>
+00:07:32,707 --> 00:07:35,552
+<font size="18px" color ="FFFFFF"><i>Eu descreveria
+a suspensão da nicotina</i></font>
 
 54
-00:13:48,680 --> 00:13:50,318
-<font size="20px" color ="FFFF00">Tem chiclete?</font>
+00:07:35,635 --> 00:07:39,458
+<font size="18px" color ="FFFFFF"><i>como um sentimento brando,
+vazio e levemente inseguro.</i></font>
 
 55
-00:14:07,280 --> 00:14:09,669
-<font size="20px" color ="FFFF00">Preciso de alguém para
-me por para dentro.</font>
+00:07:39,541 --> 00:07:44,386
+<font size="18px" color ="FFFFFF"><i>E a única razão pela qual alguém fuma
+é para aliviar esse sentimento.</i></font>
 
 56
-00:14:14,080 --> 00:14:15,399
-<font size="20px" color ="FFFF00">Venha.</font>
+00:07:46,020 --> 00:07:48,547
+<font size="18px" color ="FFFFFF"><i>Todos os fumantes
+caem na mesma armadilha.</i></font>
 
 57
-00:14:21,480 --> 00:14:23,516
-<font size="20px" color ="FFFF00">Estou com mau hálito?</font>
+00:07:55,912 --> 00:07:56,971
+<font size="18px" color ="FFFFFF">- Bom dia.
+- Oi.</font>
 
 58
-00:14:24,600 --> 00:14:25,953
-<font size="20px" color ="FFFF00">Certeza?</font>
+00:07:58,652 --> 00:08:00,976
+<font size="18px" color ="FFFFFF">Estamos atrasados,
+mas nada alarmante.</font>
 
 59
-00:16:00,320 --> 00:16:01,469
-<font size="20px" color ="FFFF00">Ôi.</font>
+00:08:01,059 --> 00:08:03,493
+<font size="18px" color ="FFFFFF">Nunca vai me pegar!
+Eu corro muito rápido!</font>
 
 60
-00:16:02,200 --> 00:16:03,349
-<font size="20px" color ="FFFF00">Ôi.</font>
+00:08:04,515 --> 00:08:06,750
+<font size="18px" color ="FFFFFF">Tudo bem, amigo? Devagar.</font>
 
 61
-00:16:03,640 --> 00:16:04,959
-<font size="20px" color ="FFFF00">Você está bem?</font>
+00:08:06,833 --> 00:08:09,328
+<font size="18px" color ="FFFFFF">- Perdi um dente, Lou.
+- O quê?</font>
 
 62
-00:16:08,880 --> 00:16:10,074
-<font size="20px" color ="FFFF00">Espere.</font>
+00:08:09,411 --> 00:08:11,449
+<font size="18px" color ="FFFFFF">Caramba, cara! Tenha mais cuidado.</font>
 
 63
-00:16:10,320 --> 00:16:12,356
-<font size="20px" color ="FFFF00">-O que você quer?
--Entrar.</font>
+00:08:11,532 --> 00:08:12,870
+<font size="18px" color ="FFFFFF">Billy, solta ela.</font>
 
 64
-00:16:12,560 --> 00:16:15,552
-<font size="20px" color ="FFFF00">-E por que?
--Eu quero ver.</font>
+00:08:12,953 --> 00:08:16,550
+<font size="18px" color ="FFFFFF">Rápido, juntem nossas coisas.
+A tia Lou vai levá-los à escola.</font>
 
 65
-00:16:17,720 --> 00:16:20,359
-<font size="20px" color ="FFFF00">Se me deixar entrar, faço
-alguma coisa para você.</font>
+00:08:16,633 --> 00:08:19,002
+<font size="18px" color ="FFFFFF">- Mãe! Ele me chamou…
+- Consegue abrir?</font>
 
 66
-00:16:20,560 --> 00:16:21,913
-<font size="20px" color ="FFFF00">Faz o que?</font>
+00:08:19,085 --> 00:08:21,340
+<font size="18px" color ="FFFFFF">- Garotos, peguem suas coisas.
+- Mãe!</font>
 
 67
-00:16:22,560 --> 00:16:23,879
-<font size="20px" color ="FFFF00">Qualquer coisa.</font>
+00:08:21,423 --> 00:08:22,734
+<font size="18px" color ="FFFFFF">Vamos, pronto?</font>
 
 68
-00:16:28,080 --> 00:16:29,832
-<font size="20px" color ="FFFF00">Eu não preciso de nada.</font>
+00:08:22,817 --> 00:08:24,666
+<font size="18px" color ="FFFFFF">- Ótimo.
+- A maquiagem está boa?</font>
 
 69
-00:16:37,360 --> 00:16:39,032
-<font size="20px" color ="FFFF00">Trouxe seu maiô?</font>
+00:08:24,749 --> 00:08:27,030
+<font size="18px" color ="FFFFFF">- Mãe, ele está roubando.
+- Rapidinho!</font>
 
 70
-00:18:09,680 --> 00:18:13,070
-<font size="20px" color ="FFFF00">Depois deste faremos o barracuda.
-Ou fazemos este mais uma vez?</font>
+00:08:27,113 --> 00:08:28,835
+<font size="18px" color ="FFFFFF">Não estou! Você roubou antes.</font>
 
 71
-00:18:13,280 --> 00:18:15,350
-<font size="20px" color ="FFFF00">Fazemos este mais tarde.</font>
+00:08:28,918 --> 00:08:31,340
+<font size="18px" color ="FFFFFF">Bethy Boopski, vão passar no armazém?</font>
 
 72
-00:18:15,800 --> 00:18:17,916
-<font size="20px" color ="FFFF00">Vamos começar de novo?</font>
+00:08:32,009 --> 00:08:34,444
+<font size="18px" color ="FFFFFF">- Por quê? Quer algo?
+- Pega uns cigarros?</font>
 
 73
-00:18:40,840 --> 00:18:42,956
-<font size="20px" color ="FFFF00">Entre. Verá melhor daqui.</font>
+00:08:34,527 --> 00:08:36,939
+<font size="18px" color ="FFFFFF">Não quero me atrasar
+e não terei tempo.</font>
 
 74
-00:20:48,080 --> 00:20:49,274
-<font size="20px" color ="FFFF00">Como pode fazer isso?</font>
+00:08:37,699 --> 00:08:39,399
+<font size="18px" color ="FFFFFF">Sim. Levo lá para você.</font>
 
 75
-00:20:50,800 --> 00:20:54,475
-<font size="20px" color ="FFFF00">Eu sempre faço uma papa.</font>
+00:08:40,817 --> 00:08:42,861
+<font size="18px" color ="FFFFFF">Não estamos atrasados pra escola?</font>
 
 76
-00:20:56,320 --> 00:20:57,469
-<font size="20px" color ="FFFF00">Isso é estupidez.</font>
+00:08:42,944 --> 00:08:44,181
+<font size="18px" color ="FFFFFF">- Talvez?
+- Pai!</font>
 
 77
-00:20:57,680 --> 00:21:01,389
-<font size="20px" color ="FFFF00">Oh, não. Caras sempre olham quando
-uma garota está comendo uma banana.</font>
+00:08:44,264 --> 00:08:45,593
+<font size="18px" color ="FFFFFF">- Tchau, amor.
+- Tchau.</font>
 
 78
-00:21:01,600 --> 00:21:03,272
-<font size="20px" color ="FFFF00">Todos sabem disso.</font>
+00:08:46,396 --> 00:08:48,256
+<font size="18px" color ="FFFFFF">- Até, parceiros.
+- Tchau, pai.</font>
 
 79
-00:21:04,440 --> 00:21:08,274
-<font size="20px" color ="FFFF00">Isso não te afeta.
-Você está do outro lado.</font>
+00:08:48,339 --> 00:08:49,409
+<font size="18px" color ="FFFFFF">- Tchau.
+- Tchau!</font>
 
 80
-00:21:08,520 --> 00:21:10,954
-<font size="20px" color ="FFFF00">Do lado da banana comendo garotas?</font>
+00:08:49,492 --> 00:08:51,203
+<font size="18px" color ="FFFFFF">- Mãe!
+- Mãe!</font>
 
 81
-00:21:11,160 --> 00:21:13,116
-<font size="20px" color ="FFFF00">É o que dizem...</font>
+00:08:51,286 --> 00:08:54,247
+<font size="18px" color ="FFFFFF">Não sei cadê minha mochila.
+Onde está?</font>
 
 82
-00:21:13,480 --> 00:21:15,118
-<font size="20px" color ="FFFF00">Que você transou...</font>
+00:09:02,451 --> 00:09:04,451
+<font size="18px" color ="FFFFFF">CLUBE DE TIRO LOUVILLE</font>
 
 83
-00:21:15,560 --> 00:21:18,358
-<font size="20px" color ="FFFF00">-...com uma porção de caras.
--Sim, é verdade.</font>
+00:09:06,019 --> 00:09:09,968
+<font size="18px" color ="FFFFFF">Desde que lançou Duro de Matar,
+todo mundo quer usar uma Beretta.</font>
 
 84
-00:21:19,160 --> 00:21:20,832
-<font size="20px" color ="FFFF00">E eu adorei.</font>
+00:09:10,048 --> 00:09:12,637
+<font size="18px" color ="FFFFFF">Vamos montar
+outro campo de tiro lá dentro.</font>
 
 85
-00:21:45,240 --> 00:21:47,595
-<font size="20px" color ="FFFF00">Eu sei o que pode fazer por mim...</font>
+00:09:14,073 --> 00:09:15,073
+<font size="18px" color ="FFFFFF">E aí, rapazes?</font>
 
 86
-00:21:48,680 --> 00:21:50,079
-<font size="20px" color ="FFFF00">O que?</font>
+00:09:16,161 --> 00:09:18,313
+<font size="18px" color ="FFFFFF">Ali fica o estande para iniciantes.</font>
 
 87
-00:21:51,040 --> 00:21:53,429
-<font size="20px" color ="FFFF00">Venha a minha casa à tarde.</font>
+00:09:18,396 --> 00:09:21,819
+<font size="18px" color ="FFFFFF">Também temos longa distância,
+alvos móveis, jogos…</font>
 
 88
-00:21:55,640 --> 00:21:57,232
-<font size="20px" color ="FFFF00">Eu não sei onde você mora.</font>
+00:09:22,474 --> 00:09:24,860
+<font size="18px" color ="FFFFFF">Muitos turistas vêm passar o dia.</font>
 
 89
-00:22:45,680 --> 00:22:48,797
-<font size="20px" color ="FFFF00">É Marie, da natação.</font>
+00:09:24,940 --> 00:09:27,618
+<font size="18px" color ="FFFFFF">Estrangeiros doidões, geralmente.</font>
 
 90
-00:22:57,560 --> 00:23:00,393
-<font size="20px" color ="FFFF00">-Que vamos fazer?
--Andar.</font>
+00:09:28,504 --> 00:09:29,923
+<font size="18px" color ="FFFFFF">Ali é a cantina.</font>
 
 91
-00:23:03,240 --> 00:23:06,152
-<font size="20px" color ="FFFF00">-Onde estamos indo?
--Perto.</font>
+00:09:30,004 --> 00:09:33,732
+<font size="18px" color ="FFFFFF">Sanduíches, drinques…
+Para aloprar, se quiser.</font>
 
 92
-00:23:23,160 --> 00:23:24,752
-<font size="20px" color ="FFFF00">Você veio.</font>
+00:09:33,812 --> 00:09:34,871
+<font size="18px" color ="FFFFFF">Vamos por aqui.</font>
 
 93
-00:23:27,600 --> 00:23:29,318
-<font size="20px" color ="FFFF00">Espere por mim aqui.</font>
+00:09:36,496 --> 00:09:38,045
+<font size="18px" color ="FFFFFF">Eu deveria estar nervosa?</font>
 
 94
-00:24:31,000 --> 00:24:33,434
-<font size="20px" color ="FFFF00">Vá comigo até em casa e estamos quites.</font>
+00:09:38,125 --> 00:09:40,558
+<font size="18px" color ="FFFFFF">Não, só não me faça parecer um cuzão.</font>
 
 95
-00:24:34,400 --> 00:24:35,958
-<font size="20px" color ="FFFF00">Você demorou.</font>
+00:09:40,638 --> 00:09:42,469
+<font size="18px" color ="FFFFFF">- Certo.
+- Erga a cabeça.</font>
 
 96
-00:24:38,480 --> 00:24:42,029
-<font size="20px" color ="FFFF00">Venha amanhã. Na piscina, as 7:00 hs.</font>
+00:09:43,163 --> 00:09:44,152
+<font size="18px" color ="FFFFFF">Vou tentar.</font>
 
 97
-00:25:16,760 --> 00:25:18,876
-<font size="20px" color ="FFFF00">Vamos, entre. Estamos saindo.</font>
+00:09:45,657 --> 00:09:46,899
+<font size="18px" color ="FFFFFF">Cuidado com o degrau.</font>
 
 98
-00:25:21,280 --> 00:25:22,599
-<font size="20px" color ="FFFF00">Posso sentar aqui?</font>
+00:09:48,581 --> 00:09:49,581
+<font size="18px" color ="FFFFFF">Sim?</font>
 
 99
-00:25:30,120 --> 00:25:31,678
-<font size="20px" color ="FFFF00">Conseguiu o dinheiro?</font>
+00:09:51,855 --> 00:09:53,221
+<font size="18px" color ="FFFFFF">Chefe, é boa hora?</font>
 
 100
-00:25:50,240 --> 00:25:51,389
-<font size="20px" color ="FFFF00">Tudo certo?</font>
+00:09:53,302 --> 00:09:54,485
+<font size="18px" color ="FFFFFF">É uma hora qualquer.</font>
 
 101
-00:25:51,600 --> 00:25:54,558
-<font size="20px" color ="FFFF00">Não se preocupe, ele não falará nada.</font>
+00:09:59,895 --> 00:10:01,608
+<font size="18px" color ="FFFFFF">Legal. O que é isso?</font>
 
 102
-00:25:54,760 --> 00:25:58,435
-<font size="20px" color ="FFFF00">-Eu lhe disse que você é minha prima.
--E que ele disse?</font>
+00:10:01,689 --> 00:10:03,837
+<font size="18px" color ="FFFFFF">Um das minhas larvas de besouro.</font>
 
 103
-00:25:59,160 --> 00:26:01,037
-<font size="20px" color ="FFFF00">Que somos parecidas.</font>
+00:10:03,918 --> 00:10:07,487
+<font size="18px" color ="FFFFFF">Pus abeto para ele dormir.
+Eles gostam de umidade e conforto.</font>
 
 104
-00:26:52,440 --> 00:26:54,670
-<font size="20px" color ="FFFF00">-Quer uma massagem, Floriane?
--Não.</font>
+00:10:07,570 --> 00:10:08,947
+<font size="18px" color ="FFFFFF">Pode crer.</font>
 
 105
-00:26:54,880 --> 00:26:57,110
-<font size="20px" color ="FFFF00">Vai ajudá-la a relaxar
-para a competição.</font>
+00:10:11,610 --> 00:10:13,733
+<font size="18px" color ="FFFFFF">Esta é a Jackie.</font>
 
 106
-00:26:57,320 --> 00:26:59,754
-<font size="20px" color ="FFFF00">-Não dá tempo.
--Dá sim.</font>
+00:10:13,813 --> 00:10:15,746
+<font size="18px" color ="FFFFFF">- Este é o Sr. Langston.
+- Oi.</font>
 
 107
-00:27:02,840 --> 00:27:04,512
-<font size="20px" color ="FFFF00">É melhor ir.</font>
+00:10:16,329 --> 00:10:18,592
+<font size="18px" color ="FFFFFF">Ela precisa de emprego.
+Qualquer coisa.</font>
 
 108
-00:27:09,680 --> 00:27:12,399
-<font size="20px" color ="FFFF00">Sua amiga está sendo puta de novo.</font>
+00:10:18,673 --> 00:10:20,578
+<font size="18px" color ="FFFFFF">Precisamos de uma mão extra.</font>
 
 109
-00:27:15,080 --> 00:27:16,911
-<font size="20px" color ="FFFF00">Ela não é minha amiga.</font>
+00:10:20,658 --> 00:10:23,672
+<font size="18px" color ="FFFFFF">- Gosta de armas?
+- Não muito.</font>
 
 110
-00:27:17,520 --> 00:27:19,192
-<font size="20px" color ="FFFF00">Melhor para você.</font>
+00:10:23,753 --> 00:10:25,464
+<font size="18px" color ="FFFFFF">Que merda está fazendo aqui, então?</font>
 
 111
-00:27:21,200 --> 00:27:23,316
-<font size="20px" color ="FFFF00">Venham, preparem-se.</font>
+00:10:26,082 --> 00:10:30,677
+<font size="18px" color ="FFFFFF">É fácil se achar forte atrás de uma arma.
+Prefiro conhecer minha própria força.</font>
 
 112
-00:27:27,880 --> 00:27:29,916
-<font size="20px" color ="FFFF00">Vamos.</font>
+00:10:31,673 --> 00:10:32,673
+<font size="18px" color ="FFFFFF">Verdade?</font>
 
 113
-00:27:30,280 --> 00:27:32,271
-<font size="20px" color ="FFFF00">Inspeção, garotas.</font>
+00:10:46,451 --> 00:10:49,852
+<font size="18px" color ="FFFFFF">Licença, o banheiro da ponta
+está bloqueado.</font>
 
 114
-00:28:14,600 --> 00:28:16,636
-<font size="20px" color ="FFFF00">Serviço porco, Natascha.</font>
+00:10:49,933 --> 00:10:51,267
+<font size="18px" color ="FFFFFF">Está inundado.</font>
 
 115
-00:28:17,720 --> 00:28:19,711
-<font size="20px" color ="FFFF00">Eu não tive tempo.</font>
+00:10:53,150 --> 00:10:55,537
+<font size="18px" color ="FFFFFF">Com licença? O banheiro da ponta…</font>
 
 116
-00:28:22,440 --> 00:28:26,115
-<font size="20px" color ="FFFF00">É o que vai dizer para seu
-marido? "Eu não tive tempo"...</font>
+00:10:55,618 --> 00:10:56,889
+<font size="18px" color ="FFFFFF">Então use o outro.</font>
 
 117
-00:28:32,840 --> 00:28:35,991
-<font size="20px" color ="FFFF00">Em cinco minutos n'água. Rápido.</font>
+00:11:24,249 --> 00:11:26,900
+<font size="18px" color ="FFFFFF"><i>Da ferrugem ao pó
+De nós para eles</i></font>
 
 118
-00:28:52,640 --> 00:28:54,596
-<font size="20px" color ="FFFF00">Sente-se ali.</font>
+00:11:29,194 --> 00:11:31,686
+<font size="18px" color ="FFFFFF"><i>Mude de opinião
+Mude de pele</i></font>
 
 119
-00:29:04,280 --> 00:29:06,510
-<font size="20px" color ="FFFF00">Ballet aquático número cinco.</font>
+00:11:33,896 --> 00:11:35,896
+<font size="18px" color ="FFFFFF"><i>Vida à morte
+Fraqueza à força</i></font>
 
 120
-00:30:37,000 --> 00:30:41,915
-<font size="20px" color ="FFFF00">7.3; 7.0; 7.0; 7.4; 7.2.</font>
+00:11:36,869 --> 00:11:38,173
+<font size="18px" color ="FFFFFF">Me vê um Mountain Dew?</font>
 
 121
-00:30:42,120 --> 00:30:46,079
-<font size="20px" color ="FFFF00">Este ballet foi apresentado pelas
-nadadoras do Estádio Francês.</font>
+00:11:38,724 --> 00:11:40,831
+<font size="18px" color ="FFFFFF"><i>Desconte um cheque
+Mude de sexo</i></font>
 
 122
-00:30:50,640 --> 00:30:53,791
-<font size="20px" color ="FFFF00">Não, a formação espiral foi demais!</font>
+00:11:43,270 --> 00:11:45,460
+<font size="18px" color ="FFFFFF">- A máquina fica ali.
+- Está quebrada.</font>
 
 123
-00:30:54,000 --> 00:30:55,831
-<font size="20px" color ="FFFF00">E o spin também!</font>
+00:11:50,872 --> 00:11:53,260
+<font size="18px" color ="FFFFFF">- Pronto.
+- É a filha do Lou Langston.</font>
 
 124
-00:30:58,920 --> 00:31:01,150
-<font size="20px" color ="FFFF00">Ei, garotas, 3, 4...</font>
+00:11:54,023 --> 00:11:55,971
+<font size="18px" color ="FFFFFF">- E daí?
+- É um velho amigo meu.</font>
 
 125
-00:31:24,080 --> 00:31:25,593
-<font size="20px" color ="FFFF00">Satisfeita?</font>
+00:11:56,054 --> 00:11:57,556
+<font size="18px" color ="FFFFFF">Como está seu coroa?</font>
 
 126
-00:31:30,600 --> 00:31:33,910
-<font size="20px" color ="FFFF00">Você vem amanhã a tarde? Mesma coisa.</font>
+00:11:58,732 --> 00:11:59,893
+<font size="18px" color ="FFFFFF">Meu coroa?</font>
 
 127
-00:31:36,880 --> 00:31:38,029
-<font size="20px" color ="FFFF00">Certo.</font>
+00:11:59,973 --> 00:12:01,874
+<font size="18px" color ="FFFFFF">Ele é um merda. Não nos falamos.</font>
 
 128
-00:32:06,400 --> 00:32:07,833
-<font size="20px" color ="FFFF00">Estou louca com você.</font>
+00:12:02,467 --> 00:12:04,062
+<font size="18px" color ="FFFFFF">Os amigos dele sabem disso.</font>
 
 129
-00:32:08,040 --> 00:32:10,838
-<font size="20px" color ="FFFF00">Procurei-a por toda
-a parte. Onde esteve?</font>
+00:12:04,774 --> 00:12:07,149
+<font size="18px" color ="FFFFFF">E sua mãe, sabe onde posso achá-la?</font>
 
 130
-00:32:13,120 --> 00:32:15,315
-<font size="20px" color ="FFFF00">Não me diga que não vai entrar.</font>
+00:12:10,526 --> 00:12:12,632
+<font size="18px" color ="FFFFFF">- Por quê?
+- Para conversar, só.</font>
 
 131
-00:32:16,840 --> 00:32:18,751
-<font size="20px" color ="FFFF00">Estava na minha prima.</font>
+00:12:15,529 --> 00:12:16,798
+<font size="18px" color ="FFFFFF">Bem, quer saber…</font>
 
 132
-00:32:19,120 --> 00:32:21,236
-<font size="20px" color ="FFFF00">De repente passou a gostar da família?</font>
+00:12:18,066 --> 00:12:20,720
+<font size="18px" color ="FFFFFF">Quando não estiver emburrada,
+ligue para nós.</font>
 
 133
-00:32:21,800 --> 00:32:23,358
-<font size="20px" color ="FFFF00">Eu precisava.</font>
+00:12:27,335 --> 00:12:29,671
+<font size="18px" color ="FFFFFF">AGENTE ESPECIAL DO FBI
+WILLIAM O'REILY</font>
 
 134
-00:32:24,480 --> 00:32:27,916
-<font size="20px" color ="FFFF00">-Esta sozinha?
--Mamãe trabalha a tarde.</font>
+00:12:32,045 --> 00:12:33,987
+<font size="18px" color ="FFFFFF">Você é bonita. Podemos conversar?</font>
 
 135
-00:32:28,480 --> 00:32:30,152
-<font size="20px" color ="FFFF00">Entra, vaca.</font>
+00:12:35,366 --> 00:12:36,834
+<font size="18px" color ="FFFFFF">- Sou a Jackie.
+- Jackie.</font>
 
 136
-00:32:44,360 --> 00:32:45,793
-<font size="20px" color ="FFFF00">-Você está babando.
--Você também.</font>
+00:12:36,915 --> 00:12:37,915
+<font size="18px" color ="FFFFFF">Fechando.</font>
 
 137
-00:32:46,080 --> 00:32:47,513
-<font size="20px" color ="FFFF00">Tome mais um pouco.</font>
+00:12:38,846 --> 00:12:40,356
+<font size="18px" color ="FFFFFF">Ainda estamos aqui.</font>
 
 138
-00:33:36,400 --> 00:33:37,913
-<font size="20px" color ="FFFF00">-Bom dia, senhora.
--Bom dia, como vai?</font>
+00:12:40,437 --> 00:12:42,062
+<font size="18px" color ="FFFFFF">Estamos fechados. Vaza.</font>
 
 139
-00:33:38,120 --> 00:33:40,873
-<font size="20px" color ="FFFF00">Bem. Posso pegar o Max?</font>
+00:12:43,827 --> 00:12:44,827
+<font size="18px" color ="FFFFFF">Jackie.</font>
 
 140
-00:33:48,600 --> 00:33:51,353
-<font size="20px" color ="FFFF00">-Vou chamá-lo.
--Legal.</font>
+00:13:16,218 --> 00:13:17,824
+<font size="18px" color ="FFFFFF">- Oi.
+- Oi.</font>
 
 141
-00:34:17,960 --> 00:34:19,313
-<font size="20px" color ="FFFF00">François.</font>
+00:13:18,695 --> 00:13:19,863
+<font size="18px" color ="FFFFFF">Posso pegar um?</font>
 
 142
-00:34:29,960 --> 00:34:31,757
-<font size="20px" color ="FFFF00">Estou passeando com meu cachorro.</font>
+00:13:20,624 --> 00:13:21,624
+<font size="18px" color ="FFFFFF">Pode.</font>
 
 143
-00:35:06,160 --> 00:35:08,196
-<font size="20px" color ="FFFF00">Voltarei em uma hora.</font>
+00:13:42,488 --> 00:13:43,702
+<font size="18px" color ="FFFFFF">É sua?</font>
 
 144
-00:35:09,800 --> 00:35:11,358
-<font size="20px" color ="FFFF00">Eu não vou estar aqui.</font>
+00:13:44,619 --> 00:13:45,959
+<font size="18px" color ="FFFFFF">Não, só trabalho aqui.</font>
 
 145
-00:35:11,800 --> 00:35:13,358
-<font size="20px" color ="FFFF00">Onde irá?</font>
+00:13:46,956 --> 00:13:47,956
+<font size="18px" color ="FFFFFF">Certo.</font>
 
 146
-00:35:15,840 --> 00:35:17,114
-<font size="20px" color ="FFFF00">Algum lugar.</font>
+00:13:53,397 --> 00:13:54,876
+<font size="18px" color ="FFFFFF">Você estava muito bem lá.</font>
 
 147
-00:35:20,240 --> 00:35:22,151
-<font size="20px" color ="FFFF00">Não vou encobrir você de novo.</font>
+00:13:56,341 --> 00:13:57,341
+<font size="18px" color ="FFFFFF">É?</font>
 
 148
-00:35:23,280 --> 00:35:25,714
-<font size="20px" color ="FFFF00">Vire-se com suas fodas.</font>
+00:13:57,422 --> 00:13:59,534
+<font size="18px" color ="FFFFFF">Seus músculos estão saltando.</font>
 
 149
-00:35:43,960 --> 00:35:45,109
-<font size="20px" color ="FFFF00">Espere.</font>
+00:14:00,928 --> 00:14:02,389
+<font size="18px" color ="FFFFFF">Jackie!</font>
 
 150
-00:35:48,080 --> 00:35:51,152
-<font size="20px" color ="FFFF00">-Eu não transei com ele.
--Não me importa.</font>
+00:14:03,024 --> 00:14:04,024
+<font size="18px" color ="FFFFFF">Aí está você.</font>
 
 151
-00:35:52,120 --> 00:35:54,156
-<font size="20px" color ="FFFF00">Nem com ninguém mais,
-se for esse o problema.</font>
+00:14:06,184 --> 00:14:07,869
+<font size="18px" color ="FFFFFF">Senhoras.</font>
 
 152
-00:35:54,400 --> 00:35:56,311
-<font size="20px" color ="FFFF00">Não é o que dizem.</font>
+00:14:07,950 --> 00:14:09,241
+<font size="18px" color ="FFFFFF">Tudo bem, Lou?</font>
 
 153
-00:35:58,040 --> 00:35:59,758
-<font size="20px" color ="FFFF00">Eu juro, Marie.</font>
+00:14:10,438 --> 00:14:13,505
+<font size="18px" color ="FFFFFF">Vamos tomar umas. Quer vir junto?</font>
 
 154
-00:36:29,160 --> 00:36:32,118
-<font size="20px" color ="FFFF00">O instrutor da natação
-que me fez massagem...</font>
+00:14:13,585 --> 00:14:14,609
+<font size="18px" color ="FFFFFF">Valeu, mas não.</font>
 
 155
-00:36:32,360 --> 00:36:36,148
-<font size="20px" color ="FFFF00">Ele vive me cercando e me
-perseguindo no vestiário.</font>
+00:14:16,717 --> 00:14:19,614
+<font size="18px" color ="FFFFFF">Gata, não sabe que a Lou
+é uma sapatona do caralho?</font>
 
 156
-00:36:36,360 --> 00:36:38,510
-<font size="20px" color ="FFFF00">Ele diz que me ama. Que piada.</font>
+00:14:20,448 --> 00:14:21,449
+<font size="18px" color ="FFFFFF">É verdade?</font>
 
 157
-00:36:38,720 --> 00:36:42,110
-<font size="20px" color ="FFFF00">Ver-me seminua o deixa louco.</font>
+00:14:23,285 --> 00:14:24,661
+<font size="18px" color ="FFFFFF">Engraçado. Venha.</font>
 
 158
-00:36:42,680 --> 00:36:45,752
-<font size="20px" color ="FFFF00">Nos beijamos uma vez, mas foi tudo.</font>
+00:14:25,953 --> 00:14:26,953
+<font size="18px" color ="FFFFFF">Toque-me…</font>
 
 159
-00:36:46,400 --> 00:36:50,234
-<font size="20px" color ="FFFF00">Só fiz isso para provocar
-aquelas vacas estúpidas.</font>
+00:14:28,039 --> 00:14:29,496
+<font size="18px" color ="FFFFFF">Cara, é uma garota. Foi mal.</font>
 
 160
-00:36:50,440 --> 00:36:52,158
-<font size="20px" color ="FFFF00">Então são todas vacas?</font>
+00:14:29,576 --> 00:14:31,336
+<font size="18px" color ="FFFFFF">- Vadia maluca.
+- Vamos.</font>
 
 161
-00:36:52,480 --> 00:36:55,517
-<font size="20px" color ="FFFF00">Elas não gostam de
-mim, eu não gosto delas.</font>
+00:14:31,417 --> 00:14:33,194
+<font size="18px" color ="FFFFFF">- Só fui gentil.
+- Vá se foder!</font>
 
 162
-00:36:56,680 --> 00:36:58,557
-<font size="20px" color ="FFFF00">Garotas não gostam de mim.</font>
+00:14:33,274 --> 00:14:35,338
+<font size="18px" color ="FFFFFF">Foda-se ele. Vamos.</font>
 
 163
-00:37:00,560 --> 00:37:03,154
-<font size="20px" color ="FFFF00">O cara da piscina...</font>
+00:14:45,589 --> 00:14:48,716
+<font size="18px" color ="FFFFFF">Se refrescando? Quer gelo?</font>
 
 164
-00:37:03,400 --> 00:37:07,916
-<font size="20px" color ="FFFF00">Um dia eu estava treinando, e
-prendi a respiração embaixo d'água,</font>
+00:14:49,441 --> 00:14:52,689
+<font size="18px" color ="FFFFFF">Precisa ter cuidado aqui.
+Podia ter sido bem pior.</font>
 
 165
-00:37:08,120 --> 00:37:11,078
-<font size="20px" color ="FFFF00">então apareceram duas pernas peludas.</font>
+00:14:52,772 --> 00:14:54,107
+<font size="18px" color ="FFFFFF">Eu aguento ele.</font>
 
 166
-00:37:12,040 --> 00:37:13,314
-<font size="20px" color ="FFFF00">E...</font>
+00:14:55,358 --> 00:14:56,358
+<font size="18px" color ="FFFFFF">Desculpe.</font>
 
 167
-00:37:14,640 --> 00:37:19,077
-<font size="20px" color ="FFFF00">ele estava com o pênis para
-fora, mostrando para mim.</font>
+00:14:58,194 --> 00:14:59,871
+<font size="18px" color ="FFFFFF">De onde você é?</font>
 
 168
-00:37:21,880 --> 00:37:25,111
-<font size="20px" color ="FFFF00">Como se um pinto duro na
-água fria fosse atraente.</font>
+00:15:01,302 --> 00:15:02,643
+<font size="18px" color ="FFFFFF">Oklahoma.</font>
 
 169
-00:37:25,840 --> 00:37:27,239
-<font size="20px" color ="FFFF00">Nojento.</font>
+00:15:03,408 --> 00:15:06,077
+<font size="18px" color ="FFFFFF">- Sério?
+- Sério. Sou mochileira.</font>
 
 170
-00:37:28,040 --> 00:37:29,712
-<font size="20px" color ="FFFF00">É a vida.</font>
+00:15:07,260 --> 00:15:09,331
+<font size="18px" color ="FFFFFF">Vai a algum lugar específico?</font>
 
 171
-00:37:30,200 --> 00:37:32,555
-<font size="20px" color ="FFFF00">Você deve ter histórias assim.</font>
+00:15:12,815 --> 00:15:16,041
+<font size="18px" color ="FFFFFF">Tem a final de um campeonato
+de fisiculturismo</font>
 
 172
-00:37:34,720 --> 00:37:36,392
-<font size="20px" color ="FFFF00">Vamos, conte-me.</font>
+00:15:16,124 --> 00:15:17,795
+<font size="18px" color ="FFFFFF">mês que vem, em Vegas.</font>
 
 173
-00:37:40,280 --> 00:37:41,554
-<font size="20px" color ="FFFF00">Verdade?</font>
+00:15:17,875 --> 00:15:20,091
+<font size="18px" color ="FFFFFF">Vou arriscar.</font>
 
 174
-00:37:42,440 --> 00:37:43,873
-<font size="20px" color ="FFFF00">Nada?</font>
+00:15:20,990 --> 00:15:23,182
+<font size="18px" color ="FFFFFF">Estou aproveitando para treinar aqui.</font>
 
 175
-00:37:48,160 --> 00:37:49,957
-<font size="20px" color ="FFFF00">Tem sorte, Marie...</font>
+00:15:23,262 --> 00:15:24,262
+<font size="18px" color ="FFFFFF">Legal.</font>
 
 176
-00:37:52,000 --> 00:37:53,592
-<font size="20px" color ="FFFF00">Muita sorte.</font>
+00:15:25,380 --> 00:15:28,433
+<font size="18px" color ="FFFFFF">Quando ouvem isso,
+as pessoas me olham assim…</font>
 
 177
-00:38:13,040 --> 00:38:14,878
-<font size="20px" color ="FFFF00">Ok, tchau.</font>
+00:15:29,283 --> 00:15:31,183
+<font size="18px" color ="FFFFFF">Conheço esse olhar.</font>
 
 178
-00:38:15,520 --> 00:38:16,714
-<font size="20px" color ="FFFF00">Tchau.</font>
+00:15:31,953 --> 00:15:33,260
+<font size="18px" color ="FFFFFF">Por isso saiu de casa?</font>
 
 179
-00:38:22,400 --> 00:38:24,038
-<font size="20px" color ="FFFF00">Não estou com sono...</font>
+00:15:33,340 --> 00:15:36,399
+<font size="18px" color ="FFFFFF">- Não curtem garotas musculosas lá?
+- Não muito.</font>
 
 180
-00:38:25,640 --> 00:38:27,153
-<font size="20px" color ="FFFF00">Nem eu.</font>
+00:15:37,882 --> 00:15:40,227
+<font size="18px" color ="FFFFFF">De onde venho,
+todo mundo é agricultor,</font>
 
 181
-00:38:32,000 --> 00:38:33,319
-<font size="20px" color ="FFFF00">Entre.</font>
+00:15:40,307 --> 00:15:42,663
+<font size="18px" color ="FFFFFF">vai à igreja
+duas vezes na semana e tal.</font>
 
 182
-00:38:58,880 --> 00:39:00,472
-<font size="20px" color ="FFFF00">Isto é para você.</font>
+00:15:44,096 --> 00:15:48,328
+<font size="18px" color ="FFFFFF">Como uma garota do interior de Oklahoma
+entrou para o fisiculturismo?</font>
 
 183
-00:39:02,680 --> 00:39:04,079
-<font size="20px" color ="FFFF00">Experimente.</font>
+00:15:50,041 --> 00:15:52,693
+<font size="18px" color ="FFFFFF">Meus pais me adotaram
+quando eu tinha 13 anos.</font>
 
 184
-00:39:05,040 --> 00:39:08,032
-<font size="20px" color ="FFFF00">-Aqui?
--Não seja tímida.</font>
+00:15:53,784 --> 00:15:56,829
+<font size="18px" color ="FFFFFF">E eu fui uma criança gorda.
+Sofri muito bullying.</font>
 
 185
-00:39:51,240 --> 00:39:55,677
-<font size="20px" color ="FFFF00">O teto provavelmente é a última
-coisa que as pessoas vêem.</font>
+00:15:56,909 --> 00:15:58,505
+<font size="18px" color ="FFFFFF">- Merda.
+- Não, tudo bem.</font>
 
 186
-00:39:58,600 --> 00:40:01,831
-<font size="20px" color ="FFFF00">Pelo menos 90% das pessoas que morrem.</font>
+00:15:58,588 --> 00:15:59,655
+<font size="18px" color ="FFFFFF">Aprendi a revidar.</font>
 
 187
-00:40:05,280 --> 00:40:06,633
-<font size="20px" color ="FFFF00">Provavelmente.</font>
+00:16:04,419 --> 00:16:07,013
+<font size="18px" color ="FFFFFF">Você vai ganhar. E depois?</font>
 
 188
-00:40:08,120 --> 00:40:10,031
-<font size="20px" color ="FFFF00">E se você morre,</font>
+00:16:07,096 --> 00:16:08,096
+<font size="18px" color ="FFFFFF">Não sei.</font>
 
 189
-00:40:10,240 --> 00:40:14,836
-<font size="20px" color ="FFFF00">a última coisa que você vê fica
-impressa em seu olho. Como uma foto.</font>
+00:16:09,895 --> 00:16:11,515
+<font size="18px" color ="FFFFFF">Não pensei tão longe assim.</font>
 
 190
-00:40:19,960 --> 00:40:24,158
-<font size="20px" color ="FFFF00">Imagine todas as pessoas
-com tetos em seus olhos.</font>
+00:16:12,881 --> 00:16:15,105
+<font size="18px" color ="FFFFFF">Acho que sei como é.</font>
 
 191
-00:40:34,680 --> 00:40:37,240
-<font size="20px" color ="FFFF00">Os tetos nunca mais serão os mesmos.</font>
+00:16:19,530 --> 00:16:20,652
+<font size="18px" color ="FFFFFF">Quer ver uma coisa?</font>
 
 192
-00:44:57,240 --> 00:44:59,231
-<font size="20px" color ="FFFF00">Eu estava com François.</font>
+00:16:22,570 --> 00:16:23,570
+<font size="18px" color ="FFFFFF">Quero.</font>
 
 193
-00:44:59,640 --> 00:45:01,551
-<font size="20px" color ="FFFF00">É sempre a mesma coisa.</font>
+00:16:24,232 --> 00:16:25,415
+<font size="18px" color ="FFFFFF">Tem que ficar aqui.</font>
 
 194
-00:45:03,080 --> 00:45:05,833
-<font size="20px" color ="FFFF00">Quando estamos quase transando, eu fujo.</font>
+00:16:28,743 --> 00:16:29,777
+<font size="18px" color ="FFFFFF">Já volto.</font>
 
 195
-00:45:07,200 --> 00:45:10,237
-<font size="20px" color ="FFFF00">-O coitado não entende.
--Então conte para ele.</font>
+00:16:39,399 --> 00:16:42,137
+<font size="18px" color ="FFFFFF">Talvez seja idiotice. Não sei, mas…</font>
 
 196
-00:45:10,560 --> 00:45:12,198
-<font size="20px" color ="FFFF00">Eu não posso.</font>
+00:16:42,220 --> 00:16:44,665
+<font size="18px" color ="FFFFFF">Já deve estar ligada nessas coisas.</font>
 
 197
-00:45:13,600 --> 00:45:16,239
-<font size="20px" color ="FFFF00">Se não quer transar, não transe.</font>
+00:16:45,680 --> 00:16:46,680
+<font size="18px" color ="FFFFFF">Mas…</font>
 
 198
-00:45:16,760 --> 00:45:18,159
-<font size="20px" color ="FFFF00">Eu preciso.</font>
+00:16:53,640 --> 00:16:54,640
+<font size="18px" color ="FFFFFF">DIANABOL</font>
 
 199
-00:45:18,840 --> 00:45:22,674
-<font size="20px" color ="FFFF00">-Onde está escrito?
--Pelo jeito, na minha cara. Ok.</font>
+00:16:54,720 --> 00:16:57,450
+<font size="18px" color ="FFFFFF">- É tudo seu?
+- Sim. Como estou?</font>
 
 200
-00:45:26,440 --> 00:45:30,319
-<font size="20px" color ="FFFF00">Se ele descobre que não
-transo, está tudo acabado.</font>
+00:17:00,522 --> 00:17:02,737
+<font size="18px" color ="FFFFFF">Valeu, mas não posso pagar.</font>
 
 201
-00:45:31,320 --> 00:45:33,117
-<font size="20px" color ="FFFF00">Vá fazer equitação.</font>
+00:17:04,204 --> 00:17:05,520
+<font size="18px" color ="FFFFFF">São de graça.</font>
 
 202
-00:45:36,720 --> 00:45:38,915
-<font size="20px" color ="FFFF00">Isto é quando você quer abortar.</font>
+00:17:05,601 --> 00:17:08,370
+<font size="18px" color ="FFFFFF">Os caras compram um bocado,
+da Alemanha ou da Romênia.</font>
 
 203
-00:45:39,840 --> 00:45:42,991
-<font size="20px" color ="FFFF00">Vou procurar um cara mais
-velho que não me conheça.</font>
+00:17:08,450 --> 00:17:10,690
+<font size="18px" color ="FFFFFF">Tem aos montes. Pegue para você.</font>
 
 204
-00:45:44,280 --> 00:45:46,157
-<font size="20px" color ="FFFF00">Onde vai achá-lo?</font>
+00:17:12,348 --> 00:17:13,617
+<font size="18px" color ="FFFFFF">Você não usa?</font>
 
 205
-00:45:46,680 --> 00:45:48,159
-<font size="20px" color ="FFFF00">Sei lá.</font>
+00:17:16,195 --> 00:17:17,627
+<font size="18px" color ="FFFFFF">Sou natural, gatinha.</font>
 
 206
-00:45:49,480 --> 00:45:50,913
-<font size="20px" color ="FFFF00">Numa boate.</font>
+00:17:18,500 --> 00:17:21,033
+<font size="18px" color ="FFFFFF">Beleza. Seu corpo, suas escolhas.</font>
 
 207
-00:45:52,520 --> 00:45:54,033
-<font size="20px" color ="FFFF00">Isso é horrível.</font>
+00:17:25,137 --> 00:17:26,305
+<font size="18px" color ="FFFFFF">Quer usar um pouco?</font>
 
 208
-00:45:54,240 --> 00:45:56,595
-<font size="20px" color ="FFFF00">Vai acabar em 10 minutos.</font>
+00:17:30,510 --> 00:17:33,707
+<font size="18px" color ="FFFFFF">Acho que 150 é a dose mínima,</font>
 
 209
-00:46:04,520 --> 00:46:05,999
-<font size="20px" color ="FFFF00">Você poderia ir comigo.</font>
+00:17:34,663 --> 00:17:37,687
+<font size="18px" color ="FFFFFF">e se restam quatro semanas,
+verá pouca diferença,</font>
 
 210
-00:46:06,800 --> 00:46:09,268
-<font size="20px" color ="FFFF00">Para ver você pegar um velho?</font>
+00:17:37,770 --> 00:17:41,839
+<font size="18px" color ="FFFFFF">mas aumente aos poucos
+e vai ficar rasgada.</font>
 
 211
-00:46:24,120 --> 00:46:25,792
-<font size="20px" color ="FFFF00">Você fica bem com seu cabelo assim.</font>
+00:17:42,944 --> 00:17:44,015
+<font size="18px" color ="FFFFFF">Onde quer aplicar?</font>
 
 212
-00:50:21,720 --> 00:50:22,869
-<font size="20px" color ="FFFF00">Vou sair.</font>
+00:17:45,903 --> 00:17:46,903
+<font size="18px" color ="FFFFFF">Na nádega.</font>
 
 213
-00:51:05,600 --> 00:51:10,037
-<font size="20px" color ="FFFF00">Minha amiga precisa correr,
-seu pai está esperando.</font>
+00:17:47,928 --> 00:17:48,987
+<font size="18px" color ="FFFFFF">Então, vire-se.</font>
 
 214
-00:51:10,360 --> 00:51:12,749
-<font size="20px" color ="FFFF00">-Que?
--Sim, seu pai.</font>
+00:17:49,839 --> 00:17:50,839
+<font size="18px" color ="FFFFFF">Porra.</font>
 
 215
-00:51:13,000 --> 00:51:16,754
-<font size="20px" color ="FFFF00">Ele teve medo que algum
-velho sujo nos pegasse.</font>
+00:17:57,906 --> 00:18:00,127
+<font size="18px" color ="FFFFFF">- Tudo bem.
+- Entrando…</font>
 
 216
-00:51:20,040 --> 00:51:21,314
-<font size="20px" color ="FFFF00">Tchau, papai.</font>
+00:18:05,380 --> 00:18:06,380
+<font size="18px" color ="FFFFFF">Feito.</font>
 
 217
-00:51:45,120 --> 00:51:46,314
-<font size="20px" color ="FFFF00">Obrigada.</font>
+00:18:08,131 --> 00:18:09,131
+<font size="18px" color ="FFFFFF">Como foi?</font>
 
 218
-00:51:51,480 --> 00:51:53,630
-<font size="20px" color ="FFFF00">Aquele cuzão beijava mal adoidado.</font>
+00:18:12,822 --> 00:18:14,538
+<font size="18px" color ="FFFFFF">Já sentiu? Você fica doidona.</font>
 
 219
-00:51:59,320 --> 00:52:00,469
-<font size="20px" color ="FFFF00">Espere.</font>
+00:18:14,619 --> 00:18:17,897
+<font size="18px" color ="FFFFFF">O efeito é imediato.
+Tipo Popeye comendo espinafre.</font>
 
 220
-00:52:01,760 --> 00:52:03,716
-<font size="20px" color ="FFFF00">Quero lhe pedir uma coisa...</font>
+00:18:17,980 --> 00:18:18,980
+<font size="18px" color ="FFFFFF">Que idiota.</font>
 
 221
-00:52:06,240 --> 00:52:09,550
-<font size="20px" color ="FFFF00">-Não é um pedido normal.
--Não tem problema.</font>
+00:18:36,983 --> 00:18:40,917
+<font size="18px" color ="FFFFFF">Você não é uma hétero curiosa, é?</font>
 
 222
-00:52:18,280 --> 00:52:20,236
-<font size="20px" color ="FFFF00">Eu quero que seja você, Marie.</font>
+00:18:48,703 --> 00:18:49,869
+<font size="18px" color ="FFFFFF">Merda, desculpe.</font>
 
 223
-00:52:25,680 --> 00:52:27,511
-<font size="20px" color ="FFFF00">Eu queria que você...</font>
+00:19:03,106 --> 00:19:04,273
+<font size="18px" color ="FFFFFF">Puta merda!</font>
 
 224
-00:52:32,400 --> 00:52:34,391
-<font size="20px" color ="FFFF00">fosse a minha primeira.</font>
+00:19:22,906 --> 00:19:23,940
+<font size="18px" color ="FFFFFF">Puta que pariu.</font>
 
 225
-00:52:38,280 --> 00:52:40,236
-<font size="20px" color ="FFFF00">Você faz isso para mim,</font>
+00:20:07,423 --> 00:20:11,533
+<font size="18px" color ="FFFFFF">Preciso trabalhar hoje,
+mas topa sair mais tarde?</font>
 
 226
-00:52:41,260 --> 00:52:44,711
-<font size="20px" color ="FFFF00">e me liberta. Então, será real.</font>
+00:20:11,613 --> 00:20:12,797
+<font size="18px" color ="FFFFFF">Já arranjou emprego?</font>
 
 227
-00:52:46,400 --> 00:52:48,152
-<font size="20px" color ="FFFF00">Eu não posso fazer isso.</font>
+00:20:12,880 --> 00:20:17,395
+<font size="18px" color ="FFFFFF">Sim, como garçonete
+num clube de tiros no interior.</font>
 
 228
-00:52:49,080 --> 00:52:50,832
-<font size="20px" color ="FFFF00">Por favor, Marie.</font>
+00:20:17,475 --> 00:20:20,186
+<font size="18px" color ="FFFFFF">Tem um bando de esquisitões
+e doidos por armas.</font>
 
 229
-00:53:34,040 --> 00:53:35,792
-<font size="20px" color ="FFFF00">Este é legal.</font>
+00:20:20,267 --> 00:20:21,314
+<font size="18px" color ="FFFFFF">Mas pagam bem.</font>
 
 230
-00:53:37,280 --> 00:53:39,794
-<font size="20px" color ="FFFF00">-E este?
--Não é ruim.</font>
+00:20:25,228 --> 00:20:26,357
+<font size="18px" color ="FFFFFF">Não trabalhe lá.</font>
 
 231
-00:53:40,080 --> 00:53:42,992
-<font size="20px" color ="FFFF00">-Dê cobertura.
--Você está sozinha nisso.</font>
+00:20:27,940 --> 00:20:29,945
+<font size="18px" color ="FFFFFF">- Por que não?
+- Meu pai é o dono.</font>
 
 232
-00:53:52,680 --> 00:53:54,272
-<font size="20px" color ="FFFF00">Olá.</font>
+00:20:31,150 --> 00:20:33,042
+<font size="18px" color ="FFFFFF">Meu Deus. Eu o conheci ontem.</font>
 
 233
-00:53:55,440 --> 00:53:57,237
-<font size="20px" color ="FFFF00">Posso ajudá-la?</font>
+00:20:33,122 --> 00:20:35,027
+<font size="18px" color ="FFFFFF">- Legal.
+- O cara do besouro?</font>
 
 234
-00:53:59,000 --> 00:54:01,070
-<font size="20px" color ="FFFF00">Também tenho outros modelos.</font>
+00:20:35,110 --> 00:20:36,405
+<font size="18px" color ="FFFFFF">Sim, esse aí.</font>
 
 235
-00:54:02,600 --> 00:54:03,794
-<font size="20px" color ="FFFF00">Até logo.</font>
+00:20:40,950 --> 00:20:42,209
+<font size="18px" color ="FFFFFF">Tem onde ficar?</font>
 
 236
-00:54:06,160 --> 00:54:08,720
-<font size="20px" color ="FFFF00">É como em "Peau d'Ane" (um filme).</font>
+00:20:44,134 --> 00:20:45,465
+<font size="18px" color ="FFFFFF">Ainda não sei bem.</font>
 
 237
-00:54:10,160 --> 00:54:12,196
-<font size="20px" color ="FFFF00">Há um cavalo que caga diamantes.</font>
+00:20:47,299 --> 00:20:48,299
+<font size="18px" color ="FFFFFF">Como assim?</font>
 
 238
-00:54:12,400 --> 00:54:15,551
-<font size="20px" color ="FFFF00">Aquilo quase dá errado. Eu quase engoli.</font>
+00:20:49,029 --> 00:20:50,373
+<font size="18px" color ="FFFFFF">Ia pedir se posso…</font>
 
 239
-00:54:21,200 --> 00:54:22,474
-<font size="20px" color ="FFFF00">Está andando estranho.</font>
+00:20:53,338 --> 00:20:54,759
+<font size="18px" color ="FFFFFF">dormir aqui umas noites.</font>
 
 240
-00:54:22,680 --> 00:54:25,592
-<font size="20px" color ="FFFF00">É meu jeans novo, está um pouco justo.</font>
+00:20:54,840 --> 00:20:58,807
+<font size="18px" color ="FFFFFF">Até eu receber meu salário
+e poder pagar um hotel.</font>
 
 241
-00:54:37,480 --> 00:54:40,438
-<font size="20px" color ="FFFF00">-Olá.
--Quero um Happy Meal.</font>
+00:21:06,140 --> 00:21:07,977
+<font size="18px" color ="FFFFFF">- Pode ficar.
+- Durmo no sofá.</font>
 
 242
-00:54:40,640 --> 00:54:42,278
-<font size="20px" color ="FFFF00">-Quantos anos você tem?
--Quinze.</font>
+00:21:08,060 --> 00:21:09,790
+<font size="18px" color ="FFFFFF">Não, cale a boca. Pode ficar.</font>
 
 243
-00:54:42,680 --> 00:54:46,389
-<font size="20px" color ="FFFF00">-Você é muito velha.
--Estupidez. É o que eu quero!</font>
+00:21:16,360 --> 00:21:18,253
+<font size="18px" color ="FFFFFF">- Está delicioso.
+- Que bom.</font>
 
 244
-00:54:46,600 --> 00:54:48,272
-<font size="20px" color ="FFFF00">-É para crianças.
--Esquece...</font>
+00:21:18,333 --> 00:21:21,907
+<font size="18px" color ="FFFFFF">Sabe, da próxima vez
+podia tirar as gemas.</font>
 
 245
-00:54:48,480 --> 00:54:49,993
-<font size="20px" color ="FFFF00">Mas isto é ridículo.</font>
+00:21:21,990 --> 00:21:22,990
+<font size="18px" color ="FFFFFF">É mesmo?</font>
 
 246
-00:54:50,200 --> 00:54:53,158
-<font size="20px" color ="FFFF00">Agora precisa RG para
-comprar um lanche barato?</font>
+00:21:26,906 --> 00:21:27,906
+<font size="18px" color ="FFFFFF">Beleza.</font>
 
 247
-00:54:53,360 --> 00:54:55,510
-<font size="20px" color ="FFFF00">-Vamos...
--Não, eu quero o brinquedo.</font>
+00:21:39,510 --> 00:21:45,067
+<font size="18px" color ="FFFFFF"><i>Amor, não ria</i></font>
 
 248
-00:54:55,720 --> 00:54:57,950
-<font size="20px" color ="FFFF00">É uma luneta.</font>
+00:21:51,730 --> 00:21:55,607
+<font size="18px" color ="FFFFFF">E aí fazemos a primeira pose,
+a "duplo bíceps frontal".</font>
 
 249
-00:55:04,640 --> 00:55:05,993
-<font size="20px" color ="FFFF00">Super.</font>
+00:21:56,354 --> 00:22:00,037
+<font size="18px" color ="FFFFFF">Forte e confiante. Relaxada, certo?</font>
 
 250
-00:55:07,160 --> 00:55:09,071
-<font size="20px" color ="FFFF00">Posso ver seus poros.</font>
+00:22:03,450 --> 00:22:06,970
+<font size="18px" color ="FFFFFF"><i>Sou sua transformer
+Me chame de Marlene</i></font>
 
 251
-00:55:09,680 --> 00:55:11,079
-<font size="20px" color ="FFFF00">Fantástico.</font>
+00:22:07,051 --> 00:22:08,957
+<font size="18px" color ="FFFFFF"><i>Me chame de Gino</i></font>
 
 252
-00:55:16,240 --> 00:55:19,312
-<font size="20px" color ="FFFF00">-Você irá à piscina mais tarde?
--Não.</font>
+00:22:09,040 --> 00:22:11,127
+<font size="18px" color ="FFFFFF"><i>Sou eu, você sabe</i></font>
 
 253
-00:55:21,080 --> 00:55:23,753
-<font size="20px" color ="FFFF00">Você sempre diz isso, mas acaba indo.</font>
+00:22:14,760 --> 00:22:20,927
+<font size="18px" color ="FFFFFF"><i>Sou sua transformer
+Me chame de Marlene ou de Gino</i></font>
 
 254
-00:55:25,320 --> 00:55:29,472
-<font size="20px" color ="FFFF00">-Nós não temos que fazer tudo juntas.
--Nem tudo separadas.</font>
+00:22:21,010 --> 00:22:23,010
+<font size="18px" color ="FFFFFF"><i>Sou eu, você sabe</i></font>
 
 255
-00:55:30,760 --> 00:55:33,069
-<font size="20px" color ="FFFF00">Estou cansada de suas criancices.</font>
+00:22:27,483 --> 00:22:29,647
+<font size="18px" color ="FFFFFF"><i>Eu gosto disso
+Je l'aime</i></font>
 
 256
-00:55:33,360 --> 00:55:35,749
-<font size="20px" color ="FFFF00">Quem fala; a garotinha sem peitos.</font>
+00:22:30,343 --> 00:22:31,343
+<font size="18px" color ="FFFFFF"><i>Mi piace</i></font>
 
 257
-00:55:36,960 --> 00:55:40,953
-<font size="20px" color ="FFFF00">Você tem peitos desde o primário,
-mas eles não são de verdade.</font>
+00:22:31,424 --> 00:22:32,897
+<font size="18px" color ="FFFFFF"><i>Você se movimenta bem</i></font>
 
 258
-00:55:41,400 --> 00:55:42,753
-<font size="20px" color ="FFFF00">São gordura.</font>
+00:22:32,980 --> 00:22:38,016
+<font size="18px" color ="FFFFFF"><i>Ligue para o Studio 54 em Nova York</i></font>
 
 259
-00:55:47,160 --> 00:55:48,832
-<font size="20px" color ="FFFF00">Você acertou o alvo...</font>
+00:22:39,030 --> 00:22:42,729
+<font size="18px" color ="FFFFFF"><i>Você se movimenta bem</i></font>
 
 260
-00:55:51,640 --> 00:55:53,437
-<font size="20px" color ="FFFF00">Chega.</font>
+00:22:44,870 --> 00:22:49,744
+<font size="18px" color ="FFFFFF"><i>Amor, não ria</i></font>
 
 261
-00:55:55,240 --> 00:55:56,559
-<font size="20px" color ="FFFF00">Estou cheia de você.</font>
+00:22:50,790 --> 00:22:52,790
+<font size="18px" color ="FFFFFF"><i>Sou eu, você sabe</i></font>
 
 262
-00:57:37,840 --> 00:57:39,478
-<font size="20px" color ="FFFF00">Ok, caras.</font>
+00:23:02,760 --> 00:23:07,566
+<font size="18px" color ="FFFFFF"><i>Sou sua transformer
+Me chame de Marlene ou de Gino</i></font>
 
 263
-00:57:41,960 --> 00:57:43,109
-<font size="20px" color ="FFFF00">Fora.</font>
+00:23:08,810 --> 00:23:10,810
+<font size="18px" color ="FFFFFF"><i>Sou eu, você sabe</i></font>
 
 264
-00:58:30,960 --> 00:58:32,916
-<font size="20px" color ="FFFF00">Veja o que ele me deu.</font>
+00:23:14,916 --> 00:23:17,346
+<font size="18px" color ="FFFFFF"><i>Eu gosto disso
+Je l'aime</i></font>
 
 265
-00:58:33,720 --> 00:58:35,278
-<font size="20px" color ="FFFF00">Você vai usar?</font>
+00:23:17,427 --> 00:23:18,884
+<font size="18px" color ="FFFFFF"><i>Mi piace</i></font>
 
 266
-00:59:03,400 --> 00:59:06,790
-<font size="20px" color ="FFFF00">Eu não acredito mais nisto. E você?</font>
+00:23:18,965 --> 00:23:20,617
+<font size="18px" color ="FFFFFF"><i>Você se movimenta bem</i></font>
 
 267
-00:59:08,720 --> 00:59:09,789
-<font size="20px" color ="FFFF00">Não.</font>
+00:23:20,700 --> 00:23:26,247
+<font size="18px" color ="FFFFFF"><i>Ligue para o Studio 54 em Nova York</i></font>
 
 268
-00:59:26,760 --> 00:59:28,671
-<font size="20px" color ="FFFF00">Estou com um problema.</font>
+00:23:26,330 --> 00:23:29,400
+<font size="18px" color ="FFFFFF"><i>Você se movimenta bem</i></font>
 
 269
-00:59:30,880 --> 00:59:34,077
-<font size="20px" color ="FFFF00">Ele quer me ver hoje a
-noite. Meus pais estão fora.</font>
+00:23:32,280 --> 00:23:38,217
+<font size="18px" color ="FFFFFF"><i>Amor, não ria</i></font>
 
 270
-00:59:44,560 --> 00:59:46,232
-<font size="20px" color ="FFFF00">Eu vou fazer.</font>
+00:23:38,300 --> 00:23:40,300
+<font size="18px" color ="FFFFFF"><i>Sou eu, você sabe</i></font>
 
 271
-00:59:52,360 --> 00:59:54,237
-<font size="20px" color ="FFFF00">O quê você me pediu.</font>
+00:23:47,115 --> 00:23:49,325
+<font size="18px" color ="FFFFFF"><i>Por que não quer
+que eu trabalhe pro seu pai?</i></font>
 
 272
-01:03:08,240 --> 01:03:09,559
-<font size="20px" color ="FFFF00">Espere.</font>
+00:23:49,406 --> 00:23:50,530
+<font size="18px" color ="FFFFFF"><i>Não nos damos bem.</i></font>
 
 273
-01:03:14,720 --> 01:03:16,278
-<font size="20px" color ="FFFF00">Eu tenho que ir.</font>
+00:23:50,610 --> 00:23:52,687
+<font size="18px" color ="FFFFFF"><i>Porque você gosta de garotas?</i></font>
 
 274
-01:03:39,920 --> 01:03:41,990
-<font size="20px" color ="FFFF00">Obrigada por tudo, Marie.</font>
+00:23:53,455 --> 00:23:55,163
+<font size="18px" color ="FFFFFF">Não, ele nem ligava pra isso.</font>
 
 275
-01:05:27,160 --> 01:05:29,355
-<font size="20px" color ="FFFF00">-Ôi.
--Ôi.</font>
+00:23:55,810 --> 00:23:57,419
+<font size="18px" color ="FFFFFF">Isso é legal da parte dele.</font>
 
 276
-01:05:32,240 --> 01:05:35,596
-<font size="20px" color ="FFFF00">-Obrigada pelo colar.
--Não foi nada.</font>
+00:23:57,499 --> 00:23:59,911
+<font size="18px" color ="FFFFFF">Ele não é legal.
+É um maldito psicopata.</font>
 
 277
-01:05:39,720 --> 01:05:41,312
-<font size="20px" color ="FFFF00">Você está sozinha?</font>
+00:24:08,290 --> 00:24:11,207
+<font size="18px" color ="FFFFFF">É ILEGAL LEVAR ARMAS AO MÉXICO
+PENA DE PRISÃO</font>
 
 278
-01:05:43,000 --> 01:05:44,718
-<font size="20px" color ="FFFF00">Posso entrar?</font>
+00:24:39,454 --> 00:24:41,657
+<font size="18px" color ="FFFFFF">E sua mãe?</font>
 
 279
-01:07:52,760 --> 01:07:55,035
-<font size="20px" color ="FFFF00">Precisamos ficar juntas, Marie.</font>
+00:24:42,975 --> 00:24:45,814
+<font size="18px" color ="FFFFFF">O que tem? Ela se foi. Já faz…</font>
 
 280
-01:07:55,520 --> 01:07:57,875
-<font size="20px" color ="FFFF00">Faço coisas loucas quando estou sozinha.</font>
+00:24:47,691 --> 00:24:48,977
+<font size="18px" color ="FFFFFF">Já faz uns 12 anos.</font>
 
 281
-01:08:07,800 --> 01:08:10,109
-<font size="20px" color ="FFFF00">Você vai à festa da
-natação hoje a noite?</font>
+00:24:51,264 --> 00:24:52,697
+<font size="18px" color ="FFFFFF">Ela morreu?</font>
 
 282
-01:08:11,720 --> 01:08:12,789
-<font size="20px" color ="FFFF00">Não.</font>
+00:24:52,777 --> 00:24:53,977
+<font size="18px" color ="FFFFFF">Não, foi embora.</font>
 
 283
-01:08:13,760 --> 01:08:15,113
-<font size="20px" color ="FFFF00">Venha, por favor.</font>
+00:24:59,565 --> 00:25:00,633
+<font size="18px" color ="FFFFFF">Por que parou?</font>
 
 284
-01:08:16,720 --> 01:08:18,358
-<font size="20px" color ="FFFF00">Fique comigo.</font>
+00:25:02,607 --> 00:25:03,607
+<font size="18px" color ="FFFFFF">Vamos, anda.</font>
 
 285
-01:08:20,120 --> 01:08:21,235
-<font size="20px" color ="FFFF00">Não.</font>
+00:25:04,804 --> 00:25:06,217
+<font size="18px" color ="FFFFFF">Vamos. Pra cima.</font>
 
 286
-01:08:22,600 --> 01:08:24,238
-<font size="20px" color ="FFFF00">Eu tenho que ir.</font>
+00:25:08,220 --> 00:25:10,057
+<font size="18px" color ="FFFFFF">Puta que pariu!</font>
 
 287
-01:08:26,160 --> 01:08:27,957
-<font size="20px" color ="FFFF00">François também irá.</font>
+00:25:10,140 --> 00:25:11,989
+<font size="18px" color ="FFFFFF">Lou, eca.</font>
 
 288
-01:08:29,880 --> 01:08:31,950
-<font size="20px" color ="FFFF00">Pare de sonhar acordada.</font>
+00:25:19,820 --> 00:25:21,947
+<font size="18px" color ="FFFFFF">Posso trabalhar em outro lugar.</font>
 
 289
-01:08:32,840 --> 01:08:34,319
-<font size="20px" color ="FFFF00">Ele está com ela.</font>
+00:25:24,151 --> 00:25:25,367
+<font size="18px" color ="FFFFFF">Faça o que quiser.</font>
 
 290
-01:08:35,720 --> 01:08:37,836
-<font size="20px" color ="FFFF00">Eles transaram ontem a noite.</font>
+00:25:48,021 --> 00:25:49,597
+<font size="18px" color ="FFFFFF">Não lhe pago pra isso.</font>
 
 291
-01:08:39,080 --> 01:08:41,355
-<font size="20px" color ="FFFF00">-Não transaram.
--Transaram sim.</font>
+00:25:50,574 --> 00:25:52,177
+<font size="18px" color ="FFFFFF">Estou no intervalo, senhor.</font>
 
 292
-01:08:43,760 --> 01:08:48,470
-<font size="20px" color ="FFFF00">-Esqueça isso. Esqueça esses
-estúpidos sonhos de princesa.</font>
+00:25:53,397 --> 00:25:54,397
+<font size="18px" color ="FFFFFF">Venha.</font>
 
 293
-01:08:49,360 --> 01:08:52,193
-<font size="20px" color ="FFFF00">-Não é verdade.
--É sim.</font>
+00:25:59,413 --> 00:26:00,413
+<font size="18px" color ="FFFFFF">Vamos!</font>
 
 294
-01:08:53,760 --> 01:08:55,512
-<font size="20px" color ="FFFF00">Ele me disse.</font>
+00:26:03,536 --> 00:26:06,697
+<font size="18px" color ="FFFFFF"><i>Já que trabalha aqui,
+deveria saber o básico.</i></font>
 
 295
-01:08:57,840 --> 01:08:59,637
-<font size="20px" color ="FFFF00">Como se ele falasse com você.</font>
+00:26:11,504 --> 00:26:12,572
+<font size="18px" color ="FFFFFF">Endireite-a.</font>
 
 296
-01:09:00,920 --> 01:09:02,876
-<font size="20px" color ="FFFF00">Nós transamos.</font>
+00:26:15,952 --> 00:26:19,249
+<font size="18px" color ="FFFFFF">Basta ser muito, muito delicada.</font>
 
 297
-01:09:06,960 --> 01:09:09,235
-<font size="20px" color ="FFFF00">Ele passou aqui e nós transamos.</font>
+00:26:29,930 --> 00:26:32,677
+<font size="18px" color ="FFFFFF">Tem mais poder que um soco, não?</font>
 
 298
-01:09:09,440 --> 01:09:12,830
-<font size="20px" color ="FFFF00">Ele transou comigo, ela não quis.</font>
+00:26:35,820 --> 00:26:37,337
+<font size="18px" color ="FFFFFF">De novo. Endireite-a.</font>
 
 299
-01:09:13,800 --> 01:09:16,792
-<font size="20px" color ="FFFF00">Talvez ele me ame um pouquinho.</font>
+00:26:38,086 --> 00:26:40,032
+<font size="18px" color ="FFFFFF">- Certo.
+- Isso. Bem devagar.</font>
 
 300
-01:09:19,840 --> 01:09:21,592
-<font size="20px" color ="FFFF00">Mas não faz mal...</font>
+00:26:54,871 --> 00:26:56,406
+<font size="18px" color ="FFFFFF">Você irá comigo a Vegas?</font>
 
 301
-01:09:24,440 --> 01:09:26,590
-<font size="20px" color ="FFFF00">Eu dei meu primeiro beijo.</font>
+00:26:58,513 --> 00:27:00,167
+<font size="18px" color ="FFFFFF">Quero que me veja vencer.</font>
 
 302
-01:09:35,480 --> 01:09:39,075
-<font size="20px" color ="FFFF00">Eu também, sabe... Eu
-também gosto de alguém.</font>
+00:27:00,750 --> 00:27:01,750
+<font size="18px" color ="FFFFFF">Sim.</font>
 
 303
-01:09:40,040 --> 01:09:41,632
-<font size="20px" color ="FFFF00">Quem é?</font>
+00:27:02,957 --> 00:27:03,957
+<font size="18px" color ="FFFFFF">Vou, claro.</font>
 
 304
-01:09:44,800 --> 01:09:46,313
-<font size="20px" color ="FFFF00">Eu conheço?</font>
+00:27:06,011 --> 00:27:08,717
+<font size="18px" color ="FFFFFF">Mas se não ganhar, tudo bem.</font>
 
 305
-01:09:47,280 --> 01:09:48,508
-<font size="20px" color ="FFFF00">Não.</font>
+00:27:09,759 --> 00:27:10,759
+<font size="18px" color ="FFFFFF">Certo?</font>
 
 306
-01:10:29,160 --> 01:10:30,559
-<font size="20px" color ="FFFF00">Você está indo?</font>
+00:27:18,675 --> 00:27:19,675
+<font size="18px" color ="FFFFFF">Caramba.</font>
 
 307
-01:11:28,120 --> 01:11:29,439
-<font size="20px" color ="FFFF00">Espere.</font>
+00:27:26,447 --> 00:27:28,114
+<font size="18px" color ="FFFFFF">Depois, vamos viajar por aí.</font>
 
 308
-01:11:36,860 --> 01:11:38,757
-<font size="20px" color ="FFFF00">Você está bem.</font>
+00:27:29,322 --> 00:27:30,322
+<font size="18px" color ="FFFFFF">Para onde?</font>
 
 309
-01:12:19,720 --> 01:12:23,474
-<font size="20px" color ="FFFF00">-Venha, vamos.
--Eu não posso ir ainda.</font>
+00:27:31,899 --> 00:27:32,899
+<font size="18px" color ="FFFFFF">Califórnia.</font>
 
 310
-01:12:23,680 --> 01:12:26,353
-<font size="20px" color ="FFFF00">-Venha.
--Eu vou ficar.</font>
+00:27:34,878 --> 00:27:37,548
+<font size="18px" color ="FFFFFF">Se eu ganhar,
+posso trabalhar como treinadora,</font>
 
 311
-01:12:26,600 --> 01:12:28,272
-<font size="20px" color ="FFFF00">Sozinha?</font>
+00:27:38,908 --> 00:27:41,690
+<font size="18px" color ="FFFFFF">ter uma casa na praia, nadar no mar…</font>
 
 312
-01:12:29,160 --> 01:12:30,912
-<font size="20px" color ="FFFF00">Eu não estou sozinha.</font>
+00:27:41,770 --> 00:27:43,897
+<font size="18px" color ="FFFFFF">Essas coisas.</font>
 
 313
-01:12:31,480 --> 01:12:33,596
-<font size="20px" color ="FFFF00">Tem alguém esperando por mim.</font>
+00:27:47,250 --> 00:27:48,634
+<font size="18px" color ="FFFFFF">É, eu nunca saí daqui.</font>
 
 314
-01:12:35,760 --> 01:12:37,955
-<font size="20px" color ="FFFF00">Tem certeza?</font>
+00:27:52,559 --> 00:27:53,559
+<font size="18px" color ="FFFFFF">Por que não?</font>
 
 315
-01:12:44,760 --> 01:12:48,150
-<font size="20px" color ="FFFF00">Vamos para casa. Ninguém gosta dela.</font>
+00:28:31,969 --> 00:28:35,522
+<font size="18px" color ="FFFFFF">Então… Quando é o campeonato?</font>
 
 316
-01:12:48,800 --> 01:12:49,630
-<font size="20px" color ="FFFF00">Tchau.</font>
+00:28:36,813 --> 00:28:37,813
+<font size="18px" color ="FFFFFF">Nesta quinta.</font>
 
 317
-01:12:50,640 --> 01:12:52,392
-<font size="20px" color ="FFFF00">-Que você está fazendo?
--Nada.</font>
+00:28:39,651 --> 00:28:42,319
+<font size="18px" color ="FFFFFF">- Como está se sentindo?
+- Bem, eu acho.</font>
 
 318
-01:12:52,600 --> 01:12:55,273
-<font size="20px" color ="FFFF00">-Venha comigo.
--Estou bem aqui.</font>
+00:28:42,399 --> 00:28:43,882
+<font size="18px" color ="FFFFFF">Ela vai arrasar.</font>
 
 319
-01:13:01,960 --> 01:13:03,678
-<font size="20px" color ="FFFF00">O que há?</font>
+00:28:43,962 --> 00:28:45,397
+<font size="18px" color ="FFFFFF">Sim, você está linda.</font>
 
 320
-01:13:10,960 --> 01:13:12,996
-<font size="20px" color ="FFFF00">Quero te pedir uma coisa.</font>
+00:28:46,823 --> 00:28:47,877
+<font size="18px" color ="FFFFFF">Comida!</font>
 
 321
-01:13:26,480 --> 01:13:27,799
-<font size="20px" color ="FFFF00">Venha aqui.</font>
+00:28:48,900 --> 00:28:50,107
+<font size="18px" color ="FFFFFF">Valeu.</font>
 
 322
-01:13:31,720 --> 01:13:32,789
-<font size="20px" color ="FFFF00">Venha, Marie.</font>
+00:28:52,440 --> 00:28:53,867
+<font size="18px" color ="FFFFFF">- Mais?
+- Sim.</font>
 
 323
-01:14:20,080 --> 01:14:21,559
-<font size="20px" color ="FFFF00">Vê...</font>
+00:28:53,950 --> 00:28:55,319
+<font size="18px" color ="FFFFFF">- Abacaxi?
+- Não.</font>
 
 324
-01:14:22,560 --> 01:14:24,755
-<font size="20px" color ="FFFF00">Não foi tão difícil.</font>
+00:28:56,030 --> 00:28:58,787
+<font size="18px" color ="FFFFFF">Vocês vão amar Vegas. É doideira.</font>
 
 325
-01:14:40,920 --> 01:14:42,751
-<font size="20px" color ="FFFF00">Eu vou voltar.</font>
+00:28:58,870 --> 00:29:01,939
+<font size="18px" color ="FFFFFF">- Ouvi falar. Já foi lá?
+- Fomos passar a lua de mel.</font>
 
 326
-01:14:50,760 --> 01:14:52,591
-<font size="20px" color ="FFFF00">Ele não é tão ruim, é?</font>
+00:29:02,019 --> 00:29:03,974
+<font size="18px" color ="FFFFFF">Bagulho de merda.</font>
 
 327
-01:14:58,680 --> 01:15:01,717
-<font size="20px" color ="FFFF00">Se ele me encher o saco, você me salva?</font>
+00:29:04,054 --> 00:29:05,835
+<font size="18px" color ="FFFFFF">- Quer ajuda, querido?
+- Não, deixa.</font>
+
+328
+00:29:05,915 --> 00:29:07,833
+<font size="18px" color ="FFFFFF">- Quer um garfo?
+- Não.</font>
+
+329
+00:29:11,420 --> 00:29:12,717
+<font size="18px" color ="FFFFFF">- Só segure…
+- Entendi.</font>
+
+330
+00:29:13,509 --> 00:29:14,643
+<font size="18px" color ="FFFFFF">Sinto muito.</font>
+
+331
+00:29:14,723 --> 00:29:16,100
+<font size="18px" color ="FFFFFF">- Vai manchar.
+- Eu sei.</font>
+
+332
+00:29:16,180 --> 00:29:19,006
+<font size="18px" color ="FFFFFF">Não pode esfregar meu pau
+no meio do restaurante.</font>
+
+333
+00:29:23,267 --> 00:29:24,267
+<font size="18px" color ="FFFFFF">Desculpe.</font>
+
+334
+00:29:32,230 --> 00:29:33,231
+<font size="18px" color ="FFFFFF">Por favor, não.</font>
+
+335
+00:29:46,216 --> 00:29:47,229
+<font size="18px" color ="FFFFFF">Qual foi?</font>
+
+336
+00:29:47,310 --> 00:29:49,302
+<font size="18px" color ="FFFFFF">Se tocar nela mais uma vez…</font>
+
+337
+00:29:50,247 --> 00:29:52,310
+<font size="18px" color ="FFFFFF">O quê? O que vai fazer, Lou?</font>
+
+338
+00:29:53,322 --> 00:29:55,183
+<font size="18px" color ="FFFFFF">Será a última coisa que fará.</font>
+
+339
+00:29:55,263 --> 00:29:56,797
+<font size="18px" color ="FFFFFF">O que ela disse desta vez?</font>
+
+340
+00:29:56,880 --> 00:29:58,717
+<font size="18px" color ="FFFFFF">Não precisou. Eu tenho olhos.</font>
+
+341
+00:30:00,902 --> 00:30:05,327
+<font size="18px" color ="FFFFFF">Olhe mais de perto sua nova namorada
+em vez de se meter onde não é chamada.</font>
+
+342
+00:30:07,896 --> 00:30:10,977
+<font size="18px" color ="FFFFFF">É. Eu a conheci na noite
+em que ela chegou na cidade.</font>
+
+343
+00:30:11,841 --> 00:30:13,498
+<font size="18px" color ="FFFFFF">Eu a levei atrás do Daggers.</font>
+
+344
+00:30:13,579 --> 00:30:15,445
+<font size="18px" color ="FFFFFF">Comi ela no estacionamento.</font>
+
+345
+00:30:15,526 --> 00:30:17,898
+<font size="18px" color ="FFFFFF">Ela queria muito o emprego.</font>
+
+346
+00:30:17,978 --> 00:30:18,978
+<font size="18px" color ="FFFFFF">Vou te contar…</font>
+
+347
+00:30:20,100 --> 00:30:24,787
+<font size="18px" color ="FFFFFF">Mas não tanto quanto ela queria
+um passe livre na academia.</font>
+
+348
+00:30:50,306 --> 00:30:52,264
+<font size="18px" color ="FFFFFF">Vai ficar assim o resto da noite?</font>
+
+349
+00:30:55,451 --> 00:30:57,987
+<font size="18px" color ="FFFFFF">- Quer ficar em algum lugar?
+- Como assim?</font>
+
+350
+00:30:59,820 --> 00:31:00,820
+<font size="18px" color ="FFFFFF">No JJ?</font>
+
+351
+00:31:02,170 --> 00:31:04,117
+<font size="18px" color ="FFFFFF">Por isso está estranha.</font>
+
+352
+00:31:05,200 --> 00:31:06,200
+<font size="18px" color ="FFFFFF">Amor.</font>
+
+353
+00:31:08,026 --> 00:31:09,037
+<font size="18px" color ="FFFFFF">Transou com ele.</font>
+
+354
+00:31:12,238 --> 00:31:15,627
+<font size="18px" color ="FFFFFF">Não sabia quem ele era nem nada.
+Nem conhecia você.</font>
+
+355
+00:31:15,707 --> 00:31:18,547
+<font size="18px" color ="FFFFFF">- Conheci você um dia depois.
+- E daí? Caralho.</font>
+
+356
+00:31:19,480 --> 00:31:22,767
+<font size="18px" color ="FFFFFF">Então você transa com homens?
+Eu perguntei se…</font>
+
+357
+00:31:22,847 --> 00:31:24,507
+<font size="18px" color ="FFFFFF">Gosto de homens e mulheres.</font>
+
+358
+00:31:27,364 --> 00:31:31,032
+<font size="18px" color ="FFFFFF">Acho que não importa quem é,
+desde que te ofereçam um emprego,</font>
+
+359
+00:31:31,884 --> 00:31:33,227
+<font size="18px" color ="FFFFFF">um lugar pra ficar</font>
+
+360
+00:31:34,088 --> 00:31:35,492
+<font size="18px" color ="FFFFFF">ou separem suas gemas.</font>
+
+361
+00:31:38,236 --> 00:31:39,237
+<font size="18px" color ="FFFFFF">É isso?</font>
+
+362
+00:31:42,891 --> 00:31:44,159
+<font size="18px" color ="FFFFFF">Vá se foder.</font>
+
+363
+00:31:44,240 --> 00:31:45,241
+<font size="18px" color ="FFFFFF">É?</font>
+
+364
+00:31:48,265 --> 00:31:50,234
+<font size="18px" color ="FFFFFF">Aonde você vai, porra?</font>
+
+365
+00:31:50,315 --> 00:31:52,417
+<font size="18px" color ="FFFFFF">- Onde você acha?
+- Lugar nenhum.</font>
+
+366
+00:31:52,500 --> 00:31:55,388
+<font size="18px" color ="FFFFFF">Como pôde transar
+com aquele cara, amor?</font>
+
+367
+00:31:57,298 --> 00:32:00,916
+<font size="18px" color ="FFFFFF">Você curtiu? Porque ele é repugnante.</font>
+
+368
+00:32:01,492 --> 00:32:03,425
+<font size="18px" color ="FFFFFF">Um lixo total.</font>
+
+369
+00:32:03,505 --> 00:32:05,253
+<font size="18px" color ="FFFFFF">Ele arrebenta a Beth a pau.</font>
+
+370
+00:32:05,930 --> 00:32:08,710
+<font size="18px" color ="FFFFFF">Ela é manipulada por ele.
+Só não vazei por causa dela.</font>
+
+371
+00:32:11,269 --> 00:32:15,051
+<font size="18px" color ="FFFFFF">Mas você acha que só presto
+pra ajudar com suas futilidades.</font>
+
+372
+00:32:15,132 --> 00:32:16,132
+<font size="18px" color ="FFFFFF">Vá se foder!</font>
+
+373
+00:32:17,150 --> 00:32:19,353
+<font size="18px" color ="FFFFFF">Não acho, mas você não me conta nada.</font>
+
+374
+00:32:19,962 --> 00:32:21,260
+<font size="18px" color ="FFFFFF">Estou contando agora.</font>
+
+375
+00:32:22,258 --> 00:32:24,493
+<font size="18px" color ="FFFFFF">Olha… É o que está rolando.</font>
+
+376
+00:32:24,573 --> 00:32:26,311
+<font size="18px" color ="FFFFFF">Sempre foi assim.</font>
+
+377
+00:32:26,394 --> 00:32:29,997
+<font size="18px" color ="FFFFFF">Ela não presta queixa na polícia.
+Não sei o que fazer.</font>
+
+378
+00:32:30,080 --> 00:32:33,185
+<font size="18px" color ="FFFFFF">Desculpe por não ter
+compartilhado isso com você.</font>
+
+379
+00:32:35,500 --> 00:32:39,337
+<font size="18px" color ="FFFFFF">Acha que não tenho histórias sinistras,
+Lou? Tenho várias.</font>
+
+380
+00:32:42,424 --> 00:32:44,099
+<font size="18px" color ="FFFFFF">Você não entende.</font>
+
+381
+00:32:47,524 --> 00:32:48,772
+<font size="18px" color ="FFFFFF">Esse cara, eu quero…</font>
+
+382
+00:32:50,303 --> 00:32:51,362
+<font size="18px" color ="FFFFFF">Eu quero muito…</font>
+
+383
+00:32:53,139 --> 00:32:54,139
+<font size="18px" color ="FFFFFF">Pra caralho…</font>
+
+384
+00:32:54,220 --> 00:32:55,772
+<font size="18px" color ="FFFFFF">Quero matar o desgraçado.</font>
+
+385
+00:33:04,555 --> 00:33:05,567
+<font size="18px" color ="FFFFFF">Volte pro carro.</font>
+
+386
+00:33:17,422 --> 00:33:18,704
+<font size="18px" color ="FFFFFF">Feche a porta, vamos.</font>
+
+387
+00:33:54,027 --> 00:33:55,327
+<font size="18px" color ="FFFFFF">Só me dê um segundo.</font>
+
+388
+00:34:13,778 --> 00:34:15,037
+<font size="18px" color ="FFFFFF">Não tinha parado?</font>
+
+389
+00:34:17,627 --> 00:34:18,686
+<font size="18px" color ="FFFFFF">Isso não conta.</font>
+
+390
+00:34:20,036 --> 00:34:21,406
+<font size="18px" color ="FFFFFF">Quero alargar você.</font>
+
+391
+00:34:23,595 --> 00:34:25,107
+<font size="18px" color ="FFFFFF">Ver até onde aguenta.</font>
+
+392
+00:34:36,389 --> 00:34:38,457
+<font size="18px" color ="FFFFFF">Enfia os dedos pra se masturbar?</font>
+
+393
+00:34:40,380 --> 00:34:41,757
+<font size="18px" color ="FFFFFF">Como você faz?</font>
+
+394
+00:34:42,904 --> 00:34:44,070
+<font size="18px" color ="FFFFFF">Quer me mostrar?</font>
+
+395
+00:34:47,220 --> 00:34:48,677
+<font size="18px" color ="FFFFFF">Vamos, mostre-me.</font>
+
+396
+00:34:55,220 --> 00:34:56,807
+<font size="18px" color ="FFFFFF">É assim mesmo?</font>
+
+397
+00:35:14,719 --> 00:35:15,719
+<font size="18px" color ="FFFFFF">Boa garota.</font>
+
+398
+00:35:25,250 --> 00:35:26,586
+<font size="18px" color ="FFFFFF">Caralho.</font>
+
+399
+00:35:43,197 --> 00:35:44,197
+<font size="18px" color ="FFFFFF">Eu te amo.</font>
+
+400
+00:35:46,332 --> 00:35:47,533
+<font size="18px" color ="FFFFFF">Eu também te amo.</font>
+
+401
+00:36:05,067 --> 00:36:06,067
+<font size="18px" color ="FFFFFF">Sim?</font>
+
+402
+00:36:08,605 --> 00:36:09,605
+<font size="18px" color ="FFFFFF">Sim.</font>
+
+403
+00:36:13,260 --> 00:36:15,229
+<font size="18px" color ="FFFFFF">É o quarto 08?</font>
+
+404
+00:36:32,405 --> 00:36:33,459
+<font size="18px" color ="FFFFFF">Meu Deus.</font>
+
+405
+00:36:39,712 --> 00:36:41,687
+<font size="18px" color ="FFFFFF">Os paramédicos a pegaram às 3h.</font>
+
+406
+00:36:42,299 --> 00:36:43,769
+<font size="18px" color ="FFFFFF">Ela ainda não acordou.</font>
+
+407
+00:36:45,166 --> 00:36:47,377
+<font size="18px" color ="FFFFFF">- Tarde de noite de ontem.
+- Cadê ele?</font>
+
+408
+00:36:48,209 --> 00:36:51,318
+<font size="18px" color ="FFFFFF">O marido está na delegacia
+prestando depoimento.</font>
+
+409
+00:36:51,398 --> 00:36:52,467
+<font size="18px" color ="FFFFFF">Depoimento?</font>
+
+410
+00:36:52,550 --> 00:36:54,838
+<font size="18px" color ="FFFFFF">Sabemos. Foi ele.</font>
+
+411
+00:36:54,918 --> 00:36:57,356
+<font size="18px" color ="FFFFFF">Senhora, ninguém sabe o que aconteceu.</font>
+
+412
+00:36:57,436 --> 00:36:58,815
+<font size="18px" color ="FFFFFF">Você a viu?</font>
+
+413
+00:36:58,895 --> 00:37:03,050
+<font size="18px" color ="FFFFFF">Vamos esperar sua irmã acordar
+para saber se ela quer prestar queixa.</font>
+
+414
+00:37:33,409 --> 00:37:35,846
+<font size="18px" color ="FFFFFF">Vou providenciar
+tudo que ela precisar.</font>
+
+415
+00:37:39,648 --> 00:37:42,480
+<font size="18px" color ="FFFFFF">Vamos cuidar do JJ nós mesmos.</font>
+
+416
+00:37:43,835 --> 00:37:47,307
+<font size="18px" color ="FFFFFF">- Ele vai se arrepender.
+- Foi o que disse da última vez.</font>
+
+417
+00:37:48,303 --> 00:37:51,609
+<font size="18px" color ="FFFFFF">Ela não ia querer acordar
+e saber que o marido foi preso.</font>
+
+418
+00:37:52,451 --> 00:37:54,107
+<font size="18px" color ="FFFFFF">Não pensei em prisão.</font>
+
+419
+00:37:55,707 --> 00:37:57,568
+<font size="18px" color ="FFFFFF">Também não ia querer ele morto.</font>
+
+420
+00:37:59,795 --> 00:38:02,096
+<font size="18px" color ="FFFFFF">Gostaria de respeitar as decisões dela.</font>
+
+421
+00:38:03,626 --> 00:38:04,626
+<font size="18px" color ="FFFFFF">Belo gesto.</font>
+
+422
+00:38:19,919 --> 00:38:21,978
+<font size="18px" color ="FFFFFF">Não se preocupe, pequena Bethany.</font>
+
+423
+00:38:27,841 --> 00:38:29,513
+<font size="18px" color ="FFFFFF">Tudo vai sarar.</font>
+
+424
+00:38:59,247 --> 00:39:00,266
+<font size="18px" color ="FFFFFF">Sinto muito, Lou.</font>
+
+425
+00:39:05,350 --> 00:39:07,377
+<font size="18px" color ="FFFFFF">Porra!</font>
+
+426
+00:39:10,140 --> 00:39:11,528
+<font size="18px" color ="FFFFFF">Meu Deus!</font>
+
+427
+00:39:59,916 --> 00:40:02,118
+<font size="18px" color ="FFFFFF"><i>JJ, precisamos conversar.</i></font>
+
+428
+00:40:04,746 --> 00:40:05,996
+<font size="18px" color ="FFFFFF"><i>Atenda o telefone.</i></font>
+
+429
+00:40:20,699 --> 00:40:21,699
+<font size="18px" color ="FFFFFF">Olá?</font>
+
+430
+00:40:50,812 --> 00:40:52,077
+<font size="18px" color ="FFFFFF">Cale a maldita boca!</font>
+
+431
+00:40:53,500 --> 00:40:54,500
+<font size="18px" color ="FFFFFF">O quê…</font>
+
+432
+00:40:59,593 --> 00:41:01,067
+<font size="18px" color ="FFFFFF">Não, não!</font>
+
+433
+00:41:02,090 --> 00:41:03,297
+<font size="18px" color ="FFFFFF">Não! Desculpe.</font>
+
+434
+00:41:24,755 --> 00:41:27,164
+<font size="18px" color ="FFFFFF">Vamos. Não há nada que possa fazer.</font>
+
+435
+00:41:52,220 --> 00:41:53,823
+<font size="18px" color ="FFFFFF"><i>Isto é crack.</i></font>
+
+436
+00:41:54,445 --> 00:41:57,704
+<font size="18px" color ="FFFFFF"><i>Apreendido há alguns dias
+pela polícia</i></font>
+
+437
+00:41:58,483 --> 00:42:01,365
+<font size="18px" color ="FFFFFF"><i>numa praça em frente à minha rua.</i></font>
+
+438
+00:42:02,098 --> 00:42:03,232
+<font size="18px" color ="FFFFFF">Pare.</font>
+
+439
+00:42:03,313 --> 00:42:05,519
+<font size="18px" color ="FFFFFF"><i>Podia ter sido heroína ou pó de anjo.</i></font>
+
+440
+00:42:56,480 --> 00:42:57,480
+<font size="18px" color ="FFFFFF">Jack.</font>
+
+441
+00:43:08,240 --> 00:43:09,452
+<font size="18px" color ="FFFFFF">Jack, você está bem?</font>
+
+442
+00:43:10,080 --> 00:43:11,139
+<font size="18px" color ="FFFFFF">Amor, tudo bem?</font>
+
+443
+00:43:17,220 --> 00:43:18,220
+<font size="18px" color ="FFFFFF">Jackie?</font>
+
+444
+00:43:18,934 --> 00:43:20,387
+<font size="18px" color ="FFFFFF">Amor, o que aconteceu?</font>
+
+445
+00:43:21,888 --> 00:43:23,123
+<font size="18px" color ="FFFFFF">Acertei as contas.</font>
+
+446
+00:43:29,364 --> 00:43:31,487
+<font size="18px" color ="FFFFFF">Vão matar você por isso!</font>
+
+447
+00:43:32,557 --> 00:43:33,557
+<font size="18px" color ="FFFFFF">Porra.</font>
+
+448
+00:43:34,412 --> 00:43:35,657
+<font size="18px" color ="FFFFFF">Sinto muito.</font>
+
+449
+00:43:39,108 --> 00:43:40,108
+<font size="18px" color ="FFFFFF">Como? Alguém…</font>
+
+450
+00:43:41,156 --> 00:43:42,337
+<font size="18px" color ="FFFFFF">Alguém viu você?</font>
+
+451
+00:43:45,742 --> 00:43:46,742
+<font size="18px" color ="FFFFFF">Tudo bem.</font>
+
+452
+00:44:01,613 --> 00:44:02,613
+<font size="18px" color ="FFFFFF">Porra.</font>
+
+453
+00:44:25,034 --> 00:44:27,003
+<font size="18px" color ="FFFFFF">Ele não vai caber. Temos que…</font>
+
+454
+00:44:27,083 --> 00:44:28,542
+<font size="18px" color ="FFFFFF">Vamos desenrolá-lo.</font>
+
+455
+00:44:29,174 --> 00:44:30,174
+<font size="18px" color ="FFFFFF">Empurre.</font>
+
+456
+00:44:31,162 --> 00:44:32,162
+<font size="18px" color ="FFFFFF">Certo.</font>
+
+457
+00:44:41,026 --> 00:44:42,917
+<font size="18px" color ="FFFFFF">Vamos dar uma volta, beleza?</font>
+
+458
+00:44:45,818 --> 00:44:46,947
+<font size="18px" color ="FFFFFF">Sei de um lugar.</font>
+
+459
+00:44:49,858 --> 00:44:51,964
+<font size="18px" color ="FFFFFF">Amor, pegue minha caminhonete.</font>
+
+460
+00:44:53,070 --> 00:44:54,958
+<font size="18px" color ="FFFFFF">Siga-me. Combinado?</font>
+
+461
+00:45:01,740 --> 00:45:02,740
+<font size="18px" color ="FFFFFF">Não.</font>
+
+462
+00:45:36,816 --> 00:45:38,039
+<font size="18px" color ="FFFFFF">Lou-Lou.</font>
+
+463
+00:45:38,120 --> 00:45:39,610
+<font size="18px" color ="FFFFFF">Abaixe o vidro da janela.</font>
+
+464
+00:45:40,910 --> 00:45:42,707
+<font size="18px" color ="FFFFFF">Está vermelho, por favor.</font>
+
+465
+00:45:46,483 --> 00:45:48,494
+<font size="18px" color ="FFFFFF">- Oi, estranha.
+- Daisy.</font>
+
+466
+00:45:48,574 --> 00:45:51,025
+<font size="18px" color ="FFFFFF">- Carro novo?
+- Não. Quer dizer, sim.</font>
+
+467
+00:45:51,105 --> 00:45:52,129
+<font size="18px" color ="FFFFFF">Como está?</font>
+
+468
+00:45:52,210 --> 00:45:55,105
+<font size="18px" color ="FFFFFF">Bem. Obrigada por perguntar.</font>
+
+469
+00:45:56,110 --> 00:45:57,849
+<font size="18px" color ="FFFFFF">Passeando a esta hora?</font>
+
+470
+00:45:57,930 --> 00:46:00,853
+<font size="18px" color ="FFFFFF">Só dirigindo,
+porque estou com enxaqueca.</font>
+
+471
+00:46:00,933 --> 00:46:02,177
+<font size="18px" color ="FFFFFF">Pobre Lou-Lou.</font>
+
+472
+00:46:03,350 --> 00:46:05,897
+<font size="18px" color ="FFFFFF">Vadia fedorenta! Dê a volta!</font>
+
+473
+00:46:07,193 --> 00:46:08,497
+<font size="18px" color ="FFFFFF">Não é sua caminhonete?</font>
+
+474
+00:46:08,578 --> 00:46:12,317
+<font size="18px" color ="FFFFFF">Preciso ir agora,
+mas vamos marcar de ir ao Winkie's.</font>
+
+475
+00:46:12,400 --> 00:46:14,757
+<font size="18px" color ="FFFFFF">- Que tal amanhã?
+- Claro. Vai ser legal.</font>
+
+476
+00:46:14,838 --> 00:46:16,487
+<font size="18px" color ="FFFFFF">Tchau. Até amanhã.</font>
+
+477
+00:48:19,541 --> 00:48:21,101
+<font size="18px" color ="FFFFFF">Lou? Tem certeza?</font>
+
+478
+00:48:24,901 --> 00:48:25,901
+<font size="18px" color ="FFFFFF">Confie em mim.</font>
+
+479
+00:48:41,222 --> 00:48:42,467
+<font size="18px" color ="FFFFFF">Que lugar é este?</font>
+
+480
+00:48:52,724 --> 00:48:54,110
+<font size="18px" color ="FFFFFF">Não se preocupe, Jack.</font>
+
+481
+00:48:55,674 --> 00:48:56,803
+<font size="18px" color ="FFFFFF">Vamos ficar bem.</font>
+
+482
+00:48:58,787 --> 00:49:01,226
+<font size="18px" color ="FFFFFF">Só me escute, certo?
+Faça o que eu mandar.</font>
+
+483
+00:49:11,191 --> 00:49:13,497
+<font size="18px" color ="FFFFFF">Vou à casa da Beth
+ver se deixamos algo.</font>
+
+484
+00:49:14,499 --> 00:49:15,979
+<font size="18px" color ="FFFFFF">Acho que deve ficar aqui.</font>
+
+485
+00:49:17,399 --> 00:49:19,257
+<font size="18px" color ="FFFFFF">Faça as malas. Eu vou com você.</font>
+
+486
+00:49:19,840 --> 00:49:21,696
+<font size="18px" color ="FFFFFF">Podemos chegar a Vegas à noite.</font>
+
+487
+00:49:23,975 --> 00:49:24,975
+<font size="18px" color ="FFFFFF">Não.</font>
+
+488
+00:49:25,691 --> 00:49:28,137
+<font size="18px" color ="FFFFFF">Não podemos ir a lugar algum.</font>
+
+489
+00:49:34,045 --> 00:49:35,057
+<font size="18px" color ="FFFFFF">Por que não?</font>
+
+490
+00:49:36,222 --> 00:49:37,222
+<font size="18px" color ="FFFFFF">É…</font>
+
+491
+00:49:38,687 --> 00:49:39,687
+<font size="18px" color ="FFFFFF">Venha aqui.</font>
+
+492
+00:49:40,411 --> 00:49:41,411
+<font size="18px" color ="FFFFFF">Venha aqui.</font>
+
+493
+00:49:42,495 --> 00:49:43,495
+<font size="18px" color ="FFFFFF">Escute.</font>
+
+494
+00:49:45,450 --> 00:49:48,407
+<font size="18px" color ="FFFFFF">Alguém verá aquela fumaça
+a qualquer momento.</font>
+
+495
+00:49:49,425 --> 00:49:51,609
+<font size="18px" color ="FFFFFF">Aí a polícia vai achar o corpo do JJ.</font>
+
+496
+00:49:52,610 --> 00:49:54,087
+<font size="18px" color ="FFFFFF">Tudo bem. Isso é bom.</font>
+
+497
+00:49:54,660 --> 00:49:56,406
+<font size="18px" color ="FFFFFF">Tem outras coisas lá embaixo.</font>
+
+498
+00:49:57,788 --> 00:50:01,127
+<font size="18px" color ="FFFFFF">Coisas que incriminam outra pessoa.</font>
+
+499
+00:50:02,038 --> 00:50:04,747
+<font size="18px" color ="FFFFFF">Coisas pelas quais
+outra pessoa deve responder.</font>
+
+500
+00:50:04,828 --> 00:50:05,828
+<font size="18px" color ="FFFFFF">Não você.</font>
+
+501
+00:50:06,550 --> 00:50:08,627
+<font size="18px" color ="FFFFFF">- Preciso ir.
+- Não. Temos que…</font>
+
+502
+00:50:08,707 --> 00:50:11,347
+<font size="18px" color ="FFFFFF">- A competição é amanhã.
+- Temos que ficar aqui.</font>
+
+503
+00:50:11,430 --> 00:50:13,608
+<font size="18px" color ="FFFFFF">Vamos ficar de boa
+e agir normalmente.</font>
+
+504
+00:50:13,688 --> 00:50:15,223
+<font size="18px" color ="FFFFFF">Eu iria de qualquer jeito.</font>
+
+505
+00:50:16,439 --> 00:50:17,875
+<font size="18px" color ="FFFFFF">Disse que iria comigo.</font>
+
+506
+00:50:20,964 --> 00:50:22,567
+<font size="18px" color ="FFFFFF">A Beth está a salvo agora.</font>
+
+507
+00:50:24,816 --> 00:50:25,816
+<font size="18px" color ="FFFFFF">Certo.</font>
+
+508
+00:50:28,920 --> 00:50:30,525
+<font size="18px" color ="FFFFFF">Podemos falar disso depois?</font>
+
+509
+00:50:32,888 --> 00:50:33,888
+<font size="18px" color ="FFFFFF">Eu te amo.</font>
+
+510
+00:50:35,469 --> 00:50:36,788
+<font size="18px" color ="FFFFFF">Por favor, fique aqui.</font>
+
+511
+00:51:54,950 --> 00:51:56,924
+<font size="18px" color ="FFFFFF"><i>É história sendo feita, pessoal.</i></font>
+
+512
+00:51:57,005 --> 00:51:59,367
+<font size="18px" color ="FFFFFF"><i>O governo alemão disse esta noite</i></font>
+
+513
+00:51:59,450 --> 00:52:02,529
+<font size="18px" color ="FFFFFF"><i>que fará ao menos uma dúzia
+de aberturas no muro,</i></font>
+
+514
+00:52:02,609 --> 00:52:05,329
+<font size="18px" color ="FFFFFF"><i>para que mais pessoas
+cruzem para o oeste.</i></font>
+
+515
+00:52:05,409 --> 00:52:07,599
+<font size="18px" color ="FFFFFF"><i>A animação no ar é palpável.</i></font>
+
+516
+00:52:07,679 --> 00:52:09,390
+<font size="18px" color ="FFFFFF"><i>A atmosfera é eletrizante.</i></font>
+
+517
+00:52:09,470 --> 00:52:12,257
+<font size="18px" color ="FFFFFF"><i>Uma celebração do indivíduo.</i></font>
+
+518
+00:52:51,816 --> 00:52:52,816
+<font size="18px" color ="FFFFFF">JJ!</font>
+
+519
+00:53:01,540 --> 00:53:03,147
+<font size="18px" color ="FFFFFF">JJ, está aqui?</font>
+
+520
+00:53:04,319 --> 00:53:05,918
+<font size="18px" color ="FFFFFF">Temos que conversar, amigo.</font>
+
+521
+00:53:08,943 --> 00:53:09,943
+<font size="18px" color ="FFFFFF">Serge.</font>
+
+522
+00:53:11,547 --> 00:53:14,157
+<font size="18px" color ="FFFFFF">Quando foi a última vez
+que cuidaram de você?</font>
+
+523
+00:53:15,634 --> 00:53:16,635
+<font size="18px" color ="FFFFFF">Minha nossa.</font>
+
+524
+00:53:17,971 --> 00:53:19,239
+<font size="18px" color ="FFFFFF">Viu alguma coisa?</font>
+
+525
+00:53:19,320 --> 00:53:20,320
+<font size="18px" color ="FFFFFF">Nada.</font>
+
+526
+00:54:06,852 --> 00:54:08,419
+<font size="18px" color ="FFFFFF">Ele saiu, rapazes. Vamos.</font>
+
+527
+00:54:08,500 --> 00:54:10,121
+<font size="18px" color ="FFFFFF">O carro dele não está aqui.</font>
+
+528
+00:55:13,908 --> 00:55:14,908
+<font size="18px" color ="FFFFFF">Jackie?</font>
+
+529
+00:55:21,122 --> 00:55:22,122
+<font size="18px" color ="FFFFFF">Jack.</font>
+
+530
+00:55:31,960 --> 00:55:33,757
+<font size="18px" color ="FFFFFF">SAÍ! VOLTO DEPOIS.
+NÃO SE PREOCUPE.</font>
+
+531
+00:55:49,770 --> 00:55:54,067
+<font size="18px" color ="FFFFFF">O CORPO OBTÉM
+TUDO QUE A MENTE ACREDITA</font>
+
+532
+00:56:03,070 --> 00:56:06,577
+<font size="18px" color ="FFFFFF">O DESTINO É UMA DECISÃO</font>
+
+533
+00:56:29,222 --> 00:56:30,355
+<font size="18px" color ="FFFFFF">Não sabia de nada?</font>
+
+534
+00:56:31,173 --> 00:56:32,937
+<font size="18px" color ="FFFFFF">Por favor… É o JJ mesmo?</font>
+
+535
+00:56:33,641 --> 00:56:34,647
+<font size="18px" color ="FFFFFF">A placa confere.</font>
+
+536
+00:56:35,349 --> 00:56:39,604
+<font size="18px" color ="FFFFFF">Um amigo disse que levará 24 horas
+até descerem e identificarem o corpo.</font>
+
+537
+00:56:39,685 --> 00:56:41,737
+<font size="18px" color ="FFFFFF">- Não foi suicídio?
+- Não.</font>
+
+538
+00:56:41,820 --> 00:56:44,537
+<font size="18px" color ="FFFFFF">Carros só explodem assim
+em batidas nos filmes.</font>
+
+539
+00:56:46,357 --> 00:56:49,070
+<font size="18px" color ="FFFFFF">Com a Beth no hospital,
+vão sondar você.</font>
+
+540
+00:56:51,203 --> 00:56:52,923
+<font size="18px" color ="FFFFFF">Quem mais sabe daquele lugar?</font>
+
+541
+00:56:53,933 --> 00:56:55,333
+<font size="18px" color ="FFFFFF">Por que eu lhe pago?</font>
+
+542
+00:56:56,623 --> 00:56:57,757
+<font size="18px" color ="FFFFFF">Descubra.</font>
+
+543
+00:57:12,430 --> 00:57:13,437
+<font size="18px" color ="FFFFFF">Porra…</font>
+
+544
+00:57:23,428 --> 00:57:25,893
+<font size="18px" color ="FFFFFF">Amor. Lou, vamos.
+Faça suas malas e vamos!</font>
+
+545
+00:57:26,649 --> 00:57:28,002
+<font size="18px" color ="FFFFFF">Estou pronta, caralho!</font>
+
+546
+00:57:33,275 --> 00:57:35,385
+<font size="18px" color ="FFFFFF">Faça suas malas. Temos que ir.</font>
+
+547
+00:57:36,280 --> 00:57:37,406
+<font size="18px" color ="FFFFFF">Meu Deus.</font>
+
+548
+00:57:37,487 --> 00:57:39,366
+<font size="18px" color ="FFFFFF">Puta que pariu, Jack.</font>
+
+549
+00:57:39,446 --> 00:57:40,467
+<font size="18px" color ="FFFFFF">Por onde andou?</font>
+
+550
+00:57:42,910 --> 00:57:44,524
+<font size="18px" color ="FFFFFF">Eu pedi uma coisa.</font>
+
+551
+00:57:45,601 --> 00:57:48,347
+<font size="18px" color ="FFFFFF">Para ficar em casa
+enquanto eu resolvia tudo!</font>
+
+552
+00:57:49,625 --> 00:57:50,896
+<font size="18px" color ="FFFFFF">Quantos você usou?</font>
+
+553
+00:57:51,493 --> 00:57:53,192
+<font size="18px" color ="FFFFFF">- Você não pediu.
+- O quê?</font>
+
+554
+00:57:53,272 --> 00:57:54,348
+<font size="18px" color ="FFFFFF">Você me trancou!</font>
+
+555
+00:57:57,080 --> 00:57:58,227
+<font size="18px" color ="FFFFFF">Jack?</font>
+
+556
+00:58:01,766 --> 00:58:02,766
+<font size="18px" color ="FFFFFF">Tudo bem.</font>
+
+557
+00:58:07,228 --> 00:58:08,228
+<font size="18px" color ="FFFFFF">Tudo bem.</font>
+
+558
+00:58:11,510 --> 00:58:12,510
+<font size="18px" color ="FFFFFF">Venha aqui.</font>
+
+559
+00:58:14,835 --> 00:58:17,747
+<font size="18px" color ="FFFFFF">Você matou um homem, Jack.
+Não caiu a ficha?</font>
+
+560
+00:58:17,830 --> 00:58:19,497
+<font size="18px" color ="FFFFFF">Sim. De nada.</font>
+
+561
+00:58:21,145 --> 00:58:22,257
+<font size="18px" color ="FFFFFF">Você é maluca.</font>
+
+562
+00:58:22,340 --> 00:58:24,337
+<font size="18px" color ="FFFFFF">- Vá se foder!
+- Foda-se você!</font>
+
+563
+00:58:24,420 --> 00:58:26,126
+<font size="18px" color ="FFFFFF">Isso não é um jogo, Jack.</font>
+
+564
+00:58:26,206 --> 00:58:28,967
+<font size="18px" color ="FFFFFF">Precisamos ter cuidado agora.
+Esqueça Vegas.</font>
+
+565
+00:58:40,228 --> 00:58:41,238
+<font size="18px" color ="FFFFFF">Desculpe, amor.</font>
+
+566
+00:58:43,336 --> 00:58:44,357
+<font size="18px" color ="FFFFFF">Deseje-me sorte.</font>
+
+567
+00:58:45,367 --> 00:58:46,367
+<font size="18px" color ="FFFFFF">O quê?</font>
+
+568
+00:59:02,143 --> 00:59:04,144
+<font size="18px" color ="FFFFFF">- Para onde está indo?
+- Vegas!</font>
+
+569
+00:59:04,224 --> 00:59:06,439
+<font size="18px" color ="FFFFFF">Acho que é seu dia de sorte.</font>
+
+570
+00:59:25,914 --> 00:59:27,857
+<font size="18px" color ="FFFFFF">Bom dia, flor do dia.</font>
+
+571
+00:59:29,825 --> 00:59:30,959
+<font size="18px" color ="FFFFFF">É sua parada, não?</font>
+
+572
+00:59:32,174 --> 00:59:33,997
+<font size="18px" color ="FFFFFF">CAMPEONATO DE FISICULTURISMO DE 1989</font>
+
+573
+00:59:53,470 --> 00:59:57,767
+<font size="18px" color ="FFFFFF"><i>Parabéns pra você</i></font>
+
+574
+00:59:57,850 --> 01:00:01,477
+<font size="18px" color ="FFFFFF"><i>Parabéns pra você</i></font>
+
+575
+01:00:01,560 --> 01:00:04,954
+<font size="18px" color ="FFFFFF"><i>Parabéns, querido Bobby</i></font>
+
+576
+01:00:06,017 --> 01:00:08,737
+<font size="18px" color ="FFFFFF"><i>Parabéns pra você</i></font>
+
+577
+01:00:09,879 --> 01:00:11,563
+<font size="18px" color ="FFFFFF">Bom trabalho, garoto.</font>
+
+578
+01:00:13,693 --> 01:00:14,727
+<font size="18px" color ="FFFFFF">Bom trabalho.</font>
+
+579
+01:00:16,312 --> 01:00:19,096
+<font size="18px" color ="FFFFFF">Venha aqui, Bobby.
+A mamãe só está meio triste.</font>
+
+580
+01:00:20,000 --> 01:00:22,207
+<font size="18px" color ="FFFFFF">Ele ligou? Alguém soube dele?</font>
+
+581
+01:00:23,310 --> 01:00:24,451
+<font size="18px" color ="FFFFFF">Ainda não, querida.</font>
+
+582
+01:00:25,380 --> 01:00:28,944
+<font size="18px" color ="FFFFFF">Lou, você falou com ele?</font>
+
+583
+01:00:29,840 --> 01:00:31,257
+<font size="18px" color ="FFFFFF">Mandou ele embora?</font>
+
+584
+01:00:31,840 --> 01:00:32,840
+<font size="18px" color ="FFFFFF">Não, não.</font>
+
+585
+01:00:35,859 --> 01:00:36,927
+<font size="18px" color ="FFFFFF">Promete?</font>
+
+586
+01:00:38,683 --> 01:00:39,977
+<font size="18px" color ="FFFFFF">Beth, eu… Prometo.</font>
+
+587
+01:00:40,923 --> 01:00:42,345
+<font size="18px" color ="FFFFFF">Ele vai voltar, querida.</font>
+
+588
+01:00:43,517 --> 01:00:46,397
+<font size="18px" color ="FFFFFF">Ele tem muito o que refletir.</font>
+
+589
+01:00:50,606 --> 01:00:51,737
+<font size="18px" color ="FFFFFF">Vou pegar um refri.</font>
+
+590
+01:01:19,931 --> 01:01:21,889
+<font size="18px" color ="FFFFFF">Vai me ignorar pro resto da vida?</font>
+
+591
+01:01:21,970 --> 01:01:24,729
+<font size="18px" color ="FFFFFF">Isso não é sobre nós. É sobre a Beth.</font>
+
+592
+01:01:24,809 --> 01:01:27,777
+<font size="18px" color ="FFFFFF">Só estou aqui por ela, pai.</font>
+
+593
+01:01:28,603 --> 01:01:30,823
+<font size="18px" color ="FFFFFF">Admiro o quanto protege sua irmã,</font>
+
+594
+01:01:30,903 --> 01:01:36,027
+<font size="18px" color ="FFFFFF">mas, da próxima vez,
+tenha mais cuidado com o que faz.</font>
+
+595
+01:01:37,792 --> 01:01:39,511
+<font size="18px" color ="FFFFFF">Do que está falando?</font>
+
+596
+01:01:39,591 --> 01:01:40,591
+<font size="18px" color ="FFFFFF">Acharam o JJ.</font>
+
+597
+01:01:41,897 --> 01:01:42,897
+<font size="18px" color ="FFFFFF">No carro dele.</font>
+
+598
+01:01:44,517 --> 01:01:47,417
+<font size="18px" color ="FFFFFF">Mike me contou os detalhes.
+O que sabem até agora.</font>
+
+599
+01:01:47,500 --> 01:01:50,484
+<font size="18px" color ="FFFFFF">Ótimo. Enfim o Mike
+está fazendo o trabalho dele.</font>
+
+600
+01:01:51,210 --> 01:01:53,363
+<font size="18px" color ="FFFFFF">Alguém ateou fogo ao carro.</font>
+
+601
+01:01:54,981 --> 01:01:58,229
+<font size="18px" color ="FFFFFF">Não deviam saber que a fumaça
+seria vista a quilômetros.</font>
+
+602
+01:01:58,824 --> 01:02:00,752
+<font size="18px" color ="FFFFFF">Um ato inocente de burrice,</font>
+
+603
+01:02:01,930 --> 01:02:04,428
+<font size="18px" color ="FFFFFF">ou talvez tenha algo a me dizer.</font>
+
+604
+01:02:08,119 --> 01:02:09,567
+<font size="18px" color ="FFFFFF">Aqui está ela, policial.</font>
+
+605
+01:02:16,570 --> 01:02:17,777
+<font size="18px" color ="FFFFFF">Não!</font>
+
+606
+01:02:19,218 --> 01:02:21,409
+<font size="18px" color ="FFFFFF">Não!</font>
+
+607
+01:02:21,990 --> 01:02:23,513
+<font size="18px" color ="FFFFFF">Não! Quero vê-lo.</font>
+
+608
+01:02:26,924 --> 01:02:28,627
+<font size="18px" color ="FFFFFF">Eu quero vê-lo!</font>
+
+609
+01:02:32,955 --> 01:02:34,257
+<font size="18px" color ="FFFFFF">Como é aí embaixo?</font>
+
+610
+01:02:36,009 --> 01:02:37,631
+<font size="18px" color ="FFFFFF">Não tem fim.</font>
+
+611
+01:02:38,339 --> 01:02:40,139
+<font size="18px" color ="FFFFFF">O carro está encravado aqui.</font>
+
+612
+01:02:41,478 --> 01:02:43,477
+<font size="18px" color ="FFFFFF">Vou descer para olhar melhor.</font>
+
+613
+01:02:51,388 --> 01:02:52,567
+<font size="18px" color ="FFFFFF">Está vendo algo?</font>
+
+614
+01:02:56,878 --> 01:02:59,090
+<font size="18px" color ="FFFFFF">Porra! Tem mais.</font>
+
+615
+01:02:59,171 --> 01:03:00,827
+<font size="18px" color ="FFFFFF"><i>Sou um cara mau, muito mau</i></font>
+
+616
+01:03:06,950 --> 01:03:08,917
+<font size="18px" color ="FFFFFF"><i>Sou um cara mau, muito mau</i></font>
+
+617
+01:04:17,434 --> 01:04:19,627
+<font size="18px" color ="FFFFFF"><i>Senhoras e senhores, prestem atenção.</i></font>
+
+618
+01:04:19,708 --> 01:04:23,870
+<font size="18px" color ="FFFFFF"><i>Competidores 20 a 25,
+subam ao palco, por favor.</i></font>
+
+619
+01:04:23,950 --> 01:04:26,081
+<font size="18px" color ="FFFFFF"><i>Muito obrigado, senhoras e senhores.</i></font>
+
+620
+01:04:40,076 --> 01:04:44,575
+<font size="18px" color ="FFFFFF"><i>E agora… é a vez das garotas!</i></font>
+
+621
+01:05:01,143 --> 01:05:02,870
+<font size="18px" color ="FFFFFF"><i>Um quarto de volta à direita.</i></font>
+
+622
+01:05:16,452 --> 01:05:19,062
+<font size="18px" color ="FFFFFF"><i>Um quarto de volta à direita.</i></font>
+
+623
+01:05:25,497 --> 01:05:26,697
+<font size="18px" color ="FFFFFF"><i>Olhem pra frente.</i></font>
+
+624
+01:05:40,134 --> 01:05:41,265
+<font size="18px" color ="FFFFFF"><i>Obrigado.</i></font>
+
+625
+01:05:45,813 --> 01:05:47,710
+<font size="18px" color ="FFFFFF"><i>Lindas, não?</i></font>
+
+626
+01:05:47,790 --> 01:05:49,952
+<font size="18px" color ="FFFFFF"><i>E só estamos começando.</i></font>
+
+627
+01:05:50,032 --> 01:05:53,641
+<font size="18px" color ="FFFFFF"><i>Cada competidora voltará ao palco
+para uma rotina individual.</i></font>
+
+628
+01:06:05,496 --> 01:06:06,496
+<font size="18px" color ="FFFFFF">Jackie!</font>
+
+629
+01:06:07,930 --> 01:06:09,269
+<font size="18px" color ="FFFFFF">Vai com tudo.</font>
+
+630
+01:06:14,666 --> 01:06:19,437
+<font size="18px" color ="FFFFFF"><i>A primeira, vinda de Oklahoma,
+Srta. Jaqueline Cleaver!</i></font>
+
+631
+01:06:26,094 --> 01:06:30,657
+<font size="18px" color ="FFFFFF"><i>Quando as luzes brilham</i></font>
+
+632
+01:06:33,441 --> 01:06:37,417
+<font size="18px" color ="FFFFFF"><i>E o tempo passa devagar</i></font>
+
+633
+01:06:40,296 --> 01:06:44,838
+<font size="18px" color ="FFFFFF"><i>Quando minha mente está aérea</i></font>
+
+634
+01:06:47,165 --> 01:06:50,136
+<font size="18px" color ="FFFFFF"><i>Arrasada e morrendo</i></font>
+
+635
+01:06:53,448 --> 01:06:57,477
+<font size="18px" color ="FFFFFF"><i>Há um moeda na minha mão</i></font>
+
+636
+01:07:00,360 --> 01:07:05,767
+<font size="18px" color ="FFFFFF"><i>Gravada para os tristes e solitários</i></font>
+
+637
+01:07:06,638 --> 01:07:09,277
+<font size="18px" color ="FFFFFF"><i>Agora me sinto tão gelada e só</i></font>
+
+638
+01:07:46,881 --> 01:07:49,067
+<font size="18px" color ="FFFFFF">Amor, mandei ficar sossegada.</font>
+
+639
+01:07:53,410 --> 01:07:55,207
+<font size="18px" color ="FFFFFF">Gorda maldita.</font>
+
+640
+01:07:55,290 --> 01:07:57,525
+<font size="18px" color ="FFFFFF">A gordinha comeu demais?</font>
+
+641
+01:07:59,719 --> 01:08:01,673
+<font size="18px" color ="FFFFFF"><i>Segurança, dirija-se ao palco.</i></font>
+
+642
+01:08:04,923 --> 01:08:05,986
+<font size="18px" color ="FFFFFF">Pare com isso!</font>
+
+643
+01:08:06,066 --> 01:08:07,927
+<font size="18px" color ="FFFFFF">- Pare, por favor!
+- Vamos!</font>
+
+644
+01:08:20,466 --> 01:08:24,228
+<font size="18px" color ="FFFFFF">Fiquei esperando você
+no Winkie's ontem.</font>
+
+645
+01:08:24,308 --> 01:08:25,317
+<font size="18px" color ="FFFFFF">É?</font>
+
+646
+01:08:25,398 --> 01:08:27,661
+<font size="18px" color ="FFFFFF">Desculpe, estava com minha irmã.</font>
+
+647
+01:08:27,741 --> 01:08:29,497
+<font size="18px" color ="FFFFFF">Ela está no hospital.</font>
+
+648
+01:08:29,578 --> 01:08:32,067
+<font size="18px" color ="FFFFFF">- Coisas aconteceram…
+- Eu sei.</font>
+
+649
+01:08:32,150 --> 01:08:33,986
+<font size="18px" color ="FFFFFF">Soube do que aconteceu com a B.</font>
+
+650
+01:08:35,077 --> 01:08:37,057
+<font size="18px" color ="FFFFFF">Na verdade, eu…</font>
+
+651
+01:08:37,611 --> 01:08:40,077
+<font size="18px" color ="FFFFFF">comprei uma coisinha pra você.</font>
+
+652
+01:08:40,862 --> 01:08:43,627
+<font size="18px" color ="FFFFFF">É só uma coisa para animá-la.</font>
+
+653
+01:08:44,405 --> 01:08:47,004
+<font size="18px" color ="FFFFFF">Não imagino como está se sentindo.</font>
+
+654
+01:08:51,657 --> 01:08:52,726
+<font size="18px" color ="FFFFFF">Que gentil.</font>
+
+655
+01:08:52,809 --> 01:08:55,307
+<font size="18px" color ="FFFFFF">PARA MOMENTOS FELIZES
+SEMPRE ESTAREI COM VOCÊ!</font>
+
+656
+01:08:57,887 --> 01:09:00,374
+<font size="18px" color ="FFFFFF">Eu larguei. Tudo.</font>
+
+657
+01:09:01,016 --> 01:09:02,949
+<font size="18px" color ="FFFFFF">Meu Deus. Lou-Lou!</font>
+
+658
+01:09:03,574 --> 01:09:05,397
+<font size="18px" color ="FFFFFF">Quer que eu pare?</font>
+
+659
+01:09:05,477 --> 01:09:07,987
+<font size="18px" color ="FFFFFF">Não, mas não preciso disso.
+Fique pra você.</font>
+
+660
+01:09:08,653 --> 01:09:11,140
+<font size="18px" color ="FFFFFF">Não, guarde-o.</font>
+
+661
+01:09:12,124 --> 01:09:13,367
+<font size="18px" color ="FFFFFF">Para uma emergência.</font>
+
+662
+01:09:21,700 --> 01:09:24,057
+<font size="18px" color ="FFFFFF">Foi estranho ver você aquela noite.</font>
+
+663
+01:09:25,215 --> 01:09:26,739
+<font size="18px" color ="FFFFFF">- Foi?
+- Sim.</font>
+
+664
+01:09:27,678 --> 01:09:30,677
+<font size="18px" color ="FFFFFF">Até pensei em você
+enquanto andava por lá.</font>
+
+665
+01:09:32,090 --> 01:09:34,758
+<font size="18px" color ="FFFFFF">Não sei por quê.
+Uma louca coincidência, acho.</font>
+
+666
+01:09:34,838 --> 01:09:35,838
+<font size="18px" color ="FFFFFF">Louca.</font>
+
+667
+01:09:36,938 --> 01:09:37,972
+<font size="18px" color ="FFFFFF">Ou destino.</font>
+
+668
+01:09:41,978 --> 01:09:44,415
+<font size="18px" color ="FFFFFF">Mas queria perguntar uma coisa.</font>
+
+669
+01:09:44,495 --> 01:09:46,707
+<font size="18px" color ="FFFFFF">Entendo se não for da minha conta.</font>
+
+670
+01:09:48,014 --> 01:09:50,277
+<font size="18px" color ="FFFFFF">Não, imagina. O quê?</font>
+
+671
+01:09:51,389 --> 01:09:53,547
+<font size="18px" color ="FFFFFF">Por que ela dirigia sua caminhonete?</font>
+
+672
+01:09:56,826 --> 01:09:57,827
+<font size="18px" color ="FFFFFF">Quem?</font>
+
+673
+01:09:58,820 --> 01:09:59,820
+<font size="18px" color ="FFFFFF">Você sabe.</font>
+
+674
+01:10:00,821 --> 01:10:01,964
+<font size="18px" color ="FFFFFF">A grandona.</font>
+
+675
+01:10:02,949 --> 01:10:05,603
+<font size="18px" color ="FFFFFF">Pensei que estivessem juntas.</font>
+
+676
+01:10:05,683 --> 01:10:07,600
+<font size="18px" color ="FFFFFF">Eu…</font>
+
+677
+01:10:08,492 --> 01:10:11,501
+<font size="18px" color ="FFFFFF">Não estou com ela.
+Ela é alguém que eu…</font>
+
+678
+01:10:12,498 --> 01:10:14,076
+<font size="18px" color ="FFFFFF">Não a vejo faz tempo.</font>
+
+679
+01:10:15,217 --> 01:10:16,217
+<font size="18px" color ="FFFFFF">É mesmo?</font>
+
+680
+01:10:17,629 --> 01:10:20,727
+<font size="18px" color ="FFFFFF">Foi uma coincidência
+ela estar atrás de mim.</font>
+
+681
+01:10:20,810 --> 01:10:23,549
+<font size="18px" color ="FFFFFF">É. Achei estranho, também.</font>
+
+682
+01:10:24,834 --> 01:10:26,727
+<font size="18px" color ="FFFFFF">E você dirigia o carro do JJ.</font>
+
+683
+01:10:29,802 --> 01:10:31,399
+<font size="18px" color ="FFFFFF">Saímos algumas vezes.</font>
+
+684
+01:10:32,590 --> 01:10:34,070
+<font size="18px" color ="FFFFFF">Nunca esqueço um Camaro.</font>
+
+685
+01:10:55,871 --> 01:10:57,469
+<font size="18px" color ="FFFFFF">A audiência é em oito dias.</font>
+
+686
+01:10:57,550 --> 01:10:59,347
+<font size="18px" color ="FFFFFF">A fiança é de US$300.</font>
+
+687
+01:11:01,890 --> 01:11:03,438
+<font size="18px" color ="FFFFFF">Tem direito a uma ligação.</font>
+
+688
+01:11:20,636 --> 01:11:22,169
+<font size="18px" color ="FFFFFF"><i>Casa da Lou. Olá.</i></font>
+
+689
+01:11:22,960 --> 01:11:23,997
+<font size="18px" color ="FFFFFF">Quem é?</font>
+
+690
+01:11:24,725 --> 01:11:28,078
+<font size="18px" color ="FFFFFF">Fique longe dela.
+Ela não quer mais você.</font>
+
+691
+01:11:51,841 --> 01:11:54,154
+<font size="18px" color ="FFFFFF">Certo, Rambo.
+Seu anjo da guarda chegou.</font>
+
+692
+01:12:05,057 --> 01:12:07,183
+<font size="18px" color ="FFFFFF">Você e Lou brigaram?</font>
+
+693
+01:12:07,263 --> 01:12:08,565
+<font size="18px" color ="FFFFFF">Por isso me ligou?</font>
+
+694
+01:12:11,516 --> 01:12:13,885
+<font size="18px" color ="FFFFFF">Não se preocupe.
+Ligou pra pessoa certa.</font>
+
+695
+01:12:14,866 --> 01:12:16,918
+<font size="18px" color ="FFFFFF">Meus garotos cuidarão do problema.</font>
+
+696
+01:12:18,974 --> 01:12:22,807
+<font size="18px" color ="FFFFFF">Lou e eu também já brigamos muito.</font>
+
+697
+01:12:23,390 --> 01:12:26,267
+<font size="18px" color ="FFFFFF">Aposto que ela disse
+horrores sobre mim.</font>
+
+698
+01:12:27,964 --> 01:12:29,232
+<font size="18px" color ="FFFFFF">É direito dela.</font>
+
+699
+01:12:29,313 --> 01:12:32,126
+<font size="18px" color ="FFFFFF">Apesar de eu achar ridículo às vezes.</font>
+
+700
+01:12:33,690 --> 01:12:36,740
+<font size="18px" color ="FFFFFF">Sou dono do academia.
+Ela não deve ter dito.</font>
+
+701
+01:12:39,090 --> 01:12:40,714
+<font size="18px" color ="FFFFFF">Não pediu meu conselho,</font>
+
+702
+01:12:40,795 --> 01:12:44,157
+<font size="18px" color ="FFFFFF">mas já que está sentada
+no meu carro, ouça-o.</font>
+
+703
+01:12:45,372 --> 01:12:49,327
+<font size="18px" color ="FFFFFF">Não saia por aí matando pessoas
+sem cuidar de alguns detalhes antes.</font>
+
+704
+01:12:50,521 --> 01:12:52,335
+<font size="18px" color ="FFFFFF">Quero sair agora, por favor.</font>
+
+705
+01:12:53,067 --> 01:12:54,087
+<font size="18px" color ="FFFFFF">Quero sair.</font>
+
+706
+01:12:58,251 --> 01:13:00,490
+<font size="18px" color ="FFFFFF">Saia, se quiser.</font>
+
+707
+01:13:00,570 --> 01:13:02,009
+<font size="18px" color ="FFFFFF">O que acha que isto é?</font>
+
+708
+01:13:02,090 --> 01:13:04,677
+<font size="18px" color ="FFFFFF">Mas ao sair do carro,
+estará por conta própria.</font>
+
+709
+01:13:04,757 --> 01:13:05,767
+<font size="18px" color ="FFFFFF">Sabe disso, não?</font>
+
+710
+01:13:06,986 --> 01:13:08,921
+<font size="18px" color ="FFFFFF">Completamente sozinha.</font>
+
+711
+01:13:12,135 --> 01:13:15,013
+<font size="18px" color ="FFFFFF">A polícia achou o corpo.</font>
+
+712
+01:13:16,709 --> 01:13:17,980
+<font size="18px" color ="FFFFFF">Vão fazer perguntas.</font>
+
+713
+01:13:20,360 --> 01:13:22,750
+<font size="18px" color ="FFFFFF">Acha que não tenho
+nada melhor pra fazer?</font>
+
+714
+01:13:25,373 --> 01:13:26,737
+<font size="18px" color ="FFFFFF">Vim aqui ajudar você.</font>
+
+715
+01:13:28,345 --> 01:13:29,345
+<font size="18px" color ="FFFFFF">Vocês duas.</font>
+
+716
+01:13:31,370 --> 01:13:32,916
+<font size="18px" color ="FFFFFF">A Lou jamais me pediria.</font>
+
+717
+01:13:32,997 --> 01:13:36,137
+<font size="18px" color ="FFFFFF">Ela se engana ao achar
+que tem tudo sob controle.</font>
+
+718
+01:13:37,657 --> 01:13:39,726
+<font size="18px" color ="FFFFFF">Sei que você não é tão burra assim.</font>
+
+719
+01:13:39,806 --> 01:13:41,047
+<font size="18px" color ="FFFFFF">A Lou não fez nada.</font>
+
+720
+01:13:44,137 --> 01:13:45,527
+<font size="18px" color ="FFFFFF">Feche a porta, sim?</font>
+
+721
+01:13:46,235 --> 01:13:47,329
+<font size="18px" color ="FFFFFF">Está frio aí fora.</font>
+
+722
+01:14:25,238 --> 01:14:26,744
+<font size="18px" color ="FFFFFF">Ligue-me quando terminar.</font>
+
+723
+01:14:28,971 --> 01:14:30,274
+<font size="18px" color ="FFFFFF">Tente dormir agora.</font>
+
+724
+01:14:44,980 --> 01:14:45,980
+<font size="18px" color ="FFFFFF">Obrigada.</font>
+
+725
+01:14:51,809 --> 01:14:55,604
+<font size="18px" color ="FFFFFF">- Não está com fome mesmo?
+- Só quero me entediar um pouco.</font>
+
+726
+01:14:55,684 --> 01:14:56,709
+<font size="18px" color ="FFFFFF">O que foi?</font>
+
+727
+01:14:56,790 --> 01:14:59,417
+<font size="18px" color ="FFFFFF">Só quero esquecer essa coisa do JJ.</font>
+
+728
+01:14:59,500 --> 01:15:01,877
+<font size="18px" color ="FFFFFF">Ele mereceu, não?</font>
+
+729
+01:15:03,223 --> 01:15:06,808
+<font size="18px" color ="FFFFFF">Não éramos amigos nem nada,
+mas foi horrível o que aconteceu.</font>
+
+730
+01:15:06,888 --> 01:15:10,251
+<font size="18px" color ="FFFFFF">- Achei que o odiasse.
+- Sim, mas não queria que morresse.</font>
+
+731
+01:15:11,959 --> 01:15:13,097
+<font size="18px" color ="FFFFFF">Ele era da família.</font>
+
+732
+01:15:14,405 --> 01:15:15,405
+<font size="18px" color ="FFFFFF">Certo.</font>
+
+733
+01:15:17,787 --> 01:15:19,897
+<font size="18px" color ="FFFFFF">Sabe quando nos vimos na sinaleira?</font>
+
+734
+01:15:23,213 --> 01:15:24,587
+<font size="18px" color ="FFFFFF">Contou a alguém?</font>
+
+735
+01:15:26,451 --> 01:15:27,885
+<font size="18px" color ="FFFFFF">A polícia, talvez?</font>
+
+736
+01:15:32,074 --> 01:15:33,617
+<font size="18px" color ="FFFFFF">Estava pensando nisso.</font>
+
+737
+01:15:36,711 --> 01:15:38,117
+<font size="18px" color ="FFFFFF">O que pensou em dizer?</font>
+
+738
+01:15:40,310 --> 01:15:42,498
+<font size="18px" color ="FFFFFF">Eles merecem saber</font>
+
+739
+01:15:42,578 --> 01:15:46,427
+<font size="18px" color ="FFFFFF">que vi aquela garota carnuda
+dirigindo o carro do JJ aquela noite.</font>
+
+740
+01:15:47,927 --> 01:15:49,759
+<font size="18px" color ="FFFFFF">Não viu, porque ela não estava.</font>
+
+741
+01:15:49,840 --> 01:15:51,191
+<font size="18px" color ="FFFFFF">- Não?
+- Não.</font>
+
+742
+01:15:53,968 --> 01:15:59,019
+<font size="18px" color ="FFFFFF">Desculpe, achei que me agradeceria.
+Disse que não estavam mais juntas.</font>
+
+743
+01:15:59,100 --> 01:16:01,517
+<font size="18px" color ="FFFFFF">- Não estamos.
+- Por isso me trouxe aqui?</font>
+
+744
+01:16:01,600 --> 01:16:03,647
+<font size="18px" color ="FFFFFF">Não. Eu só…</font>
+
+745
+01:16:04,900 --> 01:16:07,051
+<font size="18px" color ="FFFFFF">Só estou me protegendo, sabe.</font>
+
+746
+01:16:09,894 --> 01:16:13,481
+<font size="18px" color ="FFFFFF">Pense… Se disser à polícia
+que a viu dirigindo o carro do JJ,</font>
+
+747
+01:16:13,562 --> 01:16:15,329
+<font size="18px" color ="FFFFFF">vão começar a fazer perguntas.</font>
+
+748
+01:16:15,409 --> 01:16:18,419
+<font size="18px" color ="FFFFFF">Vão descobrir que namoramos,
+que ela morava comigo.</font>
+
+749
+01:16:18,499 --> 01:16:19,718
+<font size="18px" color ="FFFFFF">Seria uma confusão.</font>
+
+750
+01:16:19,798 --> 01:16:23,587
+<font size="18px" color ="FFFFFF">E não quero me envolver
+porque estou com medo, Daze.</font>
+
+751
+01:16:27,293 --> 01:16:29,052
+<font size="18px" color ="FFFFFF">Meu Deus, Lou-Lou, eu sou…</font>
+
+752
+01:16:30,404 --> 01:16:32,427
+<font size="18px" color ="FFFFFF">Sou tão burra. Não pensei nisso.</font>
+
+753
+01:16:32,510 --> 01:16:34,758
+<font size="18px" color ="FFFFFF">Tudo bem. Só estava tentando ajudar.</font>
+
+754
+01:16:35,477 --> 01:16:36,477
+<font size="18px" color ="FFFFFF">Agradeço.</font>
+
+755
+01:16:37,930 --> 01:16:40,597
+<font size="18px" color ="FFFFFF">Não fale com ninguém.
+Muito menos com a polícia.</font>
+
+756
+01:16:40,680 --> 01:16:41,767
+<font size="18px" color ="FFFFFF">- Porque…
+- Beleza.</font>
+
+757
+01:16:41,850 --> 01:16:44,977
+<font size="18px" color ="FFFFFF">Nem sei o que aconteceu
+com o JJ aquela noite.</font>
+
+758
+01:16:45,060 --> 01:16:48,027
+<font size="18px" color ="FFFFFF">Esmagaram a cara dele
+e atearam fogo, parece.</font>
+
+759
+01:16:50,000 --> 01:16:54,447
+<font size="18px" color ="FFFFFF">Certo. Então, se alguém perguntar,
+você não viu a Jackie aquela noite.</font>
+
+760
+01:16:55,256 --> 01:16:57,247
+<font size="18px" color ="FFFFFF">Deve ter sido outra aberração.</font>
+
+761
+01:16:57,330 --> 01:16:58,330
+<font size="18px" color ="FFFFFF">Exatamente.</font>
+
+762
+01:17:07,340 --> 01:17:08,374
+<font size="18px" color ="FFFFFF">Valeu, Daisy.</font>
+
+763
+01:17:11,689 --> 01:17:13,735
+<font size="18px" color ="FFFFFF">Estou faminta.</font>
+
+764
+01:17:14,377 --> 01:17:17,184
+<font size="18px" color ="FFFFFF">Beleza! Vamos pedir margaritas.</font>
+
+765
+01:17:17,264 --> 01:17:18,264
+<font size="18px" color ="FFFFFF">Beleza.</font>
+
+766
+01:17:18,981 --> 01:17:19,981
+<font size="18px" color ="FFFFFF">Com licença.</font>
+
+767
+01:17:21,310 --> 01:17:23,310
+<font size="18px" color ="FFFFFF"><i>Duas margaritas, por favor</i></font>
+
+768
+01:17:27,117 --> 01:17:29,978
+<font size="18px" color ="FFFFFF">Vai levar suas coisas?
+Preciso buscar a Beth.</font>
+
+769
+01:17:32,533 --> 01:17:35,470
+<font size="18px" color ="FFFFFF">Olhe. Preciso ir ao hospital.</font>
+
+770
+01:17:51,681 --> 01:17:54,047
+<font size="18px" color ="FFFFFF">Não, eu… Amor, não estou…</font>
+
+771
+01:17:54,130 --> 01:17:55,177
+<font size="18px" color ="FFFFFF">Não estou…</font>
+
+772
+01:17:58,525 --> 01:18:00,442
+<font size="18px" color ="FFFFFF">Amor, o que está fazendo?</font>
+
+773
+01:18:01,455 --> 01:18:02,967
+<font size="18px" color ="FFFFFF">Porra. Porra!</font>
+
+774
+01:18:03,640 --> 01:18:04,640
+<font size="18px" color ="FFFFFF">Jack!</font>
+
+775
+01:18:06,068 --> 01:18:07,369
+<font size="18px" color ="FFFFFF">Puta merda.</font>
+
+776
+01:18:11,570 --> 01:18:12,570
+<font size="18px" color ="FFFFFF">Merda!</font>
+
+777
+01:18:22,700 --> 01:18:24,417
+<font size="18px" color ="FFFFFF">Porra!</font>
+
+778
+01:18:34,274 --> 01:18:36,387
+<font size="18px" color ="FFFFFF">- Sim?
+<i>- Acabou.</i></font>
+
+779
+01:18:36,470 --> 01:18:37,928
+<font size="18px" color ="FFFFFF"><i>Ela estava com a Lou.</i></font>
+
+780
+01:18:57,208 --> 01:18:58,975
+<font size="18px" color ="FFFFFF"><i>- Alô?</i>
+- Hughey.</font>
+
+781
+01:19:00,089 --> 01:19:01,089
+<font size="18px" color ="FFFFFF"><i>Jackie.</i></font>
+
+782
+01:19:02,137 --> 01:19:04,569
+<font size="18px" color ="FFFFFF"><i>A mãe disse que você fugiu.
+O que houve?</i></font>
+
+783
+01:19:05,230 --> 01:19:06,721
+<font size="18px" color ="FFFFFF">Nunca se apaixone, ouviu?</font>
+
+784
+01:19:08,316 --> 01:19:10,183
+<font size="18px" color ="FFFFFF">Beleza, Hughey? Machuca.</font>
+
+785
+01:19:12,101 --> 01:19:13,967
+<font size="18px" color ="FFFFFF">Nunca se apaixone, só isso.</font>
+
+786
+01:19:14,047 --> 01:19:15,081
+<font size="18px" color ="FFFFFF"><i>Hughey, quem é?</i></font>
+
+787
+01:19:15,162 --> 01:19:17,195
+<font size="18px" color ="FFFFFF"><i>- Jackie.
+- Dê-me o telefone.</i></font>
+
+788
+01:19:17,276 --> 01:19:18,276
+<font size="18px" color ="FFFFFF"><i>Dê-me isso.</i></font>
+
+789
+01:19:18,911 --> 01:19:21,658
+<font size="18px" color ="FFFFFF"><i>Jacqueline, fique longe de nós,
+seu monstro!</i></font>
+
+790
+01:19:21,738 --> 01:19:23,706
+<font size="18px" color ="FFFFFF"><i>Nunca mais ligue para esta casa!</i></font>
+
+791
+01:19:36,530 --> 01:19:37,732
+<font size="18px" color ="FFFFFF">FBI, abra.</font>
+
+792
+01:19:37,812 --> 01:19:39,553
+<font size="18px" color ="FFFFFF">É o FBI, Srta. Langston.</font>
+
+793
+01:19:49,841 --> 01:19:50,957
+<font size="18px" color ="FFFFFF">Srta. Langston,</font>
+
+794
+01:19:51,040 --> 01:19:53,355
+<font size="18px" color ="FFFFFF">preciso que abra a porta agora.</font>
+
+795
+01:19:53,435 --> 01:19:54,863
+<font size="18px" color ="FFFFFF">Meu Deus.</font>
+
+796
+01:19:57,686 --> 01:19:58,946
+<font size="18px" color ="FFFFFF">Abra a maldita porta.</font>
+
+797
+01:19:59,760 --> 01:20:01,832
+<font size="18px" color ="FFFFFF">Desculpe, só um segundo…</font>
+
+798
+01:20:03,052 --> 01:20:04,482
+<font size="18px" color ="FFFFFF">Só queremos conversar.</font>
+
+799
+01:20:08,005 --> 01:20:09,897
+<font size="18px" color ="FFFFFF">- Oi.
+- Vai nos deixar entrar?</font>
+
+800
+01:20:09,980 --> 01:20:11,933
+<font size="18px" color ="FFFFFF">Não me pegaram numa hora boa.</font>
+
+801
+01:20:13,328 --> 01:20:14,640
+<font size="18px" color ="FFFFFF">É sobre seu cunhado.</font>
+
+802
+01:20:16,756 --> 01:20:18,356
+<font size="18px" color ="FFFFFF">Precisamos falar com você.</font>
+
+803
+01:20:19,528 --> 01:20:20,595
+<font size="18px" color ="FFFFFF">Não vamos demorar.</font>
+
+804
+01:20:28,002 --> 01:20:29,002
+<font size="18px" color ="FFFFFF">Casa bacana.</font>
+
+805
+01:20:49,902 --> 01:20:51,510
+<font size="18px" color ="FFFFFF">Falou com seu pai recentemente?</font>
+
+806
+01:20:52,419 --> 01:20:54,178
+<font size="18px" color ="FFFFFF">Já disse que não nos falamos.</font>
+
+807
+01:20:55,230 --> 01:20:56,237
+<font size="18px" color ="FFFFFF">É verdade?</font>
+
+808
+01:21:07,294 --> 01:21:11,279
+<font size="18px" color ="FFFFFF">Ao recuperar os restos do seu cunhado,
+a perícia também achou isto.</font>
+
+809
+01:21:12,490 --> 01:21:15,806
+<font size="18px" color ="FFFFFF">Suspeitamos que sejam pessoas
+que ameaçaram seu pai e sua operação.</font>
+
+810
+01:21:16,353 --> 01:21:18,585
+<font size="18px" color ="FFFFFF">Já faz tempo que tentamos pegá-lo.</font>
+
+811
+01:21:18,665 --> 01:21:21,885
+<font size="18px" color ="FFFFFF">Mas quem abre a boca
+tem o hábito de desaparecer.</font>
+
+812
+01:21:22,930 --> 01:21:24,600
+<font size="18px" color ="FFFFFF">Seu cunhado foi o último.</font>
+
+813
+01:21:25,760 --> 01:21:27,885
+<font size="18px" color ="FFFFFF">Uma lástima o que aconteceu com ele.</font>
+
+814
+01:21:28,600 --> 01:21:30,554
+<font size="18px" color ="FFFFFF">Perdemos nosso melhor informante.</font>
+
+815
+01:21:34,105 --> 01:21:35,764
+<font size="18px" color ="FFFFFF">Seu pai deve ter descoberto.</font>
+
+816
+01:21:36,385 --> 01:21:38,607
+<font size="18px" color ="FFFFFF">Não estou envolvida nisso.</font>
+
+817
+01:21:38,690 --> 01:21:40,647
+<font size="18px" color ="FFFFFF">Mas estava, não?</font>
+
+818
+01:21:42,749 --> 01:21:44,705
+<font size="18px" color ="FFFFFF">Soubemos que era o braço direito.</font>
+
+819
+01:21:48,225 --> 01:21:50,707
+<font size="18px" color ="FFFFFF">Há tempos tentamos localizar sua mãe.</font>
+
+820
+01:21:52,099 --> 01:21:54,067
+<font size="18px" color ="FFFFFF">Perguntar a ela do que se lembra.</font>
+
+821
+01:21:55,659 --> 01:21:58,312
+<font size="18px" color ="FFFFFF">O último registro
+foi de 12 anos atrás.</font>
+
+822
+01:21:59,838 --> 01:22:03,975
+<font size="18px" color ="FFFFFF">Dizia que ela contatou a polícia local
+querendo falar sobre o marido.</font>
+
+823
+01:22:05,578 --> 01:22:07,012
+<font size="18px" color ="FFFFFF">Ela nunca mais apareceu.</font>
+
+824
+01:23:02,692 --> 01:23:04,894
+<font size="18px" color ="FFFFFF"><i>A palhaçada acaba agora, Louise.</i></font>
+
+825
+01:23:06,446 --> 01:23:09,632
+<font size="18px" color ="FFFFFF"><i>Escute bem e faça o que eu mandar.</i></font>
+
+826
+01:23:11,055 --> 01:23:12,957
+<font size="18px" color ="FFFFFF"><i>- Pronta?</i>
+- Eu…</font>
+
+827
+01:23:13,990 --> 01:23:16,460
+<font size="18px" color ="FFFFFF">Apaguei a testemunha
+que a conectava ao JJ.</font>
+
+828
+01:23:16,540 --> 01:23:17,605
+<font size="18px" color ="FFFFFF">Protegi você.</font>
+
+829
+01:23:17,685 --> 01:23:20,632
+<font size="18px" color ="FFFFFF"><i>Não que eu seja burro
+de esperar gratidão em troca.</i></font>
+
+830
+01:23:20,712 --> 01:23:21,797
+<font size="18px" color ="FFFFFF">Você a manipulou.</font>
+
+831
+01:23:21,880 --> 01:23:25,270
+<font size="18px" color ="FFFFFF">Ela se encrencou noite passada.
+Deveria tê-la ajudado.</font>
+
+832
+01:23:31,086 --> 01:23:32,831
+<font size="18px" color ="FFFFFF">- Onde ela está?
+- Comigo.</font>
+
+833
+01:23:32,911 --> 01:23:36,267
+<font size="18px" color ="FFFFFF">Ela será presa por duplo homicídio
+e esse caos vai acabar.</font>
+
+834
+01:23:37,172 --> 01:23:39,038
+<font size="18px" color ="FFFFFF"><i>A polícia vai atrás de você.</i></font>
+
+835
+01:23:39,119 --> 01:23:41,457
+<font size="18px" color ="FFFFFF"><i>Diga que estavam curtindo,
+que está apavorada…</i></font>
+
+836
+01:23:41,537 --> 01:23:44,784
+<font size="18px" color ="FFFFFF">- Se machucá-la, mato você.
+<i>- Lou, cale a boca e escute.</i></font>
+
+837
+01:23:44,864 --> 01:23:47,934
+<font size="18px" color ="FFFFFF"><i>Ou quer responder
+pelo cadáver no seu apartamento?</i></font>
+
+838
+01:23:48,610 --> 01:23:52,105
+<font size="18px" color ="FFFFFF">Fique sentadinha aí e não faça nada.</font>
+
+839
+01:23:53,843 --> 01:23:55,709
+<font size="18px" color ="FFFFFF">Sei que isso você consegue.</font>
+
+840
+01:23:55,790 --> 01:23:58,787
+<font size="18px" color ="FFFFFF"><i>Relaxe. Deixe que o papai resolve tudo.</i></font>
+
+841
+01:23:58,870 --> 01:24:00,633
+<font size="18px" color ="FFFFFF"><i>Nem pensar.</i></font>
+
+842
+01:24:00,713 --> 01:24:04,377
+<font size="18px" color ="FFFFFF">Achou que eu seria preso
+por um homicídio que não cometi?</font>
+
+843
+01:24:04,460 --> 01:24:06,195
+<font size="18px" color ="FFFFFF">O que você achou que aconteceria?</font>
+
+844
+01:24:08,085 --> 01:24:09,704
+<font size="18px" color ="FFFFFF">Há quantas pessoas lá embaixo?</font>
+
+845
+01:24:10,518 --> 01:24:12,567
+<font size="18px" color ="FFFFFF"><i>Pareciam muitas. Fez as contas?</i></font>
+
+846
+01:24:13,394 --> 01:24:15,573
+<font size="18px" color ="FFFFFF">Ninguém pode me ligar às ossadas.</font>
+
+847
+01:24:15,653 --> 01:24:16,687
+<font size="18px" color ="FFFFFF">Eu posso.</font>
+
+848
+01:24:18,974 --> 01:24:20,208
+<font size="18px" color ="FFFFFF">Está me ameaçando?</font>
+
+849
+01:24:28,853 --> 01:24:29,853
+<font size="18px" color ="FFFFFF">Estou.</font>
+
+850
+01:24:32,193 --> 01:24:35,143
+<font size="18px" color ="FFFFFF">Solte-a ou chamo o FBI
+e conto tudo o que você fez.</font>
+
+851
+01:24:35,223 --> 01:24:36,353
+<font size="18px" color ="FFFFFF">O que acha, pai?</font>
+
+852
+01:24:40,310 --> 01:24:41,310
+<font size="18px" color ="FFFFFF">Pai?</font>
+
+853
+01:24:41,873 --> 01:24:43,890
+<font size="18px" color ="FFFFFF"><i>Isso foi muito insensato, querida.</i></font>
+
+854
+01:25:32,142 --> 01:25:34,757
+<font size="18px" color ="FFFFFF"><i>Lou. Lou, está aí?</i></font>
+
+855
+01:25:35,800 --> 01:25:38,754
+<font size="18px" color ="FFFFFF"><i>Estou esperando você.
+Por favor, venha me buscar.</i></font>
+
+856
+01:26:07,309 --> 01:26:08,309
+<font size="18px" color ="FFFFFF">Lou!</font>
+
+857
+01:26:21,773 --> 01:26:24,227
+<font size="18px" color ="FFFFFF">- Veio me matar?
+- Vá se foder, dedo-duro!</font>
+
+858
+01:26:48,752 --> 01:26:49,752
+<font size="18px" color ="FFFFFF">Meu Deus!</font>
+
+859
+01:27:38,139 --> 01:27:39,974
+<font size="18px" color ="FFFFFF">Entre no carro, só isso.</font>
+
+860
+01:27:41,409 --> 01:27:42,409
+<font size="18px" color ="FFFFFF">Oi, Sharon.</font>
+
+861
+01:27:42,968 --> 01:27:44,576
+<font size="18px" color ="FFFFFF">Arruinando tudo.</font>
+
+862
+01:28:15,927 --> 01:28:16,927
+<font size="18px" color ="FFFFFF">Jackie?</font>
+
+863
+01:28:22,417 --> 01:28:24,296
+<font size="18px" color ="FFFFFF">- Perdão se não fui buscá-la.
+- Pare.</font>
+
+864
+01:28:27,002 --> 01:28:29,050
+<font size="18px" color ="FFFFFF">Não sei o que ele disse…</font>
+
+865
+01:28:29,130 --> 01:28:31,397
+<font size="18px" color ="FFFFFF">Lou, ele era meu marido.</font>
+
+866
+01:28:31,480 --> 01:28:32,480
+<font size="18px" color ="FFFFFF">Eu sei.</font>
+
+867
+01:28:35,035 --> 01:28:37,379
+<font size="18px" color ="FFFFFF">E eu sinto muito, mas…</font>
+
+868
+01:28:39,327 --> 01:28:41,697
+<font size="18px" color ="FFFFFF">Não sinto tanto assim.</font>
+
+869
+01:28:45,070 --> 01:28:46,497
+<font size="18px" color ="FFFFFF">Sua idiota!</font>
+
+870
+01:28:46,580 --> 01:28:48,117
+<font size="18px" color ="FFFFFF">Por que, Lou?</font>
+
+871
+01:28:48,200 --> 01:28:51,386
+<font size="18px" color ="FFFFFF">Porra! Por quê?</font>
+
+872
+01:28:56,890 --> 01:28:57,890
+<font size="18px" color ="FFFFFF">Por quê?</font>
+
+873
+01:28:59,702 --> 01:29:01,736
+<font size="18px" color ="FFFFFF">Porque ele mataria você algum dia.</font>
+
+874
+01:29:03,417 --> 01:29:06,677
+<font size="18px" color ="FFFFFF">Você não sabe nada do amor.</font>
+
+875
+01:29:08,007 --> 01:29:09,446
+<font size="18px" color ="FFFFFF">Eu sinto muito por você.</font>
+
+876
+01:29:10,334 --> 01:29:11,334
+<font size="18px" color ="FFFFFF">Eu amo…</font>
+
+877
+01:29:12,394 --> 01:29:13,439
+<font size="18px" color ="FFFFFF">Eu amo você.</font>
+
+878
+01:29:14,020 --> 01:29:15,027
+<font size="18px" color ="FFFFFF">Cale a boca.</font>
+
+879
+01:29:23,590 --> 01:29:24,591
+<font size="18px" color ="FFFFFF">Você é uma…</font>
+
+880
+01:29:26,880 --> 01:29:27,880
+<font size="18px" color ="FFFFFF">imbecil.</font>
+
+881
+01:29:29,404 --> 01:29:30,409
+<font size="18px" color ="FFFFFF">Onde eles estão?</font>
+
+882
+01:29:31,234 --> 01:29:32,434
+<font size="18px" color ="FFFFFF">O papai não está.</font>
+
+883
+01:29:33,997 --> 01:29:34,997
+<font size="18px" color ="FFFFFF">Sério?</font>
+
+884
+01:29:37,067 --> 01:29:38,509
+<font size="18px" color ="FFFFFF">Onde ela está, Beth?</font>
+
+885
+01:29:38,589 --> 01:29:39,797
+<font size="18px" color ="FFFFFF">- Não sei.
+- Bethany!</font>
+
+886
+01:29:42,543 --> 01:29:44,185
+<font size="18px" color ="FFFFFF">Vai me dizer onde ela está?</font>
+
+887
+01:29:44,265 --> 01:29:45,430
+<font size="18px" color ="FFFFFF">Vai ser sincera?</font>
+
+888
+01:29:45,510 --> 01:29:48,749
+<font size="18px" color ="FFFFFF">- Eu não sei. Pare, por favor!
+- Vai ser sincera comigo?</font>
+
+889
+01:29:48,829 --> 01:29:51,225
+<font size="18px" color ="FFFFFF">- Onde ela está?
+- Você é um monstro.</font>
+
+890
+01:29:53,377 --> 01:29:55,585
+<font size="18px" color ="FFFFFF">- No celeiro.
+- Eu te amo, irmã!</font>
+
+891
+01:29:58,722 --> 01:29:59,722
+<font size="18px" color ="FFFFFF">Jack!</font>
+
+892
+01:30:02,070 --> 01:30:02,907
+<font size="18px" color ="FFFFFF">Jackie.</font>
+
+893
+01:30:04,810 --> 01:30:05,810
+<font size="18px" color ="FFFFFF">Não!</font>
+
+894
+01:30:07,320 --> 01:30:08,327
+<font size="18px" color ="FFFFFF">Meu Deus.</font>
+
+895
+01:30:08,910 --> 01:30:10,871
+<font size="18px" color ="FFFFFF">Só um segundo.</font>
+
+896
+01:30:11,832 --> 01:30:13,832
+<font size="18px" color ="FFFFFF">Desculpe. Minha família é fodida.</font>
+
+897
+01:30:16,399 --> 01:30:18,377
+<font size="18px" color ="FFFFFF">Estou com você. Espere, amor.</font>
+
+898
+01:30:23,052 --> 01:30:24,587
+<font size="18px" color ="FFFFFF">O que está fazendo?</font>
+
+899
+01:30:27,363 --> 01:30:30,078
+<font size="18px" color ="FFFFFF">- Estou tentando…
+- Porra!</font>
+
+900
+01:30:30,158 --> 01:30:32,187
+<font size="18px" color ="FFFFFF">- Venha aqui.
+- Sai de cima de mim.</font>
+
+901
+01:30:32,270 --> 01:30:34,057
+<font size="18px" color ="FFFFFF">- Meu Deus.
+- Me solta!</font>
+
+902
+01:30:34,140 --> 01:30:36,057
+<font size="18px" color ="FFFFFF">Estou ajudando você.</font>
+
+903
+01:30:39,480 --> 01:30:42,547
+<font size="18px" color ="FFFFFF">- Amor, que porra é essa?
+- Vai me entregar?</font>
+
+904
+01:30:43,293 --> 01:30:46,697
+<font size="18px" color ="FFFFFF">Do que está falando? Eu amo você.</font>
+
+905
+01:30:47,990 --> 01:30:50,705
+<font size="18px" color ="FFFFFF">- Não minta para mim.
+- Não estou mentindo.</font>
+
+906
+01:30:50,785 --> 01:30:53,631
+<font size="18px" color ="FFFFFF">Não esperou uma noite
+antes de transar com outra.</font>
+
+907
+01:30:53,711 --> 01:30:56,217
+<font size="18px" color ="FFFFFF">Daisy? Foi por você.
+Ela ia dedurá-la.</font>
+
+908
+01:30:57,210 --> 01:30:59,087
+<font size="18px" color ="FFFFFF">- Quer que eu agradeça?
+- Não!</font>
+
+909
+01:30:59,170 --> 01:31:01,670
+<font size="18px" color ="FFFFFF">Só estou dizendo que não é bem assim.</font>
+
+910
+01:31:01,750 --> 01:31:04,857
+<font size="18px" color ="FFFFFF">Se eu fosse dedurar você,
+estaria na polícia agora.</font>
+
+911
+01:31:04,937 --> 01:31:07,047
+<font size="18px" color ="FFFFFF">O corpo da Daisy está
+na minha caminhonete.</font>
+
+912
+01:31:07,130 --> 01:31:09,713
+<font size="18px" color ="FFFFFF">Ia me livrar dele antes
+que alguém descobrisse.</font>
+
+913
+01:31:09,794 --> 01:31:10,967
+<font size="18px" color ="FFFFFF">Eu estou tentando…</font>
+
+914
+01:31:11,050 --> 01:31:14,256
+<font size="18px" color ="FFFFFF">Porra! Queria nunca ter conhecido você.</font>
+
+915
+01:31:31,541 --> 01:31:33,197
+<font size="18px" color ="FFFFFF">Eu matei pessoas, Lou.</font>
+
+916
+01:31:34,827 --> 01:31:35,827
+<font size="18px" color ="FFFFFF">Eu sei.</font>
+
+917
+01:31:37,380 --> 01:31:38,997
+<font size="18px" color ="FFFFFF">Não sei o que tenho de errado.</font>
+
+918
+01:31:45,101 --> 01:31:48,938
+<font size="18px" color ="FFFFFF">Não há nada de errado com você.</font>
+
+919
+01:31:50,973 --> 01:31:54,937
+<font size="18px" color ="FFFFFF">Você é a pessoa mais maravilhosa,
+incrível e linda que já conheci.</font>
+
+920
+01:32:01,698 --> 01:32:02,727
+<font size="18px" color ="FFFFFF">Ele mereceu.</font>
+
+921
+01:32:04,721 --> 01:32:05,721
+<font size="18px" color ="FFFFFF">E ela?</font>
+
+922
+01:32:08,082 --> 01:32:09,441
+<font size="18px" color ="FFFFFF">Meu pai obrigou você.</font>
+
+923
+01:32:11,647 --> 01:32:14,314
+<font size="18px" color ="FFFFFF">Ele faz essas coisas.
+Não teve escolha, certo?</font>
+
+924
+01:32:15,966 --> 01:32:17,782
+<font size="18px" color ="FFFFFF">Eu te amo, sua idiota.</font>
+
+925
+01:32:21,143 --> 01:32:22,444
+<font size="18px" color ="FFFFFF">Eu também te amo.</font>
+
+926
+01:32:34,451 --> 01:32:36,203
+<font size="18px" color ="FFFFFF">O que vai ser da gente?</font>
+
+927
+01:32:37,101 --> 01:32:38,242
+<font size="18px" color ="FFFFFF">Você vai ficar bem.</font>
+
+928
+01:32:40,533 --> 01:32:43,478
+<font size="18px" color ="FFFFFF">Só precisa me ouvir desta vez.
+Pode fazer isso?</font>
+
+929
+01:32:44,789 --> 01:32:45,789
+<font size="18px" color ="FFFFFF">Certo.</font>
+
+930
+01:32:59,301 --> 01:33:00,786
+<font size="18px" color ="FFFFFF">Vai acontecer o seguinte…</font>
+
+931
+01:33:02,537 --> 01:33:05,257
+<font size="18px" color ="FFFFFF">Ali há uma estada vicinal.
+Espere por mim lá.</font>
+
+932
+01:33:05,840 --> 01:33:08,416
+<font size="18px" color ="FFFFFF">- Esconda-se. Não seja vista.
+- E você?</font>
+
+933
+01:33:08,496 --> 01:33:10,410
+<font size="18px" color ="FFFFFF">Preciso fazer uma coisa.</font>
+
+934
+01:33:10,491 --> 01:33:13,757
+<font size="18px" color ="FFFFFF">O FBI vai chegar em dois minutos.
+Dê o fora daqui. Vá!</font>
+
+935
+01:33:26,110 --> 01:33:28,317
+<font size="18px" color ="FFFFFF">Pai? Onde você está?</font>
+
+936
+01:33:37,947 --> 01:33:40,613
+<font size="18px" color ="FFFFFF">Largue isso, sua fedelha ingrata.</font>
+
+937
+01:33:42,960 --> 01:33:44,951
+<font size="18px" color ="FFFFFF">Meu Deus. Então…</font>
+
+938
+01:33:46,504 --> 01:33:49,237
+<font size="18px" color ="FFFFFF">Acabou, cara. Contei tudo a eles.</font>
+
+939
+01:33:50,049 --> 01:33:51,587
+<font size="18px" color ="FFFFFF">Você não sabe o que fez.</font>
+
+940
+01:33:51,670 --> 01:33:52,840
+<font size="18px" color ="FFFFFF">Sei, sim.</font>
+
+941
+01:33:53,427 --> 01:33:55,637
+<font size="18px" color ="FFFFFF">Fiz a coisa certa
+pela primeira vez na vida.</font>
+
+942
+01:33:55,720 --> 01:33:57,767
+<font size="18px" color ="FFFFFF">Credo, parece sua mãe.</font>
+
+943
+01:33:57,850 --> 01:33:59,078
+<font size="18px" color ="FFFFFF">Cale a boca!</font>
+
+944
+01:34:00,579 --> 01:34:02,097
+<font size="18px" color ="FFFFFF">Você a matou, não?</font>
+
+945
+01:34:02,180 --> 01:34:04,096
+<font size="18px" color ="FFFFFF">Entendo. Ela ia abrir o bico.</font>
+
+946
+01:34:04,176 --> 01:34:06,709
+<font size="18px" color ="FFFFFF">Foi você ou mandou o Mike matá-la?</font>
+
+947
+01:34:06,789 --> 01:34:10,367
+<font size="18px" color ="FFFFFF">Sua mãe foi embora porque
+não aguentava ser minha esposa,</font>
+
+948
+01:34:10,447 --> 01:34:11,691
+<font size="18px" color ="FFFFFF">nem sua mãe.</font>
+
+949
+01:34:12,308 --> 01:34:14,680
+<font size="18px" color ="FFFFFF">Seu mentiroso.</font>
+
+950
+01:34:14,761 --> 01:34:16,103
+<font size="18px" color ="FFFFFF">Não sou como você.</font>
+
+951
+01:34:16,651 --> 01:34:17,829
+<font size="18px" color ="FFFFFF">Isso seria bom, não?</font>
+
+952
+01:34:17,910 --> 01:34:19,327
+<font size="18px" color ="FFFFFF">Pare de mentir.</font>
+
+953
+01:34:26,450 --> 01:34:27,619
+<font size="18px" color ="FFFFFF">Me larga!</font>
+
+954
+01:34:44,030 --> 01:34:45,059
+<font size="18px" color ="FFFFFF">Tudo bem.</font>
+
+955
+01:34:45,140 --> 01:34:47,416
+<font size="18px" color ="FFFFFF">- Por favor.
+- Tudo bem.</font>
+
+956
+01:34:47,499 --> 01:34:49,730
+<font size="18px" color ="FFFFFF">Todo mundo aprende do jeito difícil.</font>
+
+957
+01:34:49,810 --> 01:34:54,700
+<font size="18px" color ="FFFFFF">São as pessoas que você mais ama
+que o acabam decepcionando.</font>
+
+958
+01:34:54,780 --> 01:34:56,058
+<font size="18px" color ="FFFFFF">Solte-a!</font>
+
+959
+01:34:58,852 --> 01:34:59,987
+<font size="18px" color ="FFFFFF">Porra!</font>
+
+960
+01:35:26,230 --> 01:35:27,398
+<font size="18px" color ="FFFFFF">Lou, ajude-me.</font>
+
+961
+01:35:37,030 --> 01:35:38,117
+<font size="18px" color ="FFFFFF">Sabe de uma coisa?</font>
+
+962
+01:35:38,200 --> 01:35:39,447
+<font size="18px" color ="FFFFFF">Eu também te amo.</font>
+
+963
+01:35:41,820 --> 01:35:43,407
+<font size="18px" color ="FFFFFF">Seu doente!</font>
+
+964
+01:35:43,490 --> 01:35:44,997
+<font size="18px" color ="FFFFFF">Estão vindo. Acabe com isso.</font>
+
+965
+01:35:45,080 --> 01:35:47,537
+<font size="18px" color ="FFFFFF">- Não.
+- Vamos.</font>
+
+966
+01:35:53,387 --> 01:35:54,553
+<font size="18px" color ="FFFFFF">Tchau, pai.</font>
+
+967
+01:38:09,430 --> 01:38:11,430
+<font size="18px" color ="FFFFFF"><i><b>Legenda: Myriam</b></i></font>
 
