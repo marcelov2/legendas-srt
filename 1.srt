@@ -1,22 +1,22 @@
-﻿1
+1
 00:01:26,511 --> 00:01:29,727
-<span style="font-size:20px;"><b>O AMOR SANGRA</b></span>
+O AMOR SANGRA
 
 2
 00:01:29,810 --> 00:01:31,810
-<span style="font-size:18px;"><i><b>Tradução: Myriam</b></i></span>
+Tradução: Myriam
 
 3
 00:01:39,041 --> 00:01:41,041
-<span style="font-size:16px;">ACADEMIA CRATERA</span>
+ACADEMIA CRATERA
 
 4
 00:02:28,111 --> 00:02:30,406
-<span style="font-size:20px;">SÓ PERDEDORES DESISTEM</span>
+SÓ PERDEDORES DESISTEM
 
 5
 00:02:46,338 --> 00:02:49,383
-<span style="font-size:18px;">A DOR É A FRAQUEZA DEIXANDO O CORPO</span>
+A DOR É A FRAQUEZA DEIXANDO O CORPO
 
 6
 00:03:07,027 --> 00:03:08,427
@@ -129,38 +129,38 @@ LANCHE FELIZ
 
 32
 00:05:14,820 --> 00:05:16,629
-<i>Ao fumar um cigarro,</i>
+Ao fumar um cigarro,
 
 33
 00:05:17,618 --> 00:05:19,939
-<i>inala uma droga chamada nicotina.</i>
+inala uma droga chamada nicotina.
 
 34
 00:05:21,026 --> 00:05:24,228
-<i>Pode substituir a palavra "droga"
-por veneno.</i>
+Pode substituir a palavra "droga"
+por veneno.
 
 35
 00:05:25,191 --> 00:05:28,807
-<i>Como tudo que não é construído
-sobre uma fundação sólida,</i>
+Como tudo que não é construído
+sobre uma fundação sólida,
 
 36
 00:05:28,890 --> 00:05:32,952
-<i>a lavagem cerebral é tão frágil
-quanto um castelo de cartas,</i>
+a lavagem cerebral é tão frágil
+quanto um castelo de cartas,
 
 37
 00:05:33,035 --> 00:05:35,257
-<i>e vai colapsar em instantes.</i>
+e vai colapsar em instantes.
 
 38
 00:05:36,037 --> 00:05:38,011
-<i>Basta dar uma sacudida.</i>
+Basta dar uma sacudida.
 
 39
 00:05:46,275 --> 00:05:47,853
-<i>Gosta desse pau?</i>
+Gosta desse pau?
 
 40
 00:05:50,484 --> 00:05:51,484
@@ -217,23 +217,23 @@ Certo.
 
 53
 00:07:32,707 --> 00:07:35,552
-<i>Eu descreveria
-a suspensão da nicotina</i>
+Eu descreveria
+a suspensão da nicotina
 
 54
 00:07:35,635 --> 00:07:39,458
-<i>como um sentimento brando,
-vazio e levemente inseguro.</i>
+como um sentimento brando,
+vazio e levemente inseguro.
 
 55
 00:07:39,541 --> 00:07:44,386
-<i>E a única razão pela qual alguém fuma
-é para aliviar esse sentimento.</i>
+E a única razão pela qual alguém fuma
+é para aliviar esse sentimento.
 
 56
 00:07:46,020 --> 00:07:48,547
-<i>Todos os fumantes
-caem na mesma armadilha.</i>
+Todos os fumantes
+caem na mesma armadilha.
 
 57
 00:07:55,912 --> 00:07:56,971
@@ -505,18 +505,18 @@ Então use o outro.
 
 117
 00:11:24,249 --> 00:11:26,900
-<i>Da ferrugem ao pó
-De nós para eles</i>
+Da ferrugem ao pó
+De nós para eles
 
 118
 00:11:29,194 --> 00:11:31,686
-<i>Mude de opinião
-Mude de pele</i>
+Mude de opinião
+Mude de pele
 
 119
 00:11:33,896 --> 00:11:35,896
-<i>Vida à morte
-Fraqueza à força</i>
+Vida à morte
+Fraqueza à força
 
 120
 00:11:36,869 --> 00:11:38,173
@@ -524,8 +524,8 @@ Me vê um Mountain Dew?
 
 121
 00:11:38,724 --> 00:11:40,831
-<i>Desconte um cheque
-Mude de sexo</i>
+Desconte um cheque
+Mude de sexo
 
 122
 00:11:43,270 --> 00:11:45,460
@@ -1066,7 +1066,7 @@ Beleza.
 
 247
 00:21:39,510 --> 00:21:45,067
-<i>Amor, não ria</i>
+Amor, não ria
 
 248
 00:21:51,730 --> 00:21:55,607
@@ -1079,105 +1079,105 @@ Forte e confiante. Relaxada, certo?
 
 250
 00:22:03,450 --> 00:22:06,970
-<i>Sou sua transformer
-Me chame de Marlene</i>
+Sou sua transformer
+Me chame de Marlene
 
 251
 00:22:07,051 --> 00:22:08,957
-<i>Me chame de Gino</i>
+Me chame de Gino
 
 252
 00:22:09,040 --> 00:22:11,127
-<i>Sou eu, você sabe</i>
+Sou eu, você sabe
 
 253
 00:22:14,760 --> 00:22:20,927
-<i>Sou sua transformer
-Me chame de Marlene ou de Gino</i>
+Sou sua transformer
+Me chame de Marlene ou de Gino
 
 254
 00:22:21,010 --> 00:22:23,010
-<i>Sou eu, você sabe</i>
+Sou eu, você sabe
 
 255
 00:22:27,483 --> 00:22:29,647
-<i>Eu gosto disso
-Je l'aime</i>
+Eu gosto disso
+Je l'aime
 
 256
 00:22:30,343 --> 00:22:31,343
-<i>Mi piace</i>
+Mi piace
 
 257
 00:22:31,424 --> 00:22:32,897
-<i>Você se movimenta bem</i>
+Você se movimenta bem
 
 258
 00:22:32,980 --> 00:22:38,016
-<i>Ligue para o Studio 54 em Nova York</i>
+Ligue para o Studio 54 em Nova York
 
 259
 00:22:39,030 --> 00:22:42,729
-<i>Você se movimenta bem</i>
+Você se movimenta bem
 
 260
 00:22:44,870 --> 00:22:49,744
-<i>Amor, não ria</i>
+Amor, não ria
 
 261
 00:22:50,790 --> 00:22:52,790
-<i>Sou eu, você sabe</i>
+Sou eu, você sabe
 
 262
 00:23:02,760 --> 00:23:07,566
-<i>Sou sua transformer
-Me chame de Marlene ou de Gino</i>
+Sou sua transformer
+Me chame de Marlene ou de Gino
 
 263
 00:23:08,810 --> 00:23:10,810
-<i>Sou eu, você sabe</i>
+Sou eu, você sabe
 
 264
 00:23:14,916 --> 00:23:17,346
-<i>Eu gosto disso
-Je l'aime</i>
+Eu gosto disso
+Je l'aime
 
 265
 00:23:17,427 --> 00:23:18,884
-<i>Mi piace</i>
+Mi piace
 
 266
 00:23:18,965 --> 00:23:20,617
-<i>Você se movimenta bem</i>
+Você se movimenta bem
 
 267
 00:23:20,700 --> 00:23:26,247
-<i>Ligue para o Studio 54 em Nova York</i>
+Ligue para o Studio 54 em Nova York
 
 268
 00:23:26,330 --> 00:23:29,400
-<i>Você se movimenta bem</i>
+Você se movimenta bem
 
 269
 00:23:32,280 --> 00:23:38,217
-<i>Amor, não ria</i>
+Amor, não ria
 
 270
 00:23:38,300 --> 00:23:40,300
-<i>Sou eu, você sabe</i>
+Sou eu, você sabe
 
 271
 00:23:47,115 --> 00:23:49,325
-<i>Por que não quer
-que eu trabalhe pro seu pai?</i>
+Por que não quer
+que eu trabalhe pro seu pai?
 
 272
 00:23:49,406 --> 00:23:50,530
-<i>Não nos damos bem.</i>
+Não nos damos bem.
 
 273
 00:23:50,610 --> 00:23:52,687
-<i>Porque você gosta de garotas?</i>
+Porque você gosta de garotas?
 
 274
 00:23:53,455 --> 00:23:55,163
@@ -1263,8 +1263,8 @@ Vamos!
 
 294
 00:26:03,536 --> 00:26:06,697
-<i>Já que trabalha aqui,
-deveria saber o básico.</i>
+Já que trabalha aqui,
+deveria saber o básico.
 
 295
 00:26:11,504 --> 00:26:12,572
@@ -1828,11 +1828,11 @@ Meu Deus!
 
 427
 00:39:59,916 --> 00:40:02,118
-<i>JJ, precisamos conversar.</i>
+JJ, precisamos conversar.
 
 428
 00:40:04,746 --> 00:40:05,996
-<i>Atenda o telefone.</i>
+Atenda o telefone.
 
 429
 00:40:20,699 --> 00:40:21,699
@@ -1860,16 +1860,16 @@ Vamos. Não há nada que possa fazer.
 
 435
 00:41:52,220 --> 00:41:53,823
-<i>Isto é crack.</i>
+Isto é crack.
 
 436
 00:41:54,445 --> 00:41:57,704
-<i>Apreendido há alguns dias
-pela polícia</i>
+Apreendido há alguns dias
+pela polícia
 
 437
 00:41:58,483 --> 00:42:01,365
-<i>numa praça em frente à minha rua.</i>
+numa praça em frente à minha rua.
 
 438
 00:42:02,098 --> 00:42:03,232
@@ -1877,7 +1877,7 @@ Pare.
 
 439
 00:42:03,313 --> 00:42:05,519
-<i>Podia ter sido heroína ou pó de anjo.</i>
+Podia ter sido heroína ou pó de anjo.
 
 440
 00:42:56,480 --> 00:42:57,480
@@ -2177,33 +2177,33 @@ Por favor, fique aqui.
 
 511
 00:51:54,950 --> 00:51:56,924
-<i>É história sendo feita, pessoal.</i>
+É história sendo feita, pessoal.
 
 512
 00:51:57,005 --> 00:51:59,367
-<i>O governo alemão disse esta noite</i>
+O governo alemão disse esta noite
 
 513
 00:51:59,450 --> 00:52:02,529
-<i>que fará ao menos uma dúzia
-de aberturas no muro,</i>
+que fará ao menos uma dúzia
+de aberturas no muro,
 
 514
 00:52:02,609 --> 00:52:05,329
-<i>para que mais pessoas
-cruzem para o oeste.</i>
+para que mais pessoas
+cruzem para o oeste.
 
 515
 00:52:05,409 --> 00:52:07,599
-<i>A animação no ar é palpável.</i>
+A animação no ar é palpável.
 
 516
 00:52:07,679 --> 00:52:09,390
-<i>A atmosfera é eletrizante.</i>
+A atmosfera é eletrizante.
 
 517
 00:52:09,470 --> 00:52:12,257
-<i>Uma celebração do indivíduo.</i>
+Uma celebração do indivíduo.
 
 518
 00:52:51,816 --> 00:52:52,816
@@ -2441,19 +2441,19 @@ CAMPEONATO DE FISICULTURISMO DE 1989
 
 573
 00:59:53,470 --> 00:59:57,767
-<i>Parabéns pra você</i>
+Parabéns pra você
 
 574
 00:59:57,850 --> 01:00:01,477
-<i>Parabéns pra você</i>
+Parabéns pra você
 
 575
 01:00:01,560 --> 01:00:04,954
-<i>Parabéns, querido Bobby</i>
+Parabéns, querido Bobby
 
 576
 01:00:06,017 --> 01:00:08,737
-<i>Parabéns pra você</i>
+Parabéns pra você
 
 577
 01:00:09,879 --> 01:00:11,563
@@ -2614,57 +2614,57 @@ Porra! Tem mais.
 
 615
 01:02:59,171 --> 01:03:00,827
-<i>Sou um cara mau, muito mau</i>
+Sou um cara mau, muito mau
 
 616
 01:03:06,950 --> 01:03:08,917
-<i>Sou um cara mau, muito mau</i>
+Sou um cara mau, muito mau
 
 617
 01:04:17,434 --> 01:04:19,627
-<i>Senhoras e senhores, prestem atenção.</i>
+Senhoras e senhores, prestem atenção.
 
 618
 01:04:19,708 --> 01:04:23,870
-<i>Competidores 20 a 25,
-subam ao palco, por favor.</i>
+Competidores 20 a 25,
+subam ao palco, por favor.
 
 619
 01:04:23,950 --> 01:04:26,081
-<i>Muito obrigado, senhoras e senhores.</i>
+Muito obrigado, senhoras e senhores.
 
 620
 01:04:40,076 --> 01:04:44,575
-<i>E agora… é a vez das garotas!</i>
+E agora… é a vez das garotas!
 
 621
 01:05:01,143 --> 01:05:02,870
-<i>Um quarto de volta à direita.</i>
+Um quarto de volta à direita.
 
 622
 01:05:16,452 --> 01:05:19,062
-<i>Um quarto de volta à direita.</i>
+Um quarto de volta à direita.
 
 623
 01:05:25,497 --> 01:05:26,697
-<i>Olhem pra frente.</i>
+Olhem pra frente.
 
 624
 01:05:40,134 --> 01:05:41,265
-<i>Obrigado.</i>
+Obrigado.
 
 625
 01:05:45,813 --> 01:05:47,710
-<i>Lindas, não?</i>
+Lindas, não?
 
 626
 01:05:47,790 --> 01:05:49,952
-<i>E só estamos começando.</i>
+E só estamos começando.
 
 627
 01:05:50,032 --> 01:05:53,641
-<i>Cada competidora voltará ao palco
-para uma rotina individual.</i>
+Cada competidora voltará ao palco
+para uma rotina individual.
 
 628
 01:06:05,496 --> 01:06:06,496
@@ -2676,36 +2676,36 @@ Vai com tudo.
 
 630
 01:06:14,666 --> 01:06:19,437
-<i>A primeira, vinda de Oklahoma,
-Srta. Jaqueline Cleaver!</i>
+A primeira, vinda de Oklahoma,
+Srta. Jaqueline Cleaver!
 
 631
 01:06:26,094 --> 01:06:30,657
-<i>Quando as luzes brilham</i>
+Quando as luzes brilham
 
 632
 01:06:33,441 --> 01:06:37,417
-<i>E o tempo passa devagar</i>
+E o tempo passa devagar
 
 633
 01:06:40,296 --> 01:06:44,838
-<i>Quando minha mente está aérea</i>
+Quando minha mente está aérea
 
 634
 01:06:47,165 --> 01:06:50,136
-<i>Arrasada e morrendo</i>
+Arrasada e morrendo
 
 635
 01:06:53,448 --> 01:06:57,477
-<i>Há um moeda na minha mão</i>
+Há um moeda na minha mão
 
 636
 01:07:00,360 --> 01:07:05,767
-<i>Gravada para os tristes e solitários</i>
+Gravada para os tristes e solitários
 
 637
 01:07:06,638 --> 01:07:09,277
-<i>Agora me sinto tão gelada e só</i>
+Agora me sinto tão gelada e só
 
 638
 01:07:46,881 --> 01:07:49,067
@@ -2721,7 +2721,7 @@ A gordinha comeu demais?
 
 641
 01:07:59,719 --> 01:08:01,673
-<i>Segurança, dirija-se ao palco.</i>
+Segurança, dirija-se ao palco.
 
 642
 01:08:04,923 --> 01:08:05,986
@@ -2919,7 +2919,7 @@ Tem direito a uma ligação.
 
 688
 01:11:20,636 --> 01:11:22,169
-<i>Casa da Lou. Olá.</i>
+Casa da Lou. Olá.
 
 689
 01:11:22,960 --> 01:11:23,997
@@ -3260,7 +3260,7 @@ Com licença.
 
 767
 01:17:21,310 --> 01:17:23,310
-<i>Duas margaritas, por favor</i>
+Duas margaritas, por favor
 
 768
 01:17:27,117 --> 01:17:29,978
@@ -3306,25 +3306,25 @@ Porra!
 778
 01:18:34,274 --> 01:18:36,387
 - Sim?
-<i>- Acabou.</i>
+- Acabou.
 
 779
 01:18:36,470 --> 01:18:37,928
-<i>Ela estava com a Lou.</i>
+Ela estava com a Lou.
 
 780
 01:18:57,208 --> 01:18:58,975
-<i>- Alô?</i>
+- Alô?
 - Hughey.
 
 781
 01:19:00,089 --> 01:19:01,089
-<i>Jackie.</i>
+Jackie.
 
 782
 01:19:02,137 --> 01:19:04,569
-<i>A mãe disse que você fugiu.
-O que houve?</i>
+A mãe disse que você fugiu.
+O que houve?
 
 783
 01:19:05,230 --> 01:19:06,721
@@ -3340,25 +3340,25 @@ Nunca se apaixone, só isso.
 
 786
 01:19:14,047 --> 01:19:15,081
-<i>Hughey, quem é?</i>
+Hughey, quem é?
 
 787
 01:19:15,162 --> 01:19:17,195
-<i>- Jackie.
-- Dê-me o telefone.</i>
+- Jackie.
+- Dê-me o telefone.
 
 788
 01:19:17,276 --> 01:19:18,276
-<i>Dê-me isso.</i>
+Dê-me isso.
 
 789
 01:19:18,911 --> 01:19:21,658
-<i>Jacqueline, fique longe de nós,
-seu monstro!</i>
+Jacqueline, fique longe de nós,
+seu monstro!
 
 790
 01:19:21,738 --> 01:19:23,706
-<i>Nunca mais ligue para esta casa!</i>
+Nunca mais ligue para esta casa!
 
 791
 01:19:36,530 --> 01:19:37,732
@@ -3500,15 +3500,15 @@ Ela nunca mais apareceu.
 
 824
 01:23:02,692 --> 01:23:04,894
-<i>A palhaçada acaba agora, Louise.</i>
+A palhaçada acaba agora, Louise.
 
 825
 01:23:06,446 --> 01:23:09,632
-<i>Escute bem e faça o que eu mandar.</i>
+Escute bem e faça o que eu mandar.
 
 826
 01:23:11,055 --> 01:23:12,957
-<i>- Pronta?</i>
+- Pronta?
 - Eu…
 
 827
@@ -3522,8 +3522,8 @@ Protegi você.
 
 829
 01:23:17,685 --> 01:23:20,632
-<i>Não que eu seja burro
-de esperar gratidão em troca.</i>
+Não que eu seja burro
+de esperar gratidão em troca.
 
 830
 01:23:20,712 --> 01:23:21,797
@@ -3546,22 +3546,22 @@ e esse caos vai acabar.
 
 834
 01:23:37,172 --> 01:23:39,038
-<i>A polícia vai atrás de você.</i>
+A polícia vai atrás de você.
 
 835
 01:23:39,119 --> 01:23:41,457
-<i>Diga que estavam curtindo,
-que está apavorada…</i>
+Diga que estavam curtindo,
+que está apavorada…
 
 836
 01:23:41,537 --> 01:23:44,784
 - Se machucá-la, mato você.
-<i>- Lou, cale a boca e escute.</i>
+- Lou, cale a boca e escute.
 
 837
 01:23:44,864 --> 01:23:47,934
-<i>Ou quer responder
-pelo cadáver no seu apartamento?</i>
+Ou quer responder
+pelo cadáver no seu apartamento?
 
 838
 01:23:48,610 --> 01:23:52,105
@@ -3573,11 +3573,11 @@ Sei que isso você consegue.
 
 840
 01:23:55,790 --> 01:23:58,787
-<i>Relaxe. Deixe que o papai resolve tudo.</i>
+Relaxe. Deixe que o papai resolve tudo.
 
 841
 01:23:58,870 --> 01:24:00,633
-<i>Nem pensar.</i>
+Nem pensar.
 
 842
 01:24:00,713 --> 01:24:04,377
@@ -3594,7 +3594,7 @@ Há quantas pessoas lá embaixo?
 
 845
 01:24:10,518 --> 01:24:12,567
-<i>Pareciam muitas. Fez as contas?</i>
+Pareciam muitas. Fez as contas?
 
 846
 01:24:13,394 --> 01:24:15,573
@@ -3627,16 +3627,16 @@ Pai?
 
 853
 01:24:41,873 --> 01:24:43,890
-<i>Isso foi muito insensato, querida.</i>
+Isso foi muito insensato, querida.
 
 854
 01:25:32,142 --> 01:25:34,757
-<i>Lou. Lou, está aí?</i>
+Lou. Lou, está aí?
 
 855
 01:25:35,800 --> 01:25:38,754
-<i>Estou esperando você.
-Por favor, venha me buscar.</i>
+Estou esperando você.
+Por favor, venha me buscar.
 
 856
 01:26:07,309 --> 01:26:08,309
@@ -4112,5 +4112,4 @@ Tchau, pai.
 
 967
 01:38:09,430 --> 01:38:11,430
-<i><b>Legenda: Myriam</b></i>
-
+Legenda: Myriam
