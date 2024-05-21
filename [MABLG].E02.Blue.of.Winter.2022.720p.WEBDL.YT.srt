@@ -1,0 +1,491 @@
+1
+00:00:02,748 --> 00:00:03,885
+Você vai de ônibus?
+
+2
+00:00:04,008 --> 00:00:04,723
+Sim
+
+3
+00:00:05,272 --> 00:00:06,073
+E você?
+
+4
+00:00:06,073 --> 00:00:07,882
+Eu moro perto. Vou a pé mesmo.
+
+5
+00:00:07,882 --> 00:00:09,122
+Entendi
+
+6
+00:00:10,655 --> 00:00:12,000
+Oh, o ônibus está vindo.
+
+7
+00:00:12,518 --> 00:00:13,423
+Eu estou indo.
+
+8
+00:00:13,722 --> 00:00:14,222
+Até mais.
+
+9
+00:00:15,475 --> 00:00:16,270
+Sunbae!
+
+10
+00:00:18,000 --> 00:00:18,500
+O que foi?
+
+11
+00:00:18,947 --> 00:00:20,610
+Você pode me dar seu número?
+
+12
+00:00:23,173 --> 00:00:23,922
+Meu número?
+
+13
+00:00:25,295 --> 00:00:26,227
+Sim
+
+14
+00:00:26,227 --> 00:00:27,784
+Você me disse pra te lembrar da próxima vez
+
+15
+00:00:27,784 --> 00:00:29,221
+E eu queria ter seu número.
+
+16
+00:00:38,014 --> 00:00:39,314
+Hey, eu realmente tenho que ir agora
+
+17
+00:00:39,680 --> 00:00:40,275
+Se cuida.
+
+18
+00:01:00,000 --> 00:01:02,446
+[Blue Of Winter]
+
+19
+00:01:06,075 --> 00:01:08,480
+[Ep.02 A coisa mais difícil de se dizer]
+
+20
+00:01:20,481 --> 00:01:21,515
+Você não vai para casa?
+
+21
+00:01:22,836 --> 00:01:23,809
+Quem é você?
+
+22
+00:01:25,940 --> 00:01:27,295
+Oi. Sou o amigo de Jae-Ho.
+
+23
+00:01:32,459 --> 00:01:33,510
+Você dormiu bem?
+
+24
+00:01:35,696 --> 00:01:37,164
+Você sabe que horas são agora?
+
+25
+00:01:39,199 --> 00:01:39,867
+Não
+
+26
+00:01:40,650 --> 00:01:42,000
+Já é de noite.
+
+27
+00:01:43,971 --> 00:01:44,705
+Percebi.
+
+28
+00:01:47,741 --> 00:01:48,920
+Você tá saindo com alguém?
+
+29
+00:01:50,978 --> 00:01:51,689
+Não
+
+30
+00:01:52,780 --> 00:01:53,929
+Então, você está gostando de alguém?
+
+31
+00:01:56,183 --> 00:01:57,123
+Não
+
+32
+00:02:02,158 --> 00:02:03,763
+Você tem sobrancelhas bonitas.
+
+33
+00:02:04,725 --> 00:02:05,743
+O que você está fazendo?
+
+34
+00:02:07,094 --> 00:02:09,496
+Só estava curioso sobre como você era
+
+35
+00:02:12,272 --> 00:02:13,365
+Onde você mora?
+
+36
+00:02:15,302 --> 00:02:16,746
+Moro perto de Jaeho.
+
+37
+00:02:17,480 --> 00:02:18,425
+Bom
+
+38
+00:02:19,013 --> 00:02:19,936
+Vamos juntos.
+
+39
+00:02:19,936 --> 00:02:21,159
+Moro perto também
+
+40
+00:02:23,677 --> 00:02:24,345
+Por que eu deveria?
+
+41
+00:02:27,614 --> 00:02:29,583
+Porque eu quero ir com você
+
+42
+00:02:31,618 --> 00:02:32,453
+Sim, mas por quê?
+
+43
+00:02:39,460 --> 00:02:40,494
+Talvez eu queira me aproximar de você?
+
+44
+00:02:42,129 --> 00:02:42,721
+Vamos
+
+45
+00:03:07,342 --> 00:03:08,751
+Tá tão quente
+
+46
+00:03:09,000 --> 00:03:09,968
+É divertido?
+
+47
+00:03:10,491 --> 00:03:11,191
+O quê?
+
+48
+00:03:11,625 --> 00:03:12,392
+Judô
+
+49
+00:03:13,861 --> 00:03:14,995
+Claro. É divertido.
+
+50
+00:03:15,796 --> 00:03:16,600
+Você quer tentar?
+
+51
+00:03:17,156 --> 00:03:18,157
+Na verdade não
+
+52
+00:03:18,799 --> 00:03:19,377
+Hey!
+
+53
+00:03:19,377 --> 00:03:20,478
+O que a gente vai comer hoje?
+
+54
+00:03:21,034 --> 00:03:21,877
+Entendi
+
+55
+00:03:21,877 --> 00:03:23,532
+Esporte não deve ser sua praia
+já que você só estuda
+
+56
+00:03:24,671 --> 00:03:27,774
+Tenho certeza que sou melhor que você no basquete
+
+57
+00:03:29,476 --> 00:03:30,647
+Quer apostar?
+
+58
+00:03:31,229 --> 00:03:32,026
+Sunbae
+
+59
+00:03:33,315 --> 00:03:33,870
+Hey
+
+60
+00:03:35,117 --> 00:03:39,052
+O treinador me mandou te dar a chave da academia
+
+61
+00:03:40,220 --> 00:03:40,819
+Oh, obrigado
+
+62
+00:03:41,355 --> 00:03:42,083
+Certo. Obrigado
+
+63
+00:03:46,894 --> 00:03:50,430
+Vocês estão sempre juntos;
+
+64
+00:03:50,434 --> 00:03:51,824
+Vocês devem ser muito próximos
+
+65
+00:03:53,198 --> 00:03:55,480
+Ele e eu somos amigos do Jae-ho
+Então, geralmente saímos juntos
+
+66
+00:03:56,713 --> 00:03:59,752
+Por que você perguntou se somos próximos?
+
+67
+00:04:00,193 --> 00:04:03,123
+Oh, eu te vejo o esperando todos os dias
+
+68
+00:04:03,123 --> 00:04:04,843
+Então eu pensei que vocês fossem próximos.
+
+69
+00:04:04,843 --> 00:04:05,701
+Por quê?
+
+70
+00:04:05,701 --> 00:04:08,515
+Você achou que a gente tava namorando ou algo assim?
+
+71
+00:04:08,538 --> 00:04:09,285
+Hey
+
+72
+00:04:11,734 --> 00:04:14,318
+Ele está só brincando
+
+73
+00:04:14,318 --> 00:04:15,831
+Não liga pra essa cara doido
+
+74
+00:04:16,500 --> 00:04:18,743
+Você fez um bom trabalho hoje. Pode ir.
+
+75
+00:04:20,644 --> 00:04:21,832
+Tchau
+
+76
+00:04:21,833 --> 00:04:23,148
+Te vejo amanhã
+
+77
+00:04:26,442 --> 00:04:28,992
+Que tal a gente comer costeleta de porco hoje?
+É o favorito de Ji-seok…
+
+78
+00:04:30,596 --> 00:04:31,275
+costeleta de porco...
+
+79
+00:04:31,797 --> 00:04:32,596
+Pode ser
+
+80
+00:04:34,462 --> 00:04:35,112
+Hey
+
+81
+00:04:46,553 --> 00:04:47,248
+O que é isso?
+
+82
+00:04:58,298 --> 00:04:59,166
+O que você está fazendo?
+
+83
+00:05:00,646 --> 00:05:02,655
+Está muito frio aqui fora hoje
+
+84
+00:05:03,677 --> 00:05:04,863
+Eu não quero isso. Use você
+
+85
+00:05:04,863 --> 00:05:06,237
+Escuta
+
+86
+00:05:06,237 --> 00:05:07,939
+É porque eu não quero levar isso pra casa
+
+87
+00:05:09,419 --> 00:05:10,574
+Pode ficar
+
+88
+00:05:11,878 --> 00:05:12,878
+Fica bem em você
+
+89
+00:05:20,787 --> 00:05:22,857
+Heyyyyy!
+
+90
+00:05:23,086 --> 00:05:24,336
+Então, o que a gente vai comer hoje?
+
+91
+00:05:24,935 --> 00:05:26,350
+Ah, por que a gente não vai pra casa do Hyun-woo
+
+92
+00:05:27,107 --> 00:05:29,068
+Comer alguma coisa lá
+ao invés de comer no frio aqui do lado de fora?
+
+93
+00:05:29,068 --> 00:05:29,899
+Okay?
+
+94
+00:05:29,899 --> 00:05:30,399
+Okay
+
+95
+00:05:30,399 --> 00:05:31,427
+Okay, vamos
+
+96
+00:05:35,742 --> 00:05:37,074
+Você não vai pra casa?
+
+97
+00:05:42,000 --> 00:05:43,368
+Eu perdi o último ônibus
+
+98
+00:05:46,574 --> 00:05:48,256
+Eu sei que você mora perto
+
+99
+00:05:49,665 --> 00:05:50,477
+Você pode ir a pé
+
+100
+00:05:51,428 --> 00:05:52,803
+Eu estou cansado. Deixa eu dormir aqui hoje.
+
+101
+00:05:55,657 --> 00:05:57,394
+Eu vou ficar mais cansado se você ficar aqui
+
+102
+00:05:57,958 --> 00:05:58,802
+Vai
+
+103
+00:06:01,779 --> 00:06:03,161
+Eu não moro perto daqui
+
+104
+00:06:04,817 --> 00:06:05,882
+O quê?
+
+105
+00:06:08,383 --> 00:06:11,048
+Minha casa é bem longe daqui
+
+106
+00:06:14,465 --> 00:06:15,583
+Você está bêbado?
+
+107
+00:06:19,634 --> 00:06:20,823
+Que idiota
+
+108
+00:06:22,302 --> 00:06:24,348
+Espera, o que você disse?
+
+109
+00:06:28,417 --> 00:06:29,612
+Eu menti
+
+110
+00:06:30,000 --> 00:06:31,428
+Para me aproximar de você
+
+111
+00:06:33,277 --> 00:06:35,525
+Minha casa fica na direção oposta
+
+112
+00:06:36,300 --> 00:06:38,229
+Demora uma hora e meia pra chegar em casa daqui
+
+113
+00:06:39,286 --> 00:06:40,698
+Por que você mentiu?
+
+114
+00:06:47,709 --> 00:06:48,731
+Porque eu gosto de você
+
+115
+00:06:50,581 --> 00:06:51,292
+O quê? Por quê?
+
+116
+00:06:52,120 --> 00:06:53,598
+Tem que ter uma razão pra gostar de alguém?
+
+117
+00:07:10,563 --> 00:07:12,565
+Eu não sei... só gosto de você.
+
+118
+00:07:15,489 --> 00:07:16,582
+Só gosto de você
+
+119
+00:07:33,153 --> 00:07:35,855
+Eu não sei como me sinto
+
+120
+00:08:07,843 --> 00:08:10,121
+A coisa mais difícil de se dizer
+
+121
+00:08:10,121 --> 00:08:12,000
+Do coração, a coisa mais difícil de se dizer
+
+122
+00:08:21,834 --> 00:08:23,903
+[Prévia do episódio 3]
