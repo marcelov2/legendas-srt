@@ -1,0 +1,3460 @@
+1
+00:00:25,707 --> 00:00:26,907
+Você e eu.
+
+2
+00:00:26,908 --> 00:00:29,727
+Você e eu. Eu e você. Você e eu.
+
+3
+00:00:30,631 --> 00:00:31,705
+Entendi.
+
+4
+00:00:31,707 --> 00:00:34,366
+O Lestat foi o meu companheiro na América.
+
+5
+00:00:34,368 --> 00:00:37,337
+- E onde ele está agora?
+- Eu o matei, e ele merecia.
+
+6
+00:00:37,339 --> 00:00:38,997
+- Isso é discutível.
+- Vá embora!
+
+7
+00:00:38,999 --> 00:00:41,596
+- Meu nome é Raglan James.
+- Tem um nome verdadeiro?
+
+8
+00:00:41,598 --> 00:00:46,485
+<i>Os arquivos foram colocados
+no seu notebook comicamente vulnerável.</i>
+
+9
+00:00:46,487 --> 00:00:48,790
+<i>O clã tem inveja da sua independência.</i>
+
+10
+00:00:48,792 --> 00:00:50,013
+<i>Isso é um problema.</i>
+
+11
+00:00:50,877 --> 00:00:52,990
+Americana. O seu francês é feio.
+
+12
+00:00:53,299 --> 00:00:55,096
+O vestido, para o meu corpo.
+
+13
+00:00:55,098 --> 00:00:58,466
+- É o Louis que é de Chicago, não é?
+- Perto de lá.
+
+14
+00:00:58,468 --> 00:01:01,460
+<i>No ensino médio, você roubava
+as revistas Playboy do seu pai</i>
+
+15
+00:01:01,461 --> 00:01:02,785
+e as vendia no recreio.
+
+16
+00:01:02,787 --> 00:01:04,963
+<i>Vou entrar no clã.
+Seria bom se você fosse.</i>
+
+17
+00:01:04,965 --> 00:01:06,447
+<i>Ele será a nossa ruína.</i>
+
+18
+00:01:06,448 --> 00:01:09,212
+<i>- Faça o que deve ser feito.
+- E você fala pelo clã?</i>
+
+19
+00:01:09,509 --> 00:01:11,971
+<i>Não achou que deixaríamos você
+no banheiro, não é?</i>
+
+20
+00:01:11,973 --> 00:01:13,990
+Uma nova peça, para você e as mulheres.
+
+21
+00:01:13,992 --> 00:01:15,409
+E eu interpreto a garotinha?
+
+22
+00:01:15,411 --> 00:01:18,619
+Você será o passarinho delas
+pelos próximos 50 anos.
+
+23
+00:01:29,102 --> 00:01:30,362
+<b><i>Griots Team apresenta</i></b>
+
+24
+00:01:30,364 --> 00:01:32,329
+<b><i>Interview with the Vampire - S02E04</i></b>
+
+25
+00:01:32,331 --> 00:01:35,510
+<b><i>"I want you
+more than anything in the world"</i></b>
+
+26
+00:01:35,512 --> 00:01:40,311
+<b><i>Tradução: TatianeVS - Alzwitch71
+N0Sferatu - warzoom - Feroxxx - funniedoug</i></b>
+
+27
+00:01:40,313 --> 00:01:42,729
+<b><i>Revisão: TatianeVS</i></b>
+
+28
+00:01:43,341 --> 00:01:45,019
+EPISÓDIO ONZE
+
+29
+00:01:45,021 --> 00:01:47,511
+QUERO VOCÊ
+MAIS DO QUE QUALQUER COISA NO MUNDO
+
+30
+00:02:13,494 --> 00:02:16,509
+<i>Não há nada mais adorável</i>
+
+31
+00:02:16,511 --> 00:02:19,523
+<i>Do que um filhote de passarinho feliz</i>
+
+32
+00:02:19,525 --> 00:02:23,199
+<i>E um bebê feliz ama cantar</i>
+
+33
+00:02:23,201 --> 00:02:26,804
+{\an8}<i>Com uma voz que pode ser ouvida</i>
+
+34
+00:02:26,806 --> 00:02:30,519
+<i>Só uma coisa que a deixa triste</i>
+
+35
+00:02:30,521 --> 00:02:35,503
+<i>Na verdade, uma coisa que a deixa brava</i>
+
+36
+00:02:35,505 --> 00:02:39,061
+{\an8}<i>Quando ela é deixada de lado
+Como um edredom velho</i>
+
+37
+00:02:39,063 --> 00:02:42,385
+{\an8}<i>Como um abajur que perdeu o seu encanto</i>
+
+38
+00:02:42,387 --> 00:02:47,700
+{\an8}<i>E a luz do sol
+A chama para fora para brincar</i>
+
+39
+00:02:47,702 --> 00:02:54,509
+{\an8}<i>Bom, vocês sabem
+O que estou prestes a dizer</i>
+
+40
+00:02:55,881 --> 00:03:00,093
+{\an8}<i>Não gosto de janelas
+Quando elas estão fechadas</i>
+
+41
+00:03:00,095 --> 00:03:04,157
+{\an8}<i>Eu quero voar para onde o vento sopra</i>
+
+42
+00:03:04,159 --> 00:03:07,520
+{\an8}<i>Árvores, abelhas e grandes arco-íris</i>
+
+43
+00:03:07,522 --> 00:03:11,785
+{\an8}<i>Não, não gosto de janelas
+Quando elas estão fechadas</i>
+
+44
+00:03:11,786 --> 00:03:15,898
+{\an8}<i>Ela não gosta de janelas
+Quando elas estão fechadas</i>
+
+45
+00:03:24,529 --> 00:03:27,788
+{\an8}<i>Árvores, abelhas e grandes arco-íris</i>
+
+46
+00:03:27,790 --> 00:03:31,669
+{\an8}<i>Não, não gosto de janelas</i>
+
+47
+00:03:31,671 --> 00:03:36,671
+{\an8}<i>Quando elas estão fechadas</i>
+
+48
+00:03:45,899 --> 00:03:48,396
+{\an8}E ela gostou de ser infantilizada?
+
+49
+00:03:48,398 --> 00:03:50,775
+{\an8}A vida do clã exige
+um abandono de si mesmo.
+
+50
+00:03:50,777 --> 00:03:54,404
+{\an8}- Ela o fez como um jogador experiente.
+- Ela tinha problemas com isso.
+
+51
+00:04:00,073 --> 00:04:03,350
+Olá, querida Lu.
+
+52
+00:04:03,352 --> 00:04:04,687
+Estelle!
+
+53
+00:04:04,689 --> 00:04:07,194
+Viemos levar a sua babá lá para baixo
+
+54
+00:04:07,195 --> 00:04:09,772
+para mexer nossos coquetéis
+e servir nossos canapés,
+
+55
+00:04:09,774 --> 00:04:14,013
+e manter as mãos nojentas do seu pai
+longe da sua querida mamãe!
+
+56
+00:04:14,943 --> 00:04:15,970
+Sou um passarinho!
+
+57
+00:04:15,971 --> 00:04:18,472
+Madame, a sua filha
+está enfeitiçada pela janela.
+
+58
+00:04:18,474 --> 00:04:20,407
+Ela pensa que é um pássaro de verdade.
+
+59
+00:04:20,409 --> 00:04:24,216
+Babá, preciso de dois mint juleps
+e quatro bahinis.
+
+60
+00:04:24,218 --> 00:04:25,897
+Sim. Lulu!
+
+61
+00:04:25,899 --> 00:04:29,291
+- Saia daí!
+- Eu sou um passarinho!
+
+62
+00:04:29,784 --> 00:04:31,158
+Não me faça usar isso!
+
+63
+00:04:31,166 --> 00:04:33,628
+Vou bater as minhas asas
+e voar para muito longe!
+
+64
+00:04:33,630 --> 00:04:35,075
+Você sabe que eu vou!
+
+65
+00:04:35,077 --> 00:04:36,408
+Vou voar para longe.
+
+66
+00:04:36,410 --> 00:04:39,997
+Você foi avisada!
+
+67
+00:04:45,419 --> 00:04:47,110
+Minha garra!
+
+68
+00:04:47,112 --> 00:04:48,809
+Isto não é uma garra!
+
+69
+00:04:49,109 --> 00:04:50,718
+É um pé!
+
+70
+00:04:50,720 --> 00:04:52,101
+Babá!
+
+71
+00:04:52,103 --> 00:04:55,314
+- Onde estão os meus canapés?
+- Sim, Madame!
+
+72
+00:04:56,482 --> 00:04:59,195
+O passarinho Lu
+está preso em uma armadilha.
+
+73
+00:04:59,694 --> 00:05:03,818
+Mas ela está batendo as asas
+e se libertando!
+
+74
+00:05:06,480 --> 00:05:10,118
+- Passarinhos adoram a brisa...
+- Lulu?
+
+75
+00:05:18,097 --> 00:05:21,204
+Onde estão os canapés?
+
+76
+00:05:34,933 --> 00:05:37,803
+{\an8}- A peça foi um sucesso.
+- Um sucesso absoluto.
+
+77
+00:05:37,805 --> 00:05:42,175
+{\an8}Eles adicionaram shows, adicionaram
+assentos, venderam lembrancinhas.
+
+78
+00:05:42,177 --> 00:05:46,192
+{\an8}Os parisienses, que nos desdenhavam,
+começaram a voltar novamente.
+
+79
+00:05:46,194 --> 00:05:49,800
+Até adicionamos de volta
+uma apresentação francesa na quarta-feira.
+
+80
+00:05:50,113 --> 00:05:51,684
+Como o clã reagiu?
+
+81
+00:05:51,685 --> 00:05:53,609
+- De muito boa vontade.
+- Eram amargos.
+
+82
+00:05:53,921 --> 00:05:58,758
+{\an8}Eu odeio essa música
+como odeio o meu pai mortal.
+
+83
+00:05:58,759 --> 00:06:03,294
+{\an8}Sonho que minha mãe mortal canta
+enquanto me bate com um crucifixo.
+
+84
+00:06:03,295 --> 00:06:06,816
+{\an8}- Sabá de Sangue, três minutos.
+- Vá se foder, três minutos!
+
+85
+00:06:13,202 --> 00:06:16,456
+Vou bater as minhas asas
+e voar para muito longe!
+
+86
+00:06:16,458 --> 00:06:19,728
+Você foi avisada!
+
+87
+00:06:21,312 --> 00:06:22,632
+Minha garra!
+
+88
+00:06:22,634 --> 00:06:24,693
+Não é uma garra. É um pé!
+
+89
+00:06:25,106 --> 00:06:28,101
+O passarinho Lu
+está presa em uma armadilha,
+
+90
+00:06:28,103 --> 00:06:31,260
+mas ela está batendo as asas
+e se libertando.
+
+91
+00:06:31,262 --> 00:06:36,297
+- Não faça isso, querida Lu!
+- Passarinhos adoram a brisa!
+
+92
+00:06:38,412 --> 00:06:39,903
+Diz aqui nas margens:
+
+93
+00:06:39,905 --> 00:06:43,493
+"Encontre o bebê, a maravilha infantil
+interior de Lulu novamente."
+
+94
+00:06:43,495 --> 00:06:49,710
+E, “Claudia, se você não fizer
+mais nada, pelo menos enuncie”.
+
+95
+00:06:49,712 --> 00:06:51,674
+Essas são minhas anotações, mas...
+
+96
+00:06:51,675 --> 00:06:55,414
+Na apresentação de número 500,
+a Claudia estava mais que entediada.
+
+97
+00:06:55,680 --> 00:06:57,127
+<i>Não foi tédio.</i>
+
+98
+00:06:57,780 --> 00:06:59,200
+<i>Foi sabotagem.</i>
+
+99
+00:06:59,667 --> 00:07:03,291
+<i>Não, não gosto de janelas
+Quando elas estão fechadas</i>
+
+100
+00:07:03,293 --> 00:07:06,250
+<i>Ela não gosta de janelas
+Quando elas estão fechadas</i>
+
+101
+00:07:06,252 --> 00:07:12,513
+<i>Não, não gosto de janelas
+Quando elas estão fechadas</i>
+
+102
+00:07:18,795 --> 00:07:22,109
+Sem brilho. Clichê. Inaceitável.
+
+103
+00:07:22,111 --> 00:07:24,277
+- Sim, Maitre.
+- Então explique à empresa
+
+104
+00:07:24,278 --> 00:07:27,727
+por que a apresentação de número 500
+de 'Meu Bebê Ama Janelas'
+
+105
+00:07:27,729 --> 00:07:30,517
+pareceu mais um trabalho árduo
+do que uma celebração?
+
+106
+00:07:30,518 --> 00:07:32,478
+Maitre, eu acho que... eu acho que...
+
+107
+00:07:32,479 --> 00:07:34,707
+Fale claramente, por favor.
+
+108
+00:07:35,422 --> 00:07:38,607
+Sou uma vampiro feroz
+presa no corpo de uma menina.
+
+109
+00:07:38,609 --> 00:07:41,126
+Lembro-me disso todas as noites
+da minha existência
+
+110
+00:07:41,128 --> 00:07:44,490
+abotoando este vestido
+e cantando e sorrindo,
+
+111
+00:07:44,491 --> 00:07:46,540
+enquanto os mortais riem e apontam.
+
+112
+00:07:46,542 --> 00:07:51,016
+Revivo cada olhar condescendente
+ou comentário maldito que já sofri.
+
+113
+00:07:54,414 --> 00:07:57,644
+Eu perdi a minha paixão
+pelo trabalho no palco.
+
+114
+00:07:57,645 --> 00:08:00,892
+Acho que prefiro
+o trabalho nos bastidores.
+
+115
+00:08:01,801 --> 00:08:02,805
+Sam?
+
+116
+00:08:03,112 --> 00:08:04,198
+Sim, Maitre.
+
+117
+00:08:04,898 --> 00:08:06,806
+O que está na sua mão?
+
+118
+00:08:07,779 --> 00:08:10,290
+Saco de pipoca e um profilático.
+
+119
+00:08:10,292 --> 00:08:13,022
+E por que, como o autor
+de "Meu Bebê Ama Janelas",
+
+120
+00:08:13,024 --> 00:08:14,662
+você se humilharia assim?
+
+121
+00:08:14,664 --> 00:08:19,101
+É um privilégio trabalhar nesse teatro.
+Faço o que me pedem, e com gratidão.
+
+122
+00:08:19,103 --> 00:08:24,008
+E sua paixão nômade, Claudia,
+deve desculpas ao seu dramaturgo.
+
+123
+00:08:24,302 --> 00:08:26,238
+- Desculpe, Sam.
+- Tudo bem.
+
+124
+00:08:26,239 --> 00:08:28,904
+E para te ajudar a redescobrir
+a sua paixão pela Lulu,
+
+125
+00:08:28,905 --> 00:08:30,913
+você não vai mais tirar a fantasia.
+
+126
+00:08:30,915 --> 00:08:34,517
+Você vai dormir, ensaiar,
+alimentar-se e caçar com ela.
+
+127
+00:08:34,519 --> 00:08:39,729
+Você vai morar com a Lulu nos bastidores,
+até que ela retorne para você no palco.
+
+128
+00:08:40,009 --> 00:08:43,710
+E ainda assim, o público
+cantou junto com toda a voz.
+
+129
+00:08:48,381 --> 00:08:52,434
+As mãos vermelhas do gado batendo palmas
+não são a medida do Teatro dos Vampiros.
+
+130
+00:08:52,435 --> 00:08:57,319
+Se fossem, então o seu assalto e bajulação
+nos dariam espaço apenas por uma década.
+
+131
+00:08:57,320 --> 00:09:00,000
+Belo remate, Maitre,
+mas por que destacar a nossa irmã
+
+132
+00:09:00,002 --> 00:09:04,014
+quando a paixão nômade
+contaminou toda a empresa?
+
+133
+00:09:04,016 --> 00:09:05,029
+Contaminou?
+
+134
+00:09:05,031 --> 00:09:07,376
+O Maitre pode não ter notado,
+
+135
+00:09:07,377 --> 00:09:11,498
+pois tem frequentado de forma nômade
+ao Teatro dos Vampiros.
+
+136
+00:09:11,828 --> 00:09:14,854
+E a infecção se espalhou há quanto tempo,
+há um ano e meio?
+
+137
+00:09:14,855 --> 00:09:19,180
+Quando um certo vampiro recebeu dispensa
+de ser membro do clã.
+
+138
+00:09:19,181 --> 00:09:22,419
+- É Louis. Tenho um nome.
+- O Louis toma as devidas precauções.
+
+139
+00:09:22,421 --> 00:09:25,210
+Revela-se nos cafés,
+nos salões e nas galerias.
+
+140
+00:09:25,212 --> 00:09:26,696
+Eu me cuido, obrigado.
+
+141
+00:09:26,698 --> 00:09:30,060
+Os seus amigos humanos devem se perguntar
+por que só o veem à noite.
+
+142
+00:09:30,062 --> 00:09:32,059
+Ele lê livros no Blood Sabbath!
+
+143
+00:09:32,061 --> 00:09:33,796
+Eu te empresto quando eu terminar.
+
+144
+00:09:33,798 --> 00:09:35,155
+Isso não é sobre o Louis!
+
+145
+00:09:35,157 --> 00:09:38,499
+Disciplinar a Claudia
+por esbarrar no cenário,
+
+146
+00:09:38,501 --> 00:09:41,546
+mas deixar o Louis correr solto?
+
+147
+00:09:41,547 --> 00:09:43,562
+É uma demonstração
+de poder superficial.
+
+148
+00:09:43,562 --> 00:09:44,923
+O que pensa disso?
+
+149
+00:09:44,925 --> 00:09:46,399
+E você faz isso para quê?
+
+150
+00:09:47,501 --> 00:09:48,901
+Isso é sede?
+
+151
+00:09:49,803 --> 00:09:51,037
+Isso é amor?
+
+152
+00:09:51,384 --> 00:09:52,891
+O que é isso exatamente?
+
+153
+00:09:53,710 --> 00:09:55,194
+Vocês são companheiros?
+
+154
+00:09:55,195 --> 00:09:56,195
+- Somos.
+- Não.
+
+155
+00:09:58,878 --> 00:10:01,908
+{\an8}Ponha seus peitos de volta no lugar,
+sua vagabunda!
+
+156
+00:10:05,966 --> 00:10:08,307
+Se não somos companheiros, o que somos?
+
+157
+00:10:08,309 --> 00:10:09,841
+É como você quiser chamar.
+
+158
+00:10:09,842 --> 00:10:11,911
+Um caso? Um romance?
+
+159
+00:10:11,912 --> 00:10:15,267
+Funciona para mim.
+"Companheiro" também funciona.
+
+160
+00:10:15,268 --> 00:10:17,000
+Não é a palavra que eu usaria.
+
+161
+00:10:19,352 --> 00:10:21,521
+Então, não é como eu quiser chamar?
+
+162
+00:10:25,504 --> 00:10:27,081
+Qual era o nome da minha mãe?
+
+163
+00:10:27,395 --> 00:10:29,330
+- Grace.
+- Florence.
+
+164
+00:10:29,331 --> 00:10:30,720
+Grace era a minha irmã.
+
+165
+00:10:31,082 --> 00:10:34,233
+Bem, você não fala muito sobre a sua mãe.
+
+166
+00:10:34,235 --> 00:10:38,069
+Não, eu não falo. Então está tudo bem
+se você não se lembra do nome dela.
+
+167
+00:10:38,070 --> 00:10:40,980
+Mas foi assim que estabelecemos.
+E isso é ótimo.
+
+168
+00:10:40,981 --> 00:10:43,207
+Isso é ótimo. O que temos é ótimo.
+
+169
+00:10:44,609 --> 00:10:48,002
+- Só não sou o seu companheiro.
+- Deus, como você suporta isso?
+
+170
+00:10:48,695 --> 00:10:50,931
+Nós nos vemos quando queremos.
+
+171
+00:10:51,085 --> 00:10:53,925
+E quando queremos ficar sozinhos,
+ficamos sozinhos.
+
+172
+00:10:53,926 --> 00:10:56,022
+E isso é bom, é fácil.
+
+173
+00:10:57,887 --> 00:10:59,392
+Não é fácil para mim.
+
+174
+00:10:59,394 --> 00:11:02,264
+Você não entende o perigo que passo
+toda noite por ti.
+
+175
+00:11:02,265 --> 00:11:04,333
+Como esse perigo aumenta a cada desprezo.
+
+176
+00:11:04,334 --> 00:11:06,809
+- Que desprezo?
+- Raramente você caça com a gente.
+
+177
+00:11:06,810 --> 00:11:08,695
+Fica lendo durante as performances.
+
+178
+00:11:08,696 --> 00:11:10,568
+Já vi essas peças centenas de vezes!
+
+179
+00:11:10,569 --> 00:11:12,051
+Eu guardo o seu segredo.
+
+180
+00:11:13,006 --> 00:11:15,357
+O quê? Qual é o segredo?
+
+181
+00:11:16,205 --> 00:11:17,911
+Eu sou o segredo.
+
+182
+00:11:17,912 --> 00:11:23,312
+Percebe como a sala muda
+quando vocês falam sobre o segredo?
+
+183
+00:11:26,153 --> 00:11:27,389
+Progresso.
+
+184
+00:11:27,764 --> 00:11:30,933
+Parece que só funciona
+quando penso em coisas que me irritam.
+
+185
+00:11:31,205 --> 00:11:34,404
+Eu tento achar a vulnerabilidade
+dentro do objeto.
+
+186
+00:11:35,901 --> 00:11:37,996
+Então quer que eu venha mais vezes?
+
+187
+00:11:38,864 --> 00:11:39,999
+Isso iria ajudar.
+
+188
+00:11:40,000 --> 00:11:41,958
+Tudo bem, então eu venho mais vezes.
+
+189
+00:11:43,081 --> 00:11:45,397
+Tenho que voltar. Toque de recolher.
+
+190
+00:11:46,714 --> 00:11:47,914
+Eu te amo.
+
+191
+00:11:54,598 --> 00:11:55,717
+Também te amo.
+
+192
+00:12:01,498 --> 00:12:03,699
+Prometeu que não falaria!
+
+193
+00:12:03,700 --> 00:12:05,110
+"Eu te amo".
+
+194
+00:12:07,909 --> 00:12:11,278
+- Você é esquizofrênico, Louis?
+- Não.
+
+195
+00:12:11,279 --> 00:12:14,883
+Se considerava esquizofrênico na época?
+
+196
+00:12:14,884 --> 00:12:17,504
+Não tenho certeza se o termo se aplica
+a um vampiro.
+
+197
+00:12:17,804 --> 00:12:22,629
+Talvez quando o livro for publicado,
+psicólogos responderão a essa pergunta.
+
+198
+00:12:22,630 --> 00:12:25,002
+Até lá, você tem o Daniel Molloy.
+
+199
+00:12:26,901 --> 00:12:31,095
+Ele era o meu biógrafo,
+o meu terapeuta, o meu assassino.
+
+200
+00:12:32,678 --> 00:12:37,482
+Sem diagnósticos,
+você gostaria de saber como era?
+
+201
+00:12:38,291 --> 00:12:39,440
+Claro.
+
+202
+00:12:39,906 --> 00:12:43,602
+Eu podia sentir o ar se mexendo
+
+203
+00:12:43,970 --> 00:12:45,612
+com os movimentos dele.
+
+204
+00:12:46,394 --> 00:12:49,222
+A respiração dele na minha nuca.
+
+205
+00:12:50,372 --> 00:12:53,663
+Se eu tentasse tocar a mão dele,
+
+206
+00:12:54,607 --> 00:12:56,863
+eu não diria que era a mão dele.
+
+207
+00:12:58,516 --> 00:13:00,780
+Mas também não deixava de ser a mão dele.
+
+208
+00:13:01,909 --> 00:13:04,250
+E você não sentia o Lestat na sala?
+
+209
+00:13:04,251 --> 00:13:05,259
+Não.
+
+210
+00:13:05,650 --> 00:13:11,029
+E eu não percebia que ele estava presente
+como parecia estar.
+
+211
+00:13:11,677 --> 00:13:14,561
+Mas vendo agora, consigo entender.
+
+212
+00:13:16,809 --> 00:13:18,813
+A ligação vampírica.
+
+213
+00:13:19,693 --> 00:13:22,914
+Eu estava cortando uma e costurando outra.
+
+214
+00:13:23,313 --> 00:13:24,439
+Então,
+
+215
+00:13:25,294 --> 00:13:28,994
+vocês dois foram os únicos
+que sobreviveram ao incêndio do teatro?
+
+216
+00:13:35,503 --> 00:13:39,407
+Não providenciamos nenhuma informação
+sobre o incêndio em nossos arquivos.
+
+217
+00:13:45,191 --> 00:13:46,398
+<i>Isso é empreendedorismo.</i>
+
+218
+00:13:46,399 --> 00:13:48,424
+<i>É isso o que te faz fascinante?</i>
+
+219
+00:13:48,768 --> 00:13:53,238
+<i>No ensino médio, você falou à uma garota
+que só faria transaria com ela se ela...</i>
+
+220
+00:13:54,667 --> 00:13:56,147
+Desculpa.
+
+221
+00:13:56,702 --> 00:13:58,101
+O incêndio?
+
+222
+00:13:58,600 --> 00:14:03,250
+Uma das minhas pesquisadoras achou isso
+na Biblioteca Beinecke em New Haven.
+
+223
+00:14:03,252 --> 00:14:08,618
+Ela acha que estamos escrevendo um livro
+sobre a reconstrução de Paris.
+
+224
+00:14:12,797 --> 00:14:14,025
+A Claudia.
+
+225
+00:14:15,986 --> 00:14:20,790
+Em violação direta da terceira Grande Lei,
+ainda estava escrevendo.
+
+226
+00:14:31,804 --> 00:14:33,813
+O que está escrevendo, pequena Lu?
+
+227
+00:14:35,191 --> 00:14:36,721
+Por que está espreitando?
+
+228
+00:14:40,843 --> 00:14:42,305
+Honrando o sangue.
+
+229
+00:14:43,285 --> 00:14:45,032
+Pepa Matekja me comoveu.
+
+230
+00:14:45,033 --> 00:14:47,630
+Eu queria ouvir seu coração bater
+uma última vez.
+
+231
+00:14:47,631 --> 00:14:49,304
+Bem, aí vem.
+
+232
+00:14:57,893 --> 00:15:01,821
+Nenhum vampiro deve escrever
+a história dos vampiros.
+
+233
+00:15:01,822 --> 00:15:04,225
+Terceira lei. Não é a história.
+
+234
+00:15:04,511 --> 00:15:07,637
+São apenas pensamentos aleatórios.
+É um hábito.
+
+235
+00:15:08,189 --> 00:15:09,329
+Leia alguns para mim.
+
+236
+00:15:16,595 --> 00:15:19,018
+"Celeste e Estelle me odeiam.
+
+237
+00:15:19,019 --> 00:15:21,808
+Eu ouço seus insultos
+no meio das nossas cenas".
+
+238
+00:15:21,809 --> 00:15:23,989
+Sabe do que chamamos a Celeste
+pelas costas?
+
+239
+00:15:24,795 --> 00:15:30,342
+De Marie Celeste, porque o talento dela
+desapareceu sem deixar rastros anos atrás.
+
+240
+00:15:30,784 --> 00:15:33,985
+E a Estelle está tão próxima
+da bunda da Celeste
+
+241
+00:15:33,986 --> 00:15:36,429
+que nem precisa mais de um caixão
+para dormir.
+
+242
+00:15:36,430 --> 00:15:39,539
+Espero que tenha algo bom aí.
+
+243
+00:15:42,376 --> 00:15:44,147
+Algumas coisas sobre você.
+
+244
+00:15:45,128 --> 00:15:46,158
+Leia aí.
+
+245
+00:15:49,610 --> 00:15:54,498
+O Maitre tem um apego sepulcral às leis.
+
+246
+00:15:54,798 --> 00:16:00,550
+Agora você pode se sentir protegida
+pelo carinhoso apego dele ao seu Louis.
+
+247
+00:16:01,772 --> 00:16:03,203
+Mas carinho...
+
+248
+00:16:04,804 --> 00:16:06,599
+pode se inflamar.
+
+249
+00:16:07,691 --> 00:16:09,268
+Fiz um juramento.
+Não preciso...
+
+250
+00:16:09,269 --> 00:16:14,214
+O Francis Naughton foi transformado
+sem a permissão do vampiro Armand
+
+251
+00:16:14,601 --> 00:16:18,278
+em uma distraída violação da primeira lei.
+
+252
+00:16:18,279 --> 00:16:21,317
+E jaz aqui seu papai vampiro.
+
+253
+00:16:31,557 --> 00:16:33,826
+Por favor, não seja tão melodramática.
+
+254
+00:16:33,827 --> 00:16:39,426
+Dobrei a quarta lei com pelo menos metade
+das garotas que trabalham no Le Chanabais,
+
+255
+00:16:39,427 --> 00:16:41,203
+mas eu sou rigoroso.
+
+256
+00:16:41,810 --> 00:16:46,248
+Se eu fosse a Celeste ou a Estelle
+se escondendo nas sombras...
+
+257
+00:16:55,616 --> 00:16:58,284
+E obrigado pelas boas palavras
+que escreveu sobre mim.
+
+258
+00:16:58,285 --> 00:16:59,784
+Como sabe o que eu escrevi?
+
+259
+00:17:00,405 --> 00:17:02,793
+Eu acabei de ler bem na sua frente.
+
+260
+00:17:07,596 --> 00:17:08,891
+<i>Non, merci.</i>
+
+261
+00:17:10,791 --> 00:17:12,681
+Pequena Lu!
+
+262
+00:17:39,439 --> 00:17:41,194
+Você me vendeu um vestido.
+
+263
+00:17:42,102 --> 00:17:44,298
+{\an8}Na sua vitrine. É seda de lavanda?
+
+264
+00:17:44,300 --> 00:17:45,330
+{\an8}Muito chique.
+
+265
+00:17:46,007 --> 00:17:47,524
+{\an8}Pagou caro demais.
+
+266
+00:17:48,207 --> 00:17:51,540
+{\an8}Com notas amassadas
+e uns brincos sujos de sangue.
+
+267
+00:17:51,541 --> 00:17:53,193
+{\an8}Como se tivessem sido arrancados.
+
+268
+00:17:53,194 --> 00:17:55,007
+{\an8}Não me lembro de você ter reclamado.
+
+269
+00:17:55,854 --> 00:17:59,551
+{\an8}Seu corpo estava prestes a se desenvolver
+e a sua mente era sofisticada.
+
+270
+00:17:59,552 --> 00:18:00,846
+{\an8}Você não sorriu.
+
+271
+00:18:00,847 --> 00:18:04,234
+Engraçado, você não me deixou
+nenhuma impressão.
+
+272
+00:18:08,096 --> 00:18:09,188
+Eu gostei de você.
+
+273
+00:18:09,189 --> 00:18:11,280
+Parou de bater carteiras?
+
+274
+00:18:11,873 --> 00:18:15,093
+- Virou uma palhaça?
+- Virei uma atriz.
+
+275
+00:18:15,094 --> 00:18:16,365
+Certo.
+
+276
+00:18:16,366 --> 00:18:17,595
+Teatro dos Vampiros?
+
+277
+00:18:18,914 --> 00:18:20,900
+Eu já vi essa peça.
+
+278
+00:18:21,224 --> 00:18:22,567
+Um divertimento.
+
+279
+00:18:23,687 --> 00:18:26,705
+Ainda decorando suas vitrines
+para turistas alemães?
+
+280
+00:18:28,598 --> 00:18:32,193
+O seu francês ainda é horrível,
+como a sua roupa de boneca.
+
+281
+00:18:32,195 --> 00:18:35,901
+Concordo. Mas eu não diria isso,
+pois é rude e óbvio.
+
+282
+00:18:46,784 --> 00:18:47,784
+<i>Merci</i>.
+
+283
+00:18:56,688 --> 00:19:01,439
+Tem um casal, os Perriers,
+que tem um salão chamado R-26.
+
+284
+00:19:01,441 --> 00:19:05,689
+Artistas, alguns mostrando o trabalho,
+alguns só querem estar lá.
+
+285
+00:19:05,691 --> 00:19:08,760
+- Pintores, poetas...
+- Fotógrafos?
+
+286
+00:19:09,703 --> 00:19:15,016
+Isso, eu mostrei um pouco do meu trabalho,
+recebi um pouco de carinho.
+
+287
+00:19:15,898 --> 00:19:19,290
+Não sei o que ele vê nele.
+Ele não é tão atraente.
+
+288
+00:19:19,292 --> 00:19:23,963
+E tem uma cachoeira de pretensão
+jorrando de sua cavidade bucal.
+
+289
+00:19:23,965 --> 00:19:27,090
+Leia minha mente, agarre as minhas partes.
+
+290
+00:19:27,092 --> 00:19:28,419
+Já estou fazendo isso.
+
+291
+00:19:28,876 --> 00:19:33,167
+- O Sam demorou com a mangueira de sangue.
+- Estou fazendo uma peça nova.
+
+292
+00:19:33,169 --> 00:19:35,140
+- Não se repetirá.
+- Foram quatro vezes!
+
+293
+00:19:35,142 --> 00:19:36,615
+Não vai se repetir, Maitre.
+
+294
+00:19:37,214 --> 00:19:38,221
+Eglee?
+
+295
+00:19:38,509 --> 00:19:42,664
+Catatônica desde que Santiago começou
+a ficar com Celeste de novo.
+
+296
+00:19:42,666 --> 00:19:45,889
+- E Gustave? <i>Les Toilettes</i>?
+- De volta ao covil.
+
+297
+00:19:45,891 --> 00:19:50,521
+Ressaca da noite passada, quando deixou
+o grupo e se embebedou no Bairro Latino.
+
+298
+00:19:50,523 --> 00:19:54,816
+Correu pelas ruas gritando
+"Eu sou um vampiro! Eu sou um vampiro!"
+
+299
+00:19:54,818 --> 00:19:56,895
+Estamos saindo dos trilhos, Maitre.
+
+300
+00:19:56,897 --> 00:20:00,715
+Paris não está apenas parindo mais gênios.
+
+301
+00:20:00,717 --> 00:20:03,709
+- Ela está parindo...
+- A própria modernidade.
+
+302
+00:20:03,711 --> 00:20:09,974
+Isso! Escultores e autores,
+e fotógrafos e saxofonistas.
+
+303
+00:20:09,976 --> 00:20:14,614
+Misturando-se, inovando, comprimindo
+duas formas de arte em uma,
+
+304
+00:20:14,615 --> 00:20:16,177
+inventando novas.
+
+305
+00:20:16,179 --> 00:20:21,602
+Enquanto todos estão bajulado Picasso,
+lá fora, na Margem Oriental,
+
+306
+00:20:21,604 --> 00:20:24,987
+em quartos de hotel baratos
+e apartamentos com água fria,
+
+307
+00:20:24,989 --> 00:20:28,559
+uma nova geração está destruindo
+os antigos modos,
+
+308
+00:20:28,561 --> 00:20:30,497
+emergindo novos modos.
+
+309
+00:20:33,110 --> 00:20:34,897
+Acho que posso parecer arrogante.
+
+310
+00:20:34,899 --> 00:20:39,484
+Todos bajulam o Picasso,
+mas eu não, não o Louis du Lac.
+
+311
+00:20:39,486 --> 00:20:44,916
+Estou lá nas ruas,
+nas barricadas com a vanguarda.
+
+312
+00:20:47,512 --> 00:20:50,456
+- Que engraçado.
+- Agora que me esgueirei na sua voz,
+
+313
+00:20:50,458 --> 00:20:53,638
+vesti-a como um figurino,
+você não parece ser de Chicago.
+
+314
+00:20:53,640 --> 00:20:54,808
+Arredores de Chicago.
+
+315
+00:20:54,810 --> 00:20:58,520
+- Moramos em vários lugares.
+- É a ênfase na segunda sílaba,
+
+316
+00:20:59,079 --> 00:21:00,459
+herdada do Francês.
+
+317
+00:21:00,460 --> 00:21:02,623
+Então o seu talento é a imitação.
+
+318
+00:21:02,625 --> 00:21:05,211
+- Como um papagaio?
+- Como um cavaleiro bagaceiro.
+
+319
+00:21:05,213 --> 00:21:08,609
+- Ou um macaco de realejo?
+- Sotaque Cajun. Façamos um teste. Diga:
+
+320
+00:21:08,611 --> 00:21:10,415
+- Nova Orleans!
+- Ou um bufão!
+
+321
+00:21:12,256 --> 00:21:17,209
+Quer dizer mais alguma coisa, bufão?
+Não podia te ouvir do outro lado da mesa.
+
+322
+00:21:17,211 --> 00:21:19,332
+- Mas sou todo ouvidos...
+- Chega!
+
+323
+00:21:19,334 --> 00:21:21,225
+Sem pressa. Vamos lá.
+
+324
+00:21:21,483 --> 00:21:23,760
+O quê? Desembucha!
+
+325
+00:21:24,315 --> 00:21:26,366
+- Eu disse "chega"!
+- Bom garoto.
+
+326
+00:21:26,368 --> 00:21:29,513
+Se vocês querem agir como novatos,
+façam isso nas sombras.
+
+327
+00:21:35,460 --> 00:21:36,460
+Tudo bem?
+
+328
+00:21:39,899 --> 00:21:41,008
+<i>Louis,</i>
+
+329
+00:21:41,771 --> 00:21:43,015
+<i>volte!</i>
+
+330
+00:21:46,307 --> 00:21:49,908
+Então, vem expondo o seu trabalho
+no salão dos Perriers?
+
+331
+00:21:50,254 --> 00:21:54,437
+- Lá, tem sempre coisas interessantes.
+- Talvez tivesse mais antes da guerra.
+
+332
+00:21:54,439 --> 00:21:57,361
+- Mas eu quase não saía da minha galeria.
+- Ela é ótima.
+
+333
+00:21:58,697 --> 00:22:02,405
+Talvez se lembre, você me vendeu
+um Fougeron no início do ano.
+
+334
+00:22:02,998 --> 00:22:06,424
+Eu estava querendo comprá-lo tanto,
+que ofereci o meu relógio.
+
+335
+00:22:06,426 --> 00:22:08,612
+Isso mesmo. É um bom relógio.
+
+336
+00:22:09,592 --> 00:22:10,912
+Onde pendurou o Fougeron?
+
+337
+00:22:10,914 --> 00:22:12,575
+Na primavera, sobre a minha cama.
+
+338
+00:22:13,093 --> 00:22:16,410
+Então, no verão,
+o vendi para Germain Seligmann.
+
+339
+00:22:16,412 --> 00:22:20,513
+Vi que ele estava expandindo para além
+das artes decorativas, para pinturas.
+
+340
+00:22:20,797 --> 00:22:21,805
+Recebi um bom valor.
+
+341
+00:22:21,807 --> 00:22:24,528
+Então você é negociante ou artista,
+Sr. Du Lac?
+
+342
+00:22:24,530 --> 00:22:26,581
+Acho que posso ser as duas coisas.
+
+343
+00:22:27,934 --> 00:22:30,931
+Você usa uma Rolleiflex e sempre à noite?
+
+344
+00:22:31,405 --> 00:22:34,566
+Que difícil. Às vezes, uma Leica.
+Como nessa aqui?
+
+345
+00:22:34,568 --> 00:22:36,921
+Não era para essa estar aí. Foi um erro.
+
+346
+00:22:36,923 --> 00:22:40,691
+Apenas aqui sua câmera não está firme,
+há um quê de frágil nesse homem.
+
+347
+00:22:40,693 --> 00:22:43,360
+Se o conhecesse,
+saberia que ele é tudo, menos frágil.
+
+348
+00:22:43,362 --> 00:22:46,512
+Acertou errando, então?
+Capturou a alma que ele esconde.
+
+349
+00:22:47,583 --> 00:22:48,583
+Então,
+
+350
+00:22:50,803 --> 00:22:51,803
+diga-me:
+
+351
+00:22:53,220 --> 00:22:54,398
+o que você vê?
+
+352
+00:23:00,979 --> 00:23:02,376
+A soleira da porta.
+
+353
+00:23:03,277 --> 00:23:05,017
+A luz na rua.
+
+354
+00:23:06,066 --> 00:23:07,868
+A porta do outro lado da rua.
+
+355
+00:23:08,558 --> 00:23:11,227
+Os olhares vindos da varanda
+do outro lado da rua.
+
+356
+00:23:11,506 --> 00:23:12,897
+Os olhares são um aviso?
+
+357
+00:23:12,899 --> 00:23:15,865
+"É o que acontece quando se brinca
+na rua", a mãe pensa.
+
+358
+00:23:15,867 --> 00:23:18,923
+Ou será a amiga do menino,
+que brincava com ele?
+
+359
+00:23:19,799 --> 00:23:21,012
+E não pode mais.
+
+360
+00:23:21,691 --> 00:23:24,371
+E qual é o olhar do menino
+que não pode mais brincar?
+
+361
+00:23:24,704 --> 00:23:26,589
+Só podemos imaginar.
+
+362
+00:23:27,644 --> 00:23:28,847
+Baita foto.
+
+363
+00:23:29,527 --> 00:23:30,550
+Quem tirou?
+
+364
+00:23:30,552 --> 00:23:33,613
+Um jovem americano, como você.
+Ele tem um olho bom.
+
+365
+00:23:35,417 --> 00:23:36,638
+Você quer dizer
+
+366
+00:23:37,505 --> 00:23:39,063
+que eu não tenho um olho bom?
+
+367
+00:23:39,064 --> 00:23:40,064
+Não, não.
+
+368
+00:23:40,494 --> 00:23:44,154
+Acho que você tem um olho bom.
+Como eu tenho um olho bom.
+
+369
+00:23:44,156 --> 00:23:47,133
+Só de olhar, já sabemos.
+Você enxerga isso nas suas?
+
+370
+00:23:52,114 --> 00:23:54,007
+Restam apenas quatro cópias.
+
+371
+00:23:55,723 --> 00:23:58,666
+Compre uma delas. Invista.
+Venda para Seligmann
+
+372
+00:23:58,668 --> 00:24:02,160
+quando ele se interessar por fotografia.
+Vai receber um bom valor.
+
+373
+00:24:04,512 --> 00:24:05,796
+Vai se foder!
+
+374
+00:24:08,247 --> 00:24:10,784
+É, primeiro trabalho.
+
+375
+00:24:10,786 --> 00:24:12,242
+Não leio nada do que escrevi
+
+376
+00:24:12,244 --> 00:24:14,982
+antes do cabelo do Michael Jackson
+pegar fogo.
+
+377
+00:24:14,984 --> 00:24:18,792
+Mas algumas dessas fotos
+não são tão ruins, Louis.
+
+378
+00:24:19,674 --> 00:24:22,094
+Elas documentam, nada mais.
+
+379
+00:24:22,617 --> 00:24:26,507
+Quer dizer, esta foto
+com a fonte e o casal,
+
+380
+00:24:26,508 --> 00:24:29,621
+e a água está brilhando.
+
+381
+00:24:29,623 --> 00:24:32,998
+Já vi isso em algum lugar,
+em um livro ou algo assim, certo?
+
+382
+00:24:33,678 --> 00:24:37,124
+Há uma boa razão
+para você escolher essa foto, Daniel.
+
+383
+00:24:37,697 --> 00:24:40,227
+Não é minha. É do Fred Stein.
+
+384
+00:24:52,959 --> 00:24:54,748
+Elsa Triolet.
+
+385
+00:24:57,929 --> 00:25:01,119
+Model, meados dos anos 1930.
+Eu ainda estava em Nova Orleans.
+
+386
+00:25:04,578 --> 00:25:07,416
+- O que é isto?
+- Querido, isso é do Stein.
+
+387
+00:25:07,418 --> 00:25:11,017
+Eu sei. Por que essas fotos estão aqui?
+Por que tudo isso está lá?
+
+388
+00:25:11,018 --> 00:25:13,836
+- Não me pergunte. Olhamos...
+- Não coloquei isso aqui.
+
+389
+00:25:15,181 --> 00:25:17,180
+Provavelmente, o Rashid se confundiu.
+
+390
+00:25:17,182 --> 00:25:19,868
+No ensino médio, disse a uma garota
+que só transariam
+
+391
+00:25:19,870 --> 00:25:22,266
+se ela colocasse um saco na cabeça.
+
+392
+00:25:22,268 --> 00:25:23,781
+Ela concordou e você transou.
+
+393
+00:25:23,782 --> 00:25:25,067
+Isso é constrangedor.
+
+394
+00:25:25,068 --> 00:25:27,900
+Não quero que pense
+que tentei vendê-las como minhas.
+
+395
+00:25:29,008 --> 00:25:30,009
+Certo.
+
+396
+00:25:33,191 --> 00:25:34,863
+Eu era um fotógrafo adequado.
+
+397
+00:25:35,391 --> 00:25:36,497
+Um amador.
+
+398
+00:25:37,400 --> 00:25:40,510
+- Quero que nossos leitores saibam disso.
+- Claro,
+
+399
+00:25:42,887 --> 00:25:45,475
+Posso tomar umas aspirinas?
+
+400
+00:25:45,477 --> 00:25:47,317
+Estou com enxaqueca hoje.
+
+401
+00:26:18,400 --> 00:26:19,400
+<i>Merci.</i>
+
+402
+00:26:21,414 --> 00:26:22,414
+<i>Merci.</i>
+
+403
+00:26:26,770 --> 00:26:27,770
+<i>Merci.</i>
+
+404
+00:26:35,014 --> 00:26:37,027
+Eu sei, o meu francês é terrível.
+
+405
+00:26:38,207 --> 00:26:39,933
+É melhor do que as peças.
+
+406
+00:26:41,958 --> 00:26:46,711
+Quando você saiu pela janela e rachou
+a sua perna, sim, isso foi bom.
+
+407
+00:26:47,570 --> 00:26:50,201
+- Aí a música voltou de novo.
+<i>- Oui.</i>
+
+408
+00:26:50,203 --> 00:26:52,000
+Deveriam matar quem escreveu isso.
+
+409
+00:26:53,512 --> 00:26:55,910
+Claudia. Você é necessária no chuveiro!
+
+410
+00:26:55,917 --> 00:26:57,505
+Estarei lá em um minuto.
+
+411
+00:26:57,507 --> 00:26:59,027
+<i>Merci</i>, Lulu.
+
+412
+00:27:00,760 --> 00:27:02,346
+Para o que quer que tenha sido.
+
+413
+00:27:08,895 --> 00:27:10,208
+Quer uma carona para casa?
+
+414
+00:27:14,585 --> 00:27:16,345
+Só tenho feito isso há alguns anos.
+
+415
+00:27:16,347 --> 00:27:17,711
+Opinião de um homem.
+
+416
+00:27:17,713 --> 00:27:19,909
+Fotografo à noite
+quando não controlo a luz.
+
+417
+00:27:19,911 --> 00:27:22,742
+Vou ficar sob um poste
+e esperar o mundo passar?
+
+418
+00:27:22,743 --> 00:27:24,073
+- Sou um vampiro
+- Isso!
+
+419
+00:27:24,074 --> 00:27:25,828
+- Estou rondando.
+- Um caçador.
+
+420
+00:27:25,833 --> 00:27:29,111
+Sabe quantas fotos ótimas eu tirei
+
+421
+00:27:29,112 --> 00:27:32,203
+antes de descobrir que a luz
+era pouca quando revelo?
+
+422
+00:27:32,204 --> 00:27:35,295
+- Diga-me, <i>mon cher</i>.
+- Um maldito lote. Olhe isso.
+
+423
+00:27:36,875 --> 00:27:39,959
+E esse maldito Gordon Parks
+que ele colocou na minha frente?
+
+424
+00:27:39,961 --> 00:27:43,231
+Passa três ou quatro dias com amigos
+antes de pegar uma câmera.
+
+425
+00:27:43,233 --> 00:27:45,241
+Amigos deles e merda. Não posso fazê-lo.
+
+426
+00:27:45,243 --> 00:27:47,237
+- Vou acabar comendo-os.
+- Como ele.
+
+427
+00:27:47,239 --> 00:27:49,616
+E ele. E ela.
+
+428
+00:27:52,572 --> 00:27:55,409
+Diga-me uma coisa errada sobre esta foto.
+
+429
+00:27:56,078 --> 00:27:57,920
+Bem, por um lado, eu não estou nela.
+
+430
+00:27:59,082 --> 00:28:00,204
+Por favor!
+
+431
+00:28:05,611 --> 00:28:07,793
+Suas lentes não estão totalmente limpas.
+
+432
+00:28:07,795 --> 00:28:10,106
+E você vê aqui no canto?
+
+433
+00:28:12,622 --> 00:28:15,326
+E você só tinha oito quadros de filme
+nessa noite.
+
+434
+00:28:15,689 --> 00:28:19,022
+Um conjunto de nuvens se moveu
+minutos após a sua última foto.
+
+435
+00:28:19,024 --> 00:28:23,749
+Se lhe falta singularidade,
+não há nada errado com o quadro,
+
+436
+00:28:23,750 --> 00:28:28,059
+mas talvez, daqui para frente,
+
+437
+00:28:28,060 --> 00:28:30,493
+quando a lua
+é a sua fonte de luz favorita,
+
+438
+00:28:31,992 --> 00:28:33,619
+um pouco de paciência?
+
+439
+00:28:35,580 --> 00:28:37,914
+<i>Que luz é essa que rompe a janela?</i>
+
+440
+00:28:38,364 --> 00:28:40,286
+<i>Está lá, não?</i>
+
+441
+00:28:40,288 --> 00:28:43,487
+<i>- Noroeste e Louis é...</i>
+-Romeu!
+
+442
+00:28:43,489 --> 00:28:45,124
+<i>- O Sol?</i>
+- Apenas Balthasar.
+
+443
+00:28:45,126 --> 00:28:46,402
+<i>A lua?</i>
+
+444
+00:28:50,012 --> 00:28:53,492
+Quer fazer um dos nossos passeios?
+
+445
+00:28:55,969 --> 00:28:58,502
+Então você passa dia e noite
+usando o vestido?
+
+446
+00:28:58,504 --> 00:29:01,372
+- Isso é algum processo de atuação?
+- É um castigo.
+
+447
+00:29:01,374 --> 00:29:04,527
+Por não gostar de bater os braços
+em sua peça estúpida?
+
+448
+00:29:06,301 --> 00:29:07,801
+Você é refém deles?
+
+449
+00:29:08,979 --> 00:29:10,707
+Mais como se fossem minha família?
+
+450
+00:29:11,693 --> 00:29:15,913
+T.B. matou a minha família.
+Todos eles, mortos.
+
+451
+00:29:16,894 --> 00:29:21,418
+A cidade estava triste por mim,
+"pobre órfã!"
+
+452
+00:29:21,711 --> 00:29:24,410
+Mas não muito triste,
+porque tínhamos dinheiro
+
+453
+00:29:25,896 --> 00:29:27,908
+e eles não conheciam a minha família.
+
+454
+00:29:28,702 --> 00:29:30,335
+Vamos falar sobre isso?
+
+455
+00:29:33,778 --> 00:29:35,305
+Hum, um tenente.
+
+456
+00:29:35,606 --> 00:29:37,204
+De Dusseldorf.
+
+457
+00:29:37,206 --> 00:29:38,619
+Ele tinha 19 anos.
+
+458
+00:29:39,462 --> 00:29:42,018
+Disse: "Quero saber
+o que é o amor antes de morrer".
+
+459
+00:29:42,020 --> 00:29:43,421
+Soa como uma frase ensaiada.
+
+460
+00:29:44,381 --> 00:29:48,014
+Também achava, mas depois
+ele tremeu tanto quando tirei minha blusa.
+
+461
+00:29:49,679 --> 00:29:54,701
+Ele me deu comida e cigarros,
+mas era o conforto.
+
+462
+00:29:55,001 --> 00:29:56,401
+Ele estava vivo.
+
+463
+00:29:56,687 --> 00:29:59,709
+Sei que parece piada,
+mas quando há morte por todos os lados.
+
+464
+00:29:59,711 --> 00:30:01,010
+Vi a guerra também.
+
+465
+00:30:02,487 --> 00:30:05,089
+E o sexo. Ele era tão menino.
+
+466
+00:30:05,091 --> 00:30:07,888
+Para cima e para baixo,
+e para cima e para baixo.
+
+467
+00:30:07,890 --> 00:30:09,714
+E ele estava com os olhos fechados.
+
+468
+00:30:09,716 --> 00:30:13,216
+Perguntei: "Está fazendo amor comigo,
+e acha errado olhar para mim?"
+
+469
+00:30:18,809 --> 00:30:22,648
+Eu não estava convidando o Hitler
+para ficar na França.
+
+470
+00:30:22,650 --> 00:30:25,781
+Eu estava convidando
+um garoto assustado
+
+471
+00:30:25,782 --> 00:30:27,114
+para pegar nos meus seios.
+
+472
+00:30:31,503 --> 00:30:33,196
+E agora, eu sou uma traidora.
+
+473
+00:30:34,306 --> 00:30:35,416
+Uma vagabunda.
+
+474
+00:30:38,183 --> 00:30:39,910
+<i>Descansar.</i>
+
+475
+00:30:42,353 --> 00:30:43,416
+Obrigado.
+
+476
+00:30:49,409 --> 00:30:51,809
+Esse é o meu passeio favorito em Paris.
+
+477
+00:30:52,170 --> 00:30:55,217
+Avenidas de tempo e espaço emoldurados.
+
+478
+00:30:55,219 --> 00:30:58,098
+Os mortos retratados nas telas
+ainda vivem, ainda lutam.
+
+479
+00:30:58,409 --> 00:31:00,692
+Quando você é o terno
+mais velho da cidade,
+
+480
+00:31:00,693 --> 00:31:03,702
+é um conforto
+estar entre os seus contemporâneos.
+
+481
+00:31:04,501 --> 00:31:06,012
+Parece familiar.
+
+482
+00:31:06,292 --> 00:31:08,978
+Cansado de batalhas e caçadas gloriosas.
+
+483
+00:31:08,980 --> 00:31:12,104
+Há uma rua de frutas e flores
+a duas portas de distância.
+
+484
+00:31:13,505 --> 00:31:14,516
+Descansar.
+
+485
+00:31:18,210 --> 00:31:20,708
+Não é a arte, o pedido de desculpas.
+
+486
+00:31:20,710 --> 00:31:24,174
+Flexibilize seu poder em uma noite
+e siga com humildade na próxima.
+
+487
+00:31:24,176 --> 00:31:26,016
+Lioncourt vintage.
+
+488
+00:31:27,519 --> 00:31:30,409
+Não gosto de usar os meus poderes
+dessa forma, Louis.
+
+489
+00:31:31,272 --> 00:31:32,883
+Parecia que você gostava.
+
+490
+00:31:32,885 --> 00:31:35,389
+Isso foi pela disciplina do clã,
+pela situação.
+
+491
+00:31:35,391 --> 00:31:38,068
+E se me permite comentar,
+você ficou bastante ferido
+
+492
+00:31:38,069 --> 00:31:39,821
+depois da sondagem do Santiago.
+
+493
+00:31:50,196 --> 00:31:51,426
+Lembra-se de mim?
+
+494
+00:31:56,274 --> 00:31:59,653
+Eu lidei com pessoas como o Santiago
+nas minhas duas vidas.
+
+495
+00:31:59,655 --> 00:32:03,055
+Não preciso que você se intrometa
+como um papai vampiro.
+
+496
+00:32:03,057 --> 00:32:05,194
+Fiz mal, mas fiz isso para nossa proteção.
+
+497
+00:32:05,196 --> 00:32:07,126
+E a Claudia não é uma marionete.
+
+498
+00:32:07,128 --> 00:32:09,493
+Eu a tratei como a um membro do meu clã.
+
+499
+00:32:09,495 --> 00:32:13,305
+Também não gosto que você a exiba
+com aquele vestido de boneca.
+
+500
+00:32:13,899 --> 00:32:17,407
+E se assim posso dizer,
+tudo isso faz você parecer fraco.
+
+501
+00:32:17,989 --> 00:32:20,001
+Não sou o Lestat, Louis.
+
+502
+00:32:20,559 --> 00:32:21,721
+Entendi.
+
+503
+00:32:23,794 --> 00:32:24,905
+Quem é você?
+
+504
+00:32:54,473 --> 00:32:57,002
+"A Adoração dos Pastores com um doador".
+
+505
+00:32:58,503 --> 00:32:59,884
+Palma Vecchio.
+
+506
+00:33:01,071 --> 00:33:04,403
+Um contemporâneo do meu criador,
+Marius De Romanus,
+
+507
+00:33:05,304 --> 00:33:08,497
+também um excelente pintor,
+embora seja de menor habilidade.
+
+508
+00:33:08,499 --> 00:33:11,943
+Na verdade, o doador no título
+foi o meu criador.
+
+509
+00:33:12,521 --> 00:33:14,758
+A tela foi pintada
+no estúdio do meu criador.
+
+510
+00:33:14,760 --> 00:33:18,200
+E nesse caso, a doação foi...
+
+511
+00:33:19,297 --> 00:33:21,224
+Qual é a palavra moderna para isso?
+
+512
+00:33:22,225 --> 00:33:23,403
+Na mesma moeda.
+
+513
+00:33:27,606 --> 00:33:29,123
+Este é o Amadeo.
+
+514
+00:33:30,289 --> 00:33:32,103
+Ele está aqui há 20 anos.
+
+515
+00:33:34,613 --> 00:33:38,587
+Ele foi resgatado de um bordel
+quando tinha 15 anos, e ele se chamava...
+
+516
+00:33:40,098 --> 00:33:42,606
+ele se chamava Arun na época, eu acho.
+
+517
+00:33:44,090 --> 00:33:45,816
+Não tenho certeza.
+
+518
+00:33:47,392 --> 00:33:49,095
+O abuso no bordel foi tamanho
+
+519
+00:33:49,096 --> 00:33:52,894
+que ele não tinha certeza se era o nome
+com que seus pais o nomearam.
+
+520
+00:33:55,767 --> 00:33:56,767
+Arun.
+
+521
+00:33:58,991 --> 00:34:03,656
+Os pais que mandaram ele para trabalhar
+em um barco mercante em Delhi,
+
+522
+00:34:03,657 --> 00:34:08,097
+quando na verdade eles o tinham vendido
+como escravo,
+
+523
+00:34:08,997 --> 00:34:10,610
+para o capitão do navio.
+
+524
+00:34:12,670 --> 00:34:13,697
+Tudo isso
+
+525
+00:34:14,871 --> 00:34:16,210
+são fragmentos.
+
+526
+00:34:17,022 --> 00:34:18,502
+Algemado no barco.
+
+527
+00:34:19,158 --> 00:34:20,389
+O bordel.
+
+528
+00:34:21,385 --> 00:34:23,321
+A compra do meu criador.
+
+529
+00:34:25,464 --> 00:34:27,233
+O novo nome que ele me deu.
+
+530
+00:34:28,900 --> 00:34:31,570
+Sua relutância em compartilhar
+o Dom Sombrio,
+
+531
+00:34:33,740 --> 00:34:36,728
+Sabendo o que isso faria
+com o seu amado Amadeo.
+
+532
+00:34:40,729 --> 00:34:42,809
+Eu o servi com todo o meu coração.
+
+533
+00:34:45,789 --> 00:34:47,602
+Banhei-me em sua misericórdia,
+
+534
+00:34:49,231 --> 00:34:51,121
+sua misericórdia venerável.
+
+535
+00:34:54,584 --> 00:34:55,652
+Mesmo assim,
+
+536
+00:34:57,313 --> 00:34:58,894
+o Amadeo tinha uma habilidade.
+
+537
+00:35:01,175 --> 00:35:03,477
+E se um amigo aparecesse na cidade,
+
+538
+00:35:04,183 --> 00:35:05,930
+eu era ocasionalmente...
+
+539
+00:35:07,812 --> 00:35:09,009
+doado.
+
+540
+00:35:14,091 --> 00:35:16,625
+Era mais musculoso nos antebraços,
+
+541
+00:35:18,950 --> 00:35:20,392
+mas isso foi pintado
+
+542
+00:35:21,587 --> 00:35:24,917
+sete anos
+antes de eu ser acometido pela doença,
+
+543
+00:35:26,076 --> 00:35:28,019
+antes de eu ser transformado,
+
+544
+00:35:29,294 --> 00:35:31,229
+e imbuído dos meus poderes.
+
+545
+00:35:34,383 --> 00:35:35,603
+E o Armand?
+
+546
+00:35:41,012 --> 00:35:43,977
+Foi o nome que o clã em Roma me deu.
+
+547
+00:35:45,978 --> 00:35:48,420
+Depois que eles incendiaram o estúdio.
+
+548
+00:35:50,195 --> 00:35:52,122
+Incendiaram o meu criador.
+
+549
+00:35:54,418 --> 00:35:56,121
+E me mandaram para Paris,
+
+550
+00:35:57,219 --> 00:36:00,808
+para reinar sobre o clã
+abandonado por Magnus.
+
+551
+00:36:02,407 --> 00:36:05,536
+Magnus, que gerou o Lestat.
+
+552
+00:36:06,090 --> 00:36:08,015
+Lestat, que gerou o Louis.
+
+553
+00:36:09,407 --> 00:36:11,112
+E por assim vai.
+
+554
+00:36:11,898 --> 00:36:13,818
+E por assim vai.
+
+555
+00:36:17,088 --> 00:36:19,708
+Quem sou eu, Louis?
+
+556
+00:36:23,606 --> 00:36:25,822
+Sou a minha história que tenho suportado?
+
+557
+00:36:29,288 --> 00:36:32,412
+Sou o emprego que não quero?
+
+558
+00:36:33,591 --> 00:36:35,418
+Não sei mais.
+
+559
+00:36:37,410 --> 00:36:40,112
+Ninguém me pintou há mais de 400 anos.
+
+560
+00:36:42,278 --> 00:36:45,011
+<i>Desculpe incomodá-lo, Maitre.</i>
+
+561
+00:36:46,785 --> 00:36:48,714
+<i>O que foi, Romaine?</i>
+
+562
+00:36:49,400 --> 00:36:53,075
+- Estou bem. Estou com cara de francesa.
+- Não, não está certo na frente
+
+563
+00:36:53,077 --> 00:36:55,237
+- Porque o seu peito...
+- E não tenho muito.
+
+564
+00:36:55,239 --> 00:36:57,482
+É, não tem mais do que tinha há dois anos.
+
+565
+00:36:57,483 --> 00:37:00,085
+- Mesmo formato, mesma altura.
+- A guerra.
+
+566
+00:37:00,086 --> 00:37:02,526
+Enrugou algumas pessoas,
+atrapalhou outras.
+
+567
+00:37:02,914 --> 00:37:05,724
+Claudia, você tem olhos parecidos
+com minhas janelas.
+
+568
+00:37:06,892 --> 00:37:09,118
+Passei por algumas coisas,
+como todo mundo.
+
+569
+00:37:09,701 --> 00:37:12,827
+A minha mãe morreu. O meu pai fugiu.
+A minha tia não me queria.
+
+570
+00:37:13,124 --> 00:37:16,800
+Um incêndio. Adotada.
+Um deles era um problema.
+
+571
+00:37:16,802 --> 00:37:17,827
+Fugi.
+
+572
+00:37:18,113 --> 00:37:20,313
+Uma coisa sombria após a outra.
+
+573
+00:37:23,959 --> 00:37:27,519
+Talvez eu busque. Talvez eu persiga.
+
+574
+00:37:28,191 --> 00:37:29,205
+Por quê?
+
+575
+00:37:31,983 --> 00:37:33,086
+Eu não sei.
+
+576
+00:37:35,480 --> 00:37:37,226
+Mas é algo a se considerar.
+
+577
+00:37:38,789 --> 00:37:41,711
+Porque mesmo entre as coisas sombrias,
+
+578
+00:37:43,788 --> 00:37:45,386
+há algo quebrado em mim.
+
+579
+00:37:46,939 --> 00:37:49,366
+Uma colisão em mim,
+como se eu quisesse explodir.
+
+580
+00:37:50,502 --> 00:37:54,340
+Bem, exploda. Deixe tudo sair ou reprima.
+
+581
+00:37:54,341 --> 00:37:56,607
+Está tudo bem,
+então você ficará bem de novo.
+
+582
+00:37:56,608 --> 00:37:59,912
+E então, exploda.
+Fique bem, e então exploda, e...
+
+583
+00:38:01,467 --> 00:38:04,600
+Você se acostuma, é como o clima.
+
+584
+00:38:09,695 --> 00:38:11,189
+Você tem sangue no seu...
+
+585
+00:38:12,182 --> 00:38:13,803
+Eu sangrei.
+
+586
+00:38:14,969 --> 00:38:17,409
+Não se mova muito,
+por causa dos alfinetes.
+
+587
+00:38:17,989 --> 00:38:19,921
+Estou deixando um rastro.
+
+588
+00:38:20,532 --> 00:38:22,214
+Sou Gretel!
+
+589
+00:38:26,181 --> 00:38:27,424
+<i>Claudia!</i>
+
+590
+00:38:27,777 --> 00:38:30,308
+A peça é um sucesso.
+A peça é o nosso disfarce.
+
+591
+00:38:30,309 --> 00:38:33,278
+- Me diga de novo o que é.
+- Todos nós nos humilhamos.
+
+592
+00:38:33,279 --> 00:38:36,197
+Me diga de novo como o Sam
+limpa o palco após cada peça,
+
+593
+00:38:36,199 --> 00:38:39,509
+- e direi o que prefiro fazer.
+- É a única com físico de criança.
+
+594
+00:38:39,511 --> 00:38:42,553
+A plateia não liga.
+A Tuan poderia interpretar esse papel.
+
+595
+00:38:42,554 --> 00:38:44,321
+Eles só querem ver a bola quicando.
+
+596
+00:38:44,322 --> 00:38:47,225
+- É fingir por 15 minutos.
+- São 15 minutos degradantes.
+
+597
+00:38:47,226 --> 00:38:49,727
+Eu gostaria de sair do palco no meio,
+mas não saio.
+
+598
+00:38:49,728 --> 00:38:53,474
+Eu gostaria de atacar
+os membros da plateia, mas não ataco.
+
+599
+00:38:53,476 --> 00:38:55,734
+Você deixou o sacrifício
+no chão do camarim.
+
+600
+00:38:55,735 --> 00:38:57,655
+Honramos o sangue quando o rejeitamos.
+
+601
+00:38:57,657 --> 00:38:59,638
+Você o rejeita para não ser pego.
+
+602
+00:38:59,639 --> 00:39:02,207
+Vamos lá. Eu perdi uma tarefa
+e fiz uma amiga.
+
+603
+00:39:02,208 --> 00:39:05,109
+E antes que me diga para fazer
+amigos no clã, não posso.
+
+604
+00:39:05,110 --> 00:39:07,678
+Porque se fecharam
+há muito tempo e você sabe disso!
+
+605
+00:39:07,679 --> 00:39:12,183
+- Por isso você corre para o Louis!
+- Eu te deixei falar e reclamar.
+
+606
+00:39:12,184 --> 00:39:17,199
+A maioria na minha posição não te trataria
+melhor do que você tratou o seu criador.
+
+607
+00:39:19,460 --> 00:39:22,418
+Vamos combinar que, daqui para frente,
+
+608
+00:39:22,791 --> 00:39:27,310
+você fará mais do que o mínimo,
+dentro e fora do palco.
+
+609
+00:39:28,266 --> 00:39:29,925
+E a amiga que você fez,
+
+610
+00:39:31,058 --> 00:39:32,645
+você não a verá de novo.
+
+611
+00:39:33,472 --> 00:39:34,497
+Certo?
+
+612
+00:39:38,297 --> 00:39:40,605
+Há sujeira no chão do camarim.
+Cuide disso.
+
+613
+00:39:49,286 --> 00:39:53,999
+Velho demais para interpretar Hamlet,
+jovem demais para interpretar Polônio.
+
+614
+00:39:55,287 --> 00:39:57,006
+Saiba o seu papel, ator.
+
+615
+00:39:57,594 --> 00:40:00,021
+Ou junte-se ao seu criador
+no esquecimento.
+
+616
+00:40:12,337 --> 00:40:14,851
+Não pode ver isso
+como desperdício de tempo, Louis.
+
+617
+00:40:14,852 --> 00:40:18,649
+O que são dois anos?
+Eu fingi ser ator por dois anos.
+
+618
+00:40:18,650 --> 00:40:21,519
+E o seu flerte
+com aquele duende manipulador?
+
+619
+00:40:21,520 --> 00:40:22,559
+Bem,
+
+620
+00:40:23,004 --> 00:40:25,863
+o que é a vida de vampiro
+senão más decisões,
+
+621
+00:40:25,864 --> 00:40:27,336
+ao lado de melhores.
+
+622
+00:40:27,338 --> 00:40:30,228
+<i>- Louis!</i>
+- Falando em más decisões.
+
+623
+00:40:30,229 --> 00:40:31,381
+Louis!
+
+624
+00:40:31,697 --> 00:40:33,820
+O Armand sabe tudo sobre o Lestat.
+
+625
+00:40:34,866 --> 00:40:36,500
+Há quanto tempo ele sabe?
+
+626
+00:40:38,783 --> 00:40:40,995
+- O tempo todo.
+- O quê?
+
+627
+00:40:40,997 --> 00:40:43,241
+Ele leu as nossas mentes,
+na primeira noite.
+
+628
+00:40:43,603 --> 00:40:46,444
+Mas você coloriu para ele,
+pintou um quadro?
+
+629
+00:40:46,446 --> 00:40:48,648
+Quem envenenou, quem cortou a garganta.
+
+630
+00:40:48,650 --> 00:40:49,833
+Pode confiar no Armand.
+
+631
+00:40:49,834 --> 00:40:53,733
+E aquela história de eu e você,
+você e eu, eu e você?
+
+632
+00:40:53,734 --> 00:40:55,677
+Nova Orleans, infeliz.
+
+633
+00:40:55,679 --> 00:40:58,390
+Pátria dos vampiros, infeliz.
+
+634
+00:40:58,392 --> 00:41:00,585
+Paris, infeliz.
+
+635
+00:41:00,586 --> 00:41:03,595
+Com o clã, você está radiante
+como se o mundo fosse colorido.
+
+636
+00:41:03,597 --> 00:41:05,000
+O que houve sem mim aqui?
+
+637
+00:41:05,002 --> 00:41:06,438
+Não queria estragar tudo,
+
+638
+00:41:06,440 --> 00:41:09,020
+- pois ele não traiu nossa confiança
+- Perseguindo!
+
+639
+00:41:09,022 --> 00:41:10,600
+Nem contou nosso segredo.
+
+640
+00:41:10,602 --> 00:41:13,023
+Exceto que ele
+acabou de me ameaçar com isso!
+
+641
+00:41:15,199 --> 00:41:18,514
+- Não parece algo que ele faria.
+- Não parece algo que ele faria?
+
+642
+00:41:18,916 --> 00:41:20,194
+Esqueci!
+
+643
+00:41:20,514 --> 00:41:22,694
+O amor deixa você burro.
+
+644
+00:41:23,006 --> 00:41:25,915
+Torna você inconstante, fraco e cego.
+
+645
+00:41:25,918 --> 00:41:28,329
+Vou adivinhar,
+ele é seu companheiro, finalmente?
+
+646
+00:41:29,707 --> 00:41:34,355
+Que bom que ele está fodendo você!
+Você e ele! Ele e você!
+
+647
+00:41:34,357 --> 00:41:36,600
+Você e o sexo com ele!
+
+648
+00:41:36,913 --> 00:41:39,441
+Escolheu outro em vez de mim!
+
+649
+00:41:39,443 --> 00:41:41,512
+Você escolheu o clã!
+
+650
+00:41:41,793 --> 00:41:43,661
+Você me deixou!
+
+651
+00:41:43,663 --> 00:41:45,629
+Assuma a sua decisão, irmã!
+
+652
+00:41:45,631 --> 00:41:46,822
+Assuma!
+
+653
+00:41:59,685 --> 00:42:02,112
+A nossa filha é selvagem.
+
+654
+00:42:18,883 --> 00:42:20,101
+Vamos caçar?
+
+655
+00:42:28,499 --> 00:42:31,380
+- Varanda no terceiro andar.
+- Fique atento.
+
+656
+00:42:31,382 --> 00:42:33,214
+Olhos, ouvidos e mentes.
+
+657
+00:42:51,108 --> 00:42:52,909
+O que estamos caçando, <i>mon cher</i>?
+
+658
+00:42:53,221 --> 00:42:55,220
+Do que estamos com fome, Lestat?
+
+659
+00:42:55,787 --> 00:42:57,375
+A escolha da cidade.
+
+660
+00:42:57,809 --> 00:42:59,410
+A escolha, escolha, escolha.
+
+661
+00:43:00,004 --> 00:43:04,284
+Um casal, um casal ilícito,
+em busca de uma traição.
+
+662
+00:43:04,797 --> 00:43:09,118
+Sua esposa e seu marido
+cochilando em suas camas ignorantes.
+
+663
+00:43:10,198 --> 00:43:12,184
+Jogue-os no fogo.
+
+664
+00:43:12,577 --> 00:43:15,283
+Deixe seus filhos atenderem
+uma batida na porta.
+
+665
+00:43:15,285 --> 00:43:18,131
+Um policial de rosto pálido,
+uma carona até o necrotério.
+
+666
+00:43:18,895 --> 00:43:20,122
+É, tudo isso.
+
+667
+00:43:21,612 --> 00:43:22,701
+Sente-se.
+
+668
+00:43:26,090 --> 00:43:27,126
+Caçar mais tarde?
+
+669
+00:43:28,873 --> 00:43:31,019
+Isso, vamos caçar mais tarde.
+
+670
+00:43:53,497 --> 00:43:54,610
+Punheteiro.
+
+671
+00:43:57,302 --> 00:43:58,587
+Você o chamou?
+
+672
+00:43:59,784 --> 00:44:00,808
+Chamei.
+
+673
+00:44:03,775 --> 00:44:05,804
+Você vai terminar com ele, não é?
+
+674
+00:44:07,966 --> 00:44:09,012
+Vou.
+
+675
+00:44:10,289 --> 00:44:12,825
+Bem, tinha que acontecer.
+
+676
+00:44:13,484 --> 00:44:16,793
+Condenado, sempre condenado.
+
+677
+00:44:17,469 --> 00:44:19,505
+Bem, estou feliz que você tenha tentado.
+
+678
+00:44:20,505 --> 00:44:21,705
+Não, você não está.
+
+679
+00:44:22,600 --> 00:44:24,433
+É o que você queria que eu dissesse.
+
+680
+00:44:25,189 --> 00:44:27,518
+E você diz o que quero que diga agora.
+
+681
+00:44:28,684 --> 00:44:29,709
+Eu digo?
+
+682
+00:44:29,711 --> 00:44:31,308
+- Diga "maçã".
+- Maçã.
+
+683
+00:44:31,310 --> 00:44:32,704
+Diga isso em francês.
+
+684
+00:44:34,106 --> 00:44:35,219
+<i>La pomme.</i>
+
+685
+00:44:47,993 --> 00:44:50,216
+Não vamos caçar, vamos?
+
+686
+00:44:52,457 --> 00:44:53,497
+Não.
+
+687
+00:45:00,913 --> 00:45:02,337
+Por que esse terno?
+
+688
+00:45:03,896 --> 00:45:05,623
+É o meu favorito em você.
+
+689
+00:45:05,625 --> 00:45:06,850
+Sério?
+
+690
+00:45:06,852 --> 00:45:08,331
+Eu não sabia disso.
+
+691
+00:45:18,582 --> 00:45:20,517
+Ele é muito bom, suponho.
+
+692
+00:45:22,000 --> 00:45:24,916
+Lã espinha de peixe, gola entalhada.
+
+693
+00:45:28,000 --> 00:45:29,326
+Você pode não saber disso,
+
+694
+00:45:29,327 --> 00:45:32,112
+mas pedi ao alfaiate
+que escrevesse as suas iniciais
+
+695
+00:45:33,679 --> 00:45:35,711
+no verso do bolso.
+
+696
+00:45:40,076 --> 00:45:41,299
+Bem aqui.
+
+697
+00:45:46,297 --> 00:45:50,405
+Então, o seu nome sempre embalaria...
+
+698
+00:46:08,173 --> 00:46:09,421
+Você me chamou.
+
+699
+00:46:09,794 --> 00:46:11,329
+Eu senti o seu pânico.
+
+700
+00:46:13,104 --> 00:46:14,635
+O centro não está aguentando.
+
+701
+00:46:15,914 --> 00:46:17,341
+Um motim está se formando.
+
+702
+00:46:19,104 --> 00:46:21,707
+Cada um fazendo o que quer, quando quer.
+
+703
+00:46:22,407 --> 00:46:23,813
+Todos menos você.
+
+704
+00:46:27,212 --> 00:46:29,822
+Não tenho certeza se posso continuar
+sendo obedecido.
+
+705
+00:46:31,474 --> 00:46:33,557
+- O Santiago quer...
+- Quer o seu emprego.
+
+706
+00:46:33,559 --> 00:46:35,720
+Outros o seguirão. Você deve...
+
+707
+00:46:37,241 --> 00:46:38,908
+- Deveria pensar em partir.
+- Não.
+
+708
+00:46:40,003 --> 00:46:41,714
+Vou ficar em Paris.
+
+709
+00:46:42,314 --> 00:46:43,498
+Com você.
+
+710
+00:46:43,796 --> 00:46:45,711
+E todos ficarão felizes.
+
+711
+00:46:45,712 --> 00:46:47,712
+- Louis.
+- Eu não sou um artista.
+
+712
+00:46:48,180 --> 00:46:50,207
+E não sei muito sobre teatro.
+
+713
+00:46:50,695 --> 00:46:53,713
+Mas eu costumava ser muito bom
+em administrar as coisas.
+
+714
+00:46:56,914 --> 00:46:58,120
+Estou um pouco molhado.
+
+715
+00:47:07,491 --> 00:47:09,992
+O Santiago quer ser líder do clã.
+
+716
+00:47:09,994 --> 00:47:11,681
+<i>- Dê o trabalho a ele.
+- Nunca.</i>
+
+717
+00:47:11,689 --> 00:47:13,115
+<i>- Observe-o falhar.
+- Nunca.</i>
+
+718
+00:47:13,117 --> 00:47:14,180
+<i>- Escute.
+- Não posso.</i>
+
+719
+00:47:14,182 --> 00:47:15,744
+<i>- Não vou ouvir.
+- Tudo bem.</i>
+
+720
+00:47:15,746 --> 00:47:17,606
+<i>Então jogue a ele pelo menos um osso.</i>
+
+721
+00:47:17,608 --> 00:47:19,921
+<i>Deixe-o sentir
+que é o seu herdeiro aparente.</i>
+
+722
+00:47:20,312 --> 00:47:24,229
+<i>Isso vai subir à cabeça dele
+e todos vão vê-lo como ele é.</i>
+
+723
+00:47:32,612 --> 00:47:36,313
+<i>E quando souberem que não têm alternativa,</i>
+
+724
+00:47:36,988 --> 00:47:38,497
+<i>vão implorar por sua volta.</i>
+
+725
+00:47:39,405 --> 00:47:42,412
+E aí você pode decidir se quer voltar.
+
+726
+00:47:43,485 --> 00:47:45,125
+Ou se quer outra coisa.
+
+727
+00:47:50,598 --> 00:47:51,904
+Quero você.
+
+728
+00:47:54,481 --> 00:47:56,880
+Quero você
+mais do que qualquer coisa no mundo.
+
+729
+00:47:57,599 --> 00:47:59,335
+Você tem certeza disso, Arun?
+
+730
+00:48:01,702 --> 00:48:02,897
+Sim, <i>Maitre</i>.
+
+731
+00:48:16,606 --> 00:48:17,692
+<i>Tuan?</i>
+
+732
+00:48:18,092 --> 00:48:19,819
+<i>Sentado em um banco.</i>
+
+733
+00:48:19,821 --> 00:48:21,505
+<i>Fumando.</i>
+
+734
+00:48:22,598 --> 00:48:23,836
+<i>Celeste?</i>
+
+735
+00:48:23,838 --> 00:48:26,209
+<i>Nada além de um homem
+passeando com um cachorro.</i>
+
+736
+00:48:26,211 --> 00:48:28,397
+<i>Um bêbado dormindo em seu automóvel.</i>
+
+737
+00:48:28,399 --> 00:48:30,512
+<i>Bom, muito bom.</i>
+
+738
+00:48:32,085 --> 00:48:36,902
+<i>Reúnam-se no teatro
+e cheguem em horários diferentes.</i>
+
+739
+00:48:37,215 --> 00:48:39,608
+<i>- Sim, Maitre.
+- Sim, Maitre.</i>
+
+740
+00:48:46,464 --> 00:48:49,615
+Quatro Fred Steins no álbum! Quatro!
+
+741
+00:48:49,617 --> 00:48:52,125
+- Me fez parecer tolo!
+- Você só acha que fui eu.
+
+742
+00:48:52,127 --> 00:48:53,320
+Bem, não fui eu!
+
+743
+00:48:53,828 --> 00:48:55,306
+Tem certeza disso?
+
+744
+00:48:55,999 --> 00:48:57,863
+- O que disse?
+- Retiro o que disse.
+
+745
+00:48:57,865 --> 00:48:59,161
+Retira para cacete!
+
+746
+00:48:59,163 --> 00:49:01,504
+Os empregados devem ter misturado
+sem intenção!
+
+747
+00:49:01,506 --> 00:49:04,406
+Acha que preciso ser mimado,
+exaltado, enganado?
+
+748
+00:49:05,491 --> 00:49:06,491
+CLÃ DE ROMA
+
+749
+00:49:21,692 --> 00:49:26,506
+<i>Mesmo chorando,
+uma lasca de frieza em você.</i>
+
+750
+00:49:26,508 --> 00:49:29,110
+É isso que faz você ser fascinante?
+
+751
+00:49:35,497 --> 00:49:37,023
+<i>Não tenha medo.</i>
+
+752
+00:49:38,094 --> 00:49:39,694
+Basta iniciar a fita.
+
+753
+00:49:41,515 --> 00:49:44,401
+<i>Nem sempre você foi um vampiro, foi?</i>
+
+754
+00:49:44,403 --> 00:49:46,337
+SÃO FRANCISCO
+
+755
+00:49:46,339 --> 00:49:47,658
+<i>Não.</i>
+
+756
+00:49:47,660 --> 00:49:51,608
+<i>Eu era um homem de 33 anos
+quando me tornei um vampiro.</i>
+
+757
+00:49:54,873 --> 00:49:56,506
+<i>E como aconteceu?</i>
+
+758
+00:50:07,981 --> 00:50:09,347
+ANO 1973 - KATHRYN MITCHELL
+
+759
+00:50:09,349 --> 00:50:10,749
+<i>Gostaria de se juntar a nós?</i>
+
+760
+00:50:11,301 --> 00:50:12,301
+<i>Não.</i>
+
+761
+00:50:13,283 --> 00:50:15,510
+Vão em frente, divirtam-se.
+
+762
+00:50:33,614 --> 00:50:35,781
+{\an8}RUA DIVISADERO, 503
+SETEMBRO DE 1973
+
+763
+00:50:50,988 --> 00:50:53,702
+{\an8}ENTREVISTA DE L E A
+COM D. MOLLOY, SETEMBRO DE 1973
+
+764
+00:50:56,296 --> 00:50:59,408
+{\an8}ENTREVISTA APRIMORADA DE L E A
+COM D. MOLLOY, SETEMBRO DE 1973
+
+765
+00:51:00,632 --> 00:51:02,291
+<i>Quer dizer, você esqueceu, cara.</i>
+
+766
+00:51:02,293 --> 00:51:05,723
+<i>Quer dizer, não entende
+o significado da sua própria história.</i>
+
+767
+00:51:07,485 --> 00:51:09,119
+<i>Pare!</i>
+
+768
+00:51:12,186 --> 00:51:13,264
+<i>Louis.</i>
+
+769
+00:51:23,907 --> 00:51:26,360
+<i>- O quê?
+- Bom dia.</i>
+
+770
+00:51:26,362 --> 00:51:27,794
+<i>Perdi a hora.</i>
+
+771
+00:51:28,786 --> 00:51:32,410
+<i>- As coisas esquentaram um pouco.
+- Com um cara. Esquentaram com um cara.</i>
+
+772
+00:51:33,308 --> 00:51:34,614
+<i>Estava em casa colhendo...</i>
+
+773
+00:51:37,215 --> 00:51:38,808
+<i>São Francisco.</i>
+
+774
+00:51:40,601 --> 00:51:43,406
+Quero saber o que aconteceu entre nós.
+
+775
+00:51:43,408 --> 00:51:44,570
+NO PRÓXIMO EPISÓDIO
+
+776
+00:51:44,572 --> 00:51:45,784
+<i>Inicie a fita.</i>
+
+777
+00:51:45,786 --> 00:51:47,820
+Quero te contar a história real.
+
+778
+00:51:48,418 --> 00:51:51,011
+Com que frequência o Armand
+poupou uma vida?
+
+779
+00:51:51,309 --> 00:51:53,302
+Não consigo sentir o meu corpo.
+
+780
+00:51:53,711 --> 00:51:55,095
+Sei onde ele está.
+
+781
+00:51:57,187 --> 00:51:59,220
+Estou me lembrando disso agora.
+
+782
+00:51:59,222 --> 00:52:01,817
+<i><b>Quer legendar conosco?
+www.griotsteam.weebly.com</b></i>
+
+783
+00:52:01,819 --> 00:52:03,523
+<i><b>GRIOTS
+Um novo conceito em legendas</b></i>
+
+784
+00:52:03,525 --> 00:52:05,391
+<i><b>Siga nossas redes sociais:
+@griotsteam</b></i>
